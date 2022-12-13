@@ -1,0 +1,4731 @@
+d000.s117.t0 inaccurate%3:00:00::
+d000.s116.t0 inaccurate%3:00:00::
+d000.s109.t0 also%4:02:00::
+d000.s109.t1 
+d000.s33.t2 repeatedly%4:02:00::
+d000.s36.t7 repeat%1:11:00::
+d000.s116.t5 june%1:28:00::
+d000.s45.t7 hugely%4:02:00::
+d000.s65.t10 correctly%4:02:01::
+d000.s123.t6 perpetrator%1:18:00::
+d000.s81.t9 police%1:14:00::
+d000.s124.t6 perpetrator%1:18:00::
+d000.s26.t9 so-called%5:00:00:questionable:00
+d000.s33.t4 drunk%1:18:01::
+d000.s47.t0 also%4:02:00::
+d000.s55.t5 darkening%1:04:00::
+d000.s10.t10 not%4:02:00::
+d000.s10.t12 artifact%1:03:00::
+d000.s65.t4 top%3:00:00::
+d000.s33.t13 monday%1:28:00::
+d000.s55.t7 giant%5:00:00:large:00
+d000.s117.t1 description%1:10:01::
+d000.s59.t10 also%4:02:00::
+d000.s85.t7 
+d000.s116.t1 description%1:10:01::
+d000.s26.t10 highway%1:06:00::
+d000.s59.t5 someone%1:03:00::
+d000.s59.t19 someone%1:03:00::
+d000.s61.t14 ideally%4:02:00::
+d000.s80.t0 rcmp%1:14:00::
+d000.s80.t8 rcmp%1:14:00::
+d000.s81.t14 shooting%1:04:01::
+d000.s87.t11 
+d000.s117.t8 inquiry%1:10:01::
+d000.s125.t7 exist%2:42:00::
+d000.s10.t5 hitler%1:18:00::
+d000.s26.t2 expose%1:10:00::
+d000.s55.t6 sky%1:17:00::
+d000.s61.t7 wedded%5:00:00:married:00
+d000.s61.t18 brusquely%4:02:00::
+d000.s82.t13 initial%5:00:00:first:00
+d000.s85.t6 stephen%1:18:00::
+d000.s121.t10 revisit%2:38:00::
+d000.s125.t14 as%4:02:00::
+d000.s33.t10 legislation%1:10:00::
+d000.s39.t5 obese%5:00:00:fat:01
+d000.s45.t2 obvious%3:00:00::
+d000.s47.t4 exhausting%5:00:00:debilitating:00
+d000.s58.t20 crucially%4:02:00::
+d000.s65.t11 
+d000.s80.t1 commissioner%1:18:01::
+d000.s83.t2 senator%1:18:00::
+d000.s85.t1 retaliation%1:04:00::
+d000.s115.t7 unavailable%3:00:00::
+d000.s21.t8 again%4:02:00::
+d000.s61.t4 such%5:00:00:much:00
+d000.s82.t8 april%1:28:00::
+d000.s84.t1 also%4:02:00::
+d000.s121.t18 specifically%4:02:00::
+d000.s39.t19 overweight%1:07:00::
+d000.s80.t12 shooting%1:04:01::
+d000.s83.t5 rcmp%1:14:00::
+d000.s92.t12 
+d000.s118.t1 july%1:28:00::
+d000.s21.t0 
+d000.s26.t5 journalist%1:18:00::
+d000.s87.t3 
+d000.s36.t10 road%1:06:00::
+d000.s44.t19 
+d000.s45.t12 austerity%1:07:01::
+d000.s55.t10 
+d000.s59.t3 not%4:02:00::
+d000.s59.t12 properly%4:02:00::
+d000.s69.t10 not%4:02:00::
+d000.s74.t4 next%4:02:00::
+d000.s74.t13 complexity%1:07:00::
+d000.s74.t18 such%5:00:00:much:00
+d000.s84.t3 senator%1:18:00::
+d000.s84.t12 coming%5:00:01:future:00
+d000.s116.t7 timeline%1:10:00::
+d000.s123.t2 psychological%5:00:00:mental:00
+d000.s1.t20 luftwaffe%1:14:00::
+d000.s21.t4 
+d000.s21.t21 police%1:14:00::
+d000.s26.t12 byron%1:18:00::
+d000.s61.t0 otherwise%4:02:01::
+d000.s63.t12 
+d000.s63.t20 offensive%1:04:00::
+d000.s81.t10 investigation%1:09:00::
+d000.s118.t0 5th%5:00:00:ordinal:00
+d000.s123.t5 victim%1:18:00::
+d000.s35.t7 repeat%1:11:00::
+d000.s36.t0 urge%2:32:00::
+d000.s45.t6 
+d000.s45.t16 sustained%5:00:02:continuous:01
+d000.s47.t5 poverty%1:26:00::
+d000.s63.t8 two-year%3:00:04::
+d000.s83.t8 shooting%1:04:01::
+d000.s124.t2 investigation%1:09:00::
+d000.s124.t13 investigation%1:04:00::
+d000.s25.t20 beck%1:10:00::
+d000.s37.t0 
+d000.s41.t8 advertising%1:10:00::
+d000.s58.t22 respect%2:41:00::
+d000.s81.t2 commission%2:41:00::
+d000.s83.t18 michael%1:18:00::
+d000.s124.t5 victim%1:18:00::
+d000.s34.t18 prior%5:00:00:antecedent:00
+d000.s42.t2 not%4:02:00::
+d000.s66.t8 
+d000.s74.t20 
+d000.s81.t5 andrew%1:18:00::
+d000.s109.t9 
+d000.s1.t19 
+d000.s25.t11 officer%2:32:00::
+d000.s29.t5 beck%1:10:00::
+d000.s33.t9 decade%1:28:00::
+d000.s34.t25 repeat%1:11:00::
+d000.s37.t1 
+d000.s37.t18 californian%1:18:00::
+d000.s38.t0 legislation%1:10:00::
+d000.s39.t9 slightly%4:02:01::
+d000.s42.t21 sometimes%4:02:01::
+d000.s47.t2 factor%2:40:00::
+d000.s68.t2 messy%5:00:00:untidy:00
+d000.s93.t5 bizarre%5:00:00:unconventional:01
+d000.s118.t4 
+d000.s123.t7 
+d000.s1.t14 hole%2:35:00::
+d000.s5.t4 hitler%1:18:00::
+d000.s21.t15 fascist%1:18:00::
+d000.s33.t12 governor%1:18:00::
+d000.s37.t2 
+d000.s37.t15 
+d000.s42.t11 too%4:02:01::
+d000.s44.t4 underprivileged%3:00:00::
+d000.s54.t10 only%5:00:00:exclusive:00
+d000.s56.t11 
+d000.s58.t16 staged%5:00:00:artificial:00
+d000.s86.t12 
+d000.s93.t26 kenyan%1:18:00::
+d000.s21.t7 once%4:02:00::
+d000.s37.t11 one-third%1:23:00::
+d000.s45.t8 problem%1:26:00::
+d000.s55.t8 candlesnuffer%1:06:00::
+d000.s56.t9 usual%5:00:00:familiar:02
+d000.s60.t9 challenge%2:32:01::
+d000.s65.t1 
+d000.s79.t0 
+d000.s79.t13 international%1:14:00::
+d000.s80.t13 will%2:32:00::
+d000.s83.t12 inside%4:02:00::
+d000.s86.t1 officially%4:02:00::
+d000.s89.t11 overwhelmingly%4:02:00::
+d000.s90.t12 accelerate%2:30:00::
+d000.s118.t12 
+d000.s123.t12 available%3:00:00::
+d000.s25.t2 highway%1:06:00::
+d000.s25.t9 
+d000.s39.t6 overweight%5:00:00:fat:01
+d000.s44.t3 uncaring%5:00:00:inconsiderate:00
+d000.s47.t13 need%2:34:00::
+d000.s56.t8 
+d000.s57.t6 
+d000.s60.t8 then%4:02:02::
+d000.s75.t7 unprecedented%3:00:00::
+d000.s82.t2 investigation%1:09:00::
+d000.s86.t21 not%4:02:00::
+d000.s89.t24 craft%2:36:00::
+d000.s93.t27 tech%1:14:00::
+d000.s1.t4 hitler%1:18:00::
+d000.s6.t20 
+d000.s21.t1 solidarity%1:07:00::
+d000.s36.t8 
+d000.s47.t10 
+d000.s60.t6 speak%2:32:01::
+d000.s69.t20 
+d000.s75.t2 
+d000.s118.t5 
+d000.s121.t20 ensure%2:31:00::
+d000.s124.t0 
+d000.s0.t6 
+d000.s3.t6 hitler%1:18:00::
+d000.s34.t1 assemblyman%1:18:00::
+d000.s34.t2 jerry%1:18:00::
+d000.s35.t20 third%5:00:00:ordinal:00
+d000.s41.t6 junk%1:27:00::
+d000.s41.t12 most%4:02:01::
+d000.s44.t16 especially%4:02:00::
+d000.s48.t7 not%4:02:00::
+d000.s54.t7 blatant%5:00:00:unconcealed:00
+d000.s65.t3 list%1:10:00::
+d000.s94.t12 enjoyable%5:00:00:pleasant:00
+d000.s1.t15 pit%2:30:00::
+d000.s3.t13 tradition%1:09:01::
+d000.s6.t17 
+d000.s21.t10 public%1:14:00::
+d000.s38.t5 california%1:15:00::
+d000.s42.t4 much%3:00:00::
+d000.s61.t11 fearless%5:00:00:bold:00
+d000.s75.t3 top%3:00:00::
+d000.s89.t12 
+d000.s92.t4 please%2:37:03::
+d000.s109.t2 independence%1:26:00::
+d000.s4.t18 ferociously%4:02:00::
+d000.s14.t11 dieter%1:18:00::
+d000.s21.t3 immigrant%1:18:00::
+d000.s30.t0 beck%1:10:00::
+d000.s35.t16 
+d000.s51.t8 nike%1:18:00::
+d000.s55.t1 week%1:28:00::
+d000.s58.t13 spontaneous%3:00:00::
+d000.s62.t4 not%4:02:00::
+d000.s66.t3 first%4:02:02::
+d000.s66.t9 first%4:02:02::
+d000.s68.t13 sometimes%4:02:01::
+d000.s69.t7 programming%1:04:00::
+d000.s79.t5 lecturer%1:18:01::
+d000.s82.t19 public%3:00:00::
+d000.s92.t7 urge%2:32:03::
+d000.s116.t8 actually%4:02:01::
+d000.s7.t1 
+d000.s25.t7 shootout%1:04:00::
+d000.s26.t0 several%5:00:00:some:00
+d000.s41.t13 productive%5:00:00:successful:00
+d000.s42.t12 often%4:02:01::
+d000.s54.t5 philosophical%3:01:00::
+d000.s58.t14 therefore%4:02:00::
+d000.s66.t16 progress%1:04:00::
+d000.s69.t17 problem%1:09:00::
+d000.s86.t5 
+d000.s106.t13 inaction%1:26:00::
+d000.s121.t11 sexual%3:00:00::
+d000.s121.t19 need%2:42:00::
+d000.s4.t26 premium%5:00:00:superior:02
+d000.s21.t11 playground%1:06:00::
+d000.s28.t8 also%4:02:00::
+d000.s29.t13 advocate%2:32:00::
+d000.s30.t9 reportedly%4:02:00::
+d000.s51.t9 ambassador%1:18:01::
+d000.s59.t21 idiotic%5:00:00:insane:00
+d000.s62.t21 
+d000.s80.t16 week%1:28:00::
+d000.s84.t17 immediately%4:02:00::
+d000.s85.t12 iraq%1:15:00::
+d000.s90.t6 firm%1:14:00::
+d000.s91.t16 successful%3:00:00::
+d000.s92.t13 broaden%2:30:01::
+d000.s93.t1 
+d000.s94.t2 september%1:28:00::
+d000.s94.t29 not%4:02:00::
+d000.s3.t18 slowly%4:02:02::
+d000.s4.t11 officially%4:02:01::
+d000.s34.t8 revoke%2:32:00::
+d000.s40.t1 startlingly%4:02:00::
+d000.s40.t14 obese%5:00:00:fat:01
+d000.s57.t11 bunch%1:14:01::
+d000.s57.t22 
+d000.s58.t19 pompous%5:00:00:pretentious:00
+d000.s75.t17 israeli%3:01:00::
+d000.s77.t16 such%5:00:00:much:00
+d000.s84.t5 will%2:32:00::
+d000.s85.t11 troops%1:14:00::
+d000.s89.t16 
+d000.s89.t28 auto%1:06:00::
+d000.s121.t12 harassment%1:04:00::
+d000.s121.t14 evaluate%2:31:00::
+d000.s5.t1 publish%2:36:01::
+d000.s7.t18 illegal%3:00:00::
+d000.s30.t16 june%1:28:00::
+d000.s30.t18 june%1:28:00::
+d000.s30.t23 june%1:28:00::
+d000.s35.t1 
+d000.s38.t6 
+d000.s39.t11 starting%5:00:00:protrusive:00
+d000.s53.t14 simultaneously%4:02:00::
+d000.s54.t11 mystery%1:09:00::
+d000.s63.t16 
+d000.s74.t5 past%3:00:00::
+d000.s97.t0 also%4:02:00::
+d000.s97.t31 also%4:02:00::
+d000.s118.t6 week%1:28:00::
+d000.s1.t9 litter%2:42:00::
+d000.s6.t22 necessary%3:00:00::
+d000.s25.t12 earlier%4:02:02::
+d000.s28.t27 key%5:00:00:important:00
+d000.s30.t5 schoolteacher%1:18:00::
+d000.s37.t8 
+d000.s37.t16 total%5:00:00:whole:00
+d000.s44.t6 encourage%2:32:00::
+d000.s56.t13 welfare%1:07:00::
+d000.s59.t14 
+d000.s63.t1 
+d000.s63.t5 outfielder%1:18:00::
+d000.s66.t18 
+d000.s75.t4 un%1:14:00::
+d000.s75.t10 un%1:14:00::
+d000.s84.t4 mounties%1:14:00::
+d000.s98.t4 
+d000.s121.t4 poorly%4:02:00::
+d000.s125.t5 policy%1:09:00::
+d000.s0.t4 hitler%1:18:00::
+d000.s3.t23 object%2:32:00::
+d000.s14.t4 publishing%1:04:00::
+d000.s35.t10 road%1:06:00::
+d000.s37.t9 california%1:15:00::
+d000.s41.t1 statistic%1:09:00::
+d000.s44.t10 simply%4:02:03::
+d000.s51.t11 
+d000.s60.t10 debate%1:10:01::
+d000.s62.t5 compromise%1:04:00::
+d000.s62.t22 bigot%1:18:00::
+d000.s66.t19 courtesy%1:04:00::
+d000.s77.t0 lack%1:26:00::
+d000.s89.t19 month%1:28:01::
+d000.s92.t3 interview%1:10:01::
+d000.s94.t11 mostly%4:02:03::
+d000.s115.t1 mention%1:10:01::
+d000.s119.t26 definitely%4:02:00::
+d000.s125.t0 
+d000.s2.t22 
+d000.s4.t14 suicide%1:04:00::
+d000.s5.t10 google%1:10:00::
+d000.s6.t23 once%4:02:02::
+d000.s7.t8 bavarian%3:01:00::
+d000.s7.t22 bavarian%3:01:00::
+d000.s35.t12 
+d000.s38.t16 
+d000.s48.t14 stew%1:13:00::
+d000.s48.t18 often%4:02:00::
+d000.s57.t5 
+d000.s86.t24 own%5:00:00:personal:00
+d000.s89.t18 earlier%4:02:04::
+d000.s94.t19 environment%1:26:00::
+d000.s97.t4 physically%4:02:00::
+d000.s97.t37 mid-march%1:28:00::
+d000.s109.t7 matter%1:09:01::
+d000.s111.t19 incident%1:11:00::
+d000.s113.t1 extensively%4:02:00::
+d000.s120.t5 
+d000.s125.t9 
+d000.s0.t22 copyright%1:10:00::
+d000.s2.t10 autobiography%1:10:00::
+d000.s4.t10 hitler%1:18:00::
+d000.s6.t14 professor%1:18:00::
+d000.s13.t9 emotion%1:12:00::
+d000.s15.t13 legalize%2:41:00::
+d000.s25.t8 california%1:15:00::
+d000.s57.t21 widely%4:02:00::
+d000.s77.t21 palestinian%3:01:00::
+d000.s85.t2 afghanistan%1:15:00::
+d000.s87.t7 
+d000.s93.t0 past%3:00:00::
+d000.s98.t11 incident%1:11:00::
+d000.s111.t9 complex%3:00:00::
+d000.s111.t16 employee%1:18:00::
+d000.s111.t18 kenyan%1:18:00::
+d000.s111.t28 kenyan%1:18:00::
+d000.s120.t36 such%5:00:00:much:00
+d000.s3.t11 become%2:42:01::
+d000.s3.t24 
+d000.s21.t6 
+d000.s26.t8 
+d000.s35.t18 
+d000.s40.t19 affluent%5:00:00:rich:00
+d000.s42.t6 junk%1:27:00::
+d000.s42.t14 junk%1:27:00::
+d000.s42.t19 junk%1:27:00::
+d000.s43.t12 say%1:26:00::
+d000.s45.t1 
+d000.s53.t10 not%4:02:00::
+d000.s53.t20 sportswear%1:06:00::
+d000.s53.t28 
+d000.s55.t0 
+d000.s55.t11 wick%1:06:00::
+d000.s59.t8 talk%2:32:01::
+d000.s77.t14 recent%5:00:00:new:00
+d000.s77.t22 citizen%1:18:00::
+d000.s86.t0 canada%1:15:00::
+d000.s89.t8 
+d000.s89.t29 
+d000.s97.t12 bacterial%3:01:00::
+d000.s98.t5 therapist%1:18:00::
+d000.s98.t9 psychosomatic%5:00:00:neurotic:00
+d000.s106.t10 deeply%4:02:00::
+d000.s111.t13 
+d000.s0.t20 bavaria%1:15:00::
+d000.s1.t13 bullet%1:06:00::
+d000.s2.t17 
+d000.s4.t16 copyright%1:10:00::
+d000.s9.t27 spokesman%1:18:00::
+d000.s11.t6 
+d000.s11.t13 forbidden%5:00:00:impermissible:00
+d000.s28.t14 right-wing%5:00:00:right:03
+d000.s29.t2 
+d000.s42.t10 rather%4:02:04::
+d000.s45.t0 contrary%5:00:00:different:00
+d000.s48.t13 lovely%5:00:00:lovable:00
+d000.s51.t4 finally%4:02:02::
+d000.s55.t4 terrible%5:00:00:alarming:00
+d000.s59.t17 even%4:02:00::
+d000.s63.t10 mutual%5:00:00:shared:00
+d000.s68.t7 inconsistent%3:00:00::
+d000.s75.t16 
+d000.s84.t13 
+d000.s93.t10 benefit%1:07:00::
+d000.s97.t8 advice%1:10:00::
+d000.s97.t21 advice%1:10:00::
+d000.s97.t36 february%1:28:00::
+d000.s102.t36 genitalia%1:08:00::
+d000.s102.t42 genitals%1:08:00::
+d000.s113.t33 already%4:02:00::
+d000.s116.t4 evidence%1:09:00::
+d000.s116.t9 transpire%2:30:01::
+d000.s119.t1 july%1:28:00::
+d000.s119.t12 not%4:02:00::
+d000.s119.t17 not%4:02:00::
+d000.s119.t24 july%1:28:00::
+d000.s119.t27 not%4:02:00::
+d000.s119.t37 july%1:28:00::
+d000.s120.t9 kenyan%1:18:00::
+d000.s120.t26 not%4:02:00::
+d000.s2.t21 
+d000.s3.t0 germany%1:15:00::
+d000.s14.t28 german%3:01:00::
+d000.s15.t12 initiative%5:00:00:opening:00
+d000.s17.t2 
+d000.s17.t9 
+d000.s32.t23 beck%1:10:00::
+d000.s38.t17 
+d000.s39.t7 
+d000.s39.t13 
+d000.s40.t4 
+d000.s43.t26 fizzy%5:00:00:effervescent:00
+d000.s53.t29 longevity%1:07:00::
+d000.s60.t5 people%1:14:00::
+d000.s68.t22 programming%1:04:00::
+d000.s79.t14 
+d000.s92.t10 donation%1:21:00::
+d000.s93.t4 most%4:02:00::
+d000.s97.t17 not%4:02:00::
+d000.s97.t24 therapist%1:18:00::
+d000.s106.t30 
+d000.s111.t26 
+d000.s4.t8 bavaria%1:15:00::
+d000.s12.t2 soon%4:02:00::
+d000.s12.t38 thereafter%4:02:00::
+d000.s25.t19 glenn%1:18:00::
+d000.s29.t7 never%4:02:00::
+d000.s29.t12 never%4:02:00::
+d000.s29.t17 never%4:02:01::
+d000.s36.t1 
+d000.s43.t25 notorious%5:00:00:disreputable:00
+d000.s94.t16 team%1:14:00::
+d000.s102.t6 eleven%5:00:00:cardinal:00
+d000.s119.t35 sent%1:23:00::
+d000.s120.t7 tech%1:14:00::
+d000.s120.t31 ostensibly%4:02:00::
+d000.s0.t9 
+d000.s1.t10 reminder%1:09:00::
+d000.s10.t0 
+d000.s11.t17 not%4:02:00::
+d000.s11.t28 not%4:02:00::
+d000.s34.t19 decade%1:28:00::
+d000.s44.t0 
+d000.s44.t5 
+d000.s51.t5 
+d000.s57.t9 talk%2:32:00::
+d000.s58.t5 only%4:02:01::
+d000.s72.t1 not%4:02:00::
+d000.s79.t12 
+d000.s84.t10 cellphone%1:06:00::
+d000.s91.t6 can%2:30:00::
+d000.s93.t14 
+d000.s102.t40 allegedly%4:02:00::
+d000.s113.t0 detail%2:32:00::
+d000.s120.t4 utterly%4:02:00::
+d000.s7.t6 will%2:32:00::
+d000.s11.t3 right-wing%5:00:00:right:03
+d000.s11.t26 
+d000.s13.t36 november%1:28:00::
+d000.s17.t27 enough%5:00:00:sufficient:00
+d000.s19.t12 pot%2:35:00::
+d000.s28.t15 propagandist%1:18:00::
+d000.s37.t7 
+d000.s43.t7 not%4:02:00::
+d000.s44.t8 
+d000.s48.t9 veg%1:13:00::
+d000.s48.t16 rationale%1:09:00::
+d000.s51.t0 even%4:02:00::
+d000.s53.t11 feasible%5:00:00:possible:00
+d000.s72.t28 sometimes%4:02:01::
+d000.s72.t29 debug%2:30:00::
+d000.s72.t32 sometimes%4:02:01::
+d000.s81.t8 independent%3:00:00::
+d000.s81.t12 parliament%1:14:00::
+d000.s86.t3 enemy%1:14:00::
+d000.s89.t26 strategic%3:01:00::
+d000.s120.t23 deeply%4:02:00::
+d000.s120.t24 
+d000.s5.t18 second%5:00:00:ordinal:00
+d000.s12.t6 
+d000.s13.t16 anti-semitism%1:09:00::
+d000.s15.t37 century%1:23:00::
+d000.s17.t6 blowing%1:22:00::
+d000.s17.t38 
+d000.s35.t8 
+d000.s35.t23 
+d000.s37.t12 
+d000.s41.t7 food%1:03:00::
+d000.s43.t22 
+d000.s63.t15 client%1:18:01::
+d000.s75.t14 
+d000.s78.t4 also%4:02:00::
+d000.s79.t20 most%4:02:01::
+d000.s85.t5 
+d000.s85.t9 
+d000.s87.t4 remain%2:42:05::
+d000.s90.t16 industrial%5:00:00:blue-collar:00
+d000.s94.t15 
+d000.s98.t12 january%1:28:00::
+d000.s98.t24 remark%1:09:00::
+d000.s102.t38 incident%1:11:00::
+d000.s123.t1 party%1:18:00::
+d000.s1.t0 city%1:15:00::
+d000.s9.t12 not%4:02:00::
+d000.s13.t3 jewish%3:01:01::
+d000.s14.t14 
+d000.s14.t21 will%2:31:01::
+d000.s15.t17 sky%1:17:00::
+d000.s30.t13 need%2:34:01::
+d000.s41.t5 ban%1:10:01::
+d000.s44.t7 fat%3:00:01::
+d000.s57.t12 
+d000.s61.t3 people%1:14:00::
+d000.s61.t6 remain%2:30:00::
+d000.s66.t6 dollar%1:23:00::
+d000.s79.t9 author%1:18:00::
+d000.s85.t4 
+d000.s93.t11 
+d000.s93.t12 experience%1:09:01::
+d000.s98.t15 almost%4:02:00::
+d000.s98.t41 
+d000.s2.t7 hitler%1:18:00::
+d000.s2.t24 bavarian%3:01:00::
+d000.s9.t9 thinking%1:09:00::
+d000.s12.t4 not%4:02:00::
+d000.s15.t34 drug%1:06:00::
+d000.s28.t17 horowitz%1:18:00::
+d000.s32.t5 
+d000.s43.t0 once%4:02:02::
+d000.s53.t8 
+d000.s53.t31 nike%1:18:00::
+d000.s60.t12 
+d000.s69.t2 different%3:00:00::
+d000.s74.t19 ability%1:09:00::
+d000.s75.t11 
+d000.s91.t7 mobilize%2:33:01::
+d000.s91.t13 more%4:02:00::
+d000.s93.t25 policy%1:09:00::
+d000.s98.t16 month%1:28:01::
+d000.s102.t33 sending%1:04:00::
+d000.s111.t20 
+d000.s119.t15 certainly%4:02:00::
+d000.s0.t11 no%1:10:00::
+d000.s2.t12 manifesto%1:10:00::
+d000.s4.t12 
+d000.s4.t22 
+d000.s6.t4 dangerous%3:00:00::
+d000.s12.t8 newsstand%1:06:00::
+d000.s13.t42 thorough%5:00:00:careful:00
+d000.s32.t18 
+d000.s37.t22 
+d000.s38.t2 important%3:00:04::
+d000.s43.t11 anymore%4:02:01::
+d000.s45.t4 
+d000.s46.t35 calorific%5:00:00:hot:01
+d000.s49.t30 
+d000.s61.t8 delusion%1:26:00::
+d000.s69.t14 here%4:02:00::
+d000.s80.t10 parliament%1:14:00::
+d000.s86.t17 soldier%1:18:00::
+d000.s86.t22 even%4:02:00::
+d000.s86.t23 safe%3:00:01::
+d000.s121.t17 
+d000.s125.t16 
+d000.s0.t18 germany%1:15:00::
+d000.s1.t12 past%1:28:01::
+d000.s7.t0 publisher%1:18:00::
+d000.s7.t13 publisher%1:14:00::
+d000.s27.t19 beck%1:10:00::
+d000.s27.t28 beck%1:10:00::
+d000.s29.t14 violence%1:04:01::
+d000.s35.t14 
+d000.s35.t21 conviction%1:04:00::
+d000.s42.t9 define%2:42:00::
+d000.s43.t38 
+d000.s46.t4 prohibitively%4:02:00::
+d000.s48.t2 however%4:02:00::
+d000.s53.t17 ambassador%1:18:01::
+d000.s53.t19 international%3:00:00::
+d000.s69.t18 want%2:37:00::
+d000.s75.t21 apartheid%1:10:00::
+d000.s77.t3 racial%3:00:00::
+d000.s79.t21 cutting%5:00:00:unkind:00
+d000.s93.t22 prompt%2:32:01::
+d000.s111.t34 sexual%3:00:00::
+d000.s113.t30 nairobi%1:15:00::
+d000.s117.t3 
+d000.s121.t8 suggest%2:32:00::
+d000.s125.t12 other%3:00:00::
+d000.s2.t19 attempt%1:04:02::
+d000.s13.t17 german%3:01:00::
+d000.s13.t25 
+d000.s14.t19 few%3:00:00::
+d000.s21.t19 battle%1:04:02::
+d000.s32.t2 recent%5:00:00:new:00
+d000.s32.t17 funding%1:21:00::
+d000.s41.t11 really%4:02:03::
+d000.s68.t24 however%4:02:01::
+d000.s74.t8 many%3:00:00::
+d000.s77.t4 discrimination%1:04:00::
+d000.s77.t13 more%4:02:01::
+d000.s95.t13 presumably%4:02:00::
+d000.s102.t12 unpleasant%3:00:00::
+d000.s113.t24 scandal%1:11:00::
+d000.s119.t30 team%1:14:00::
+d000.s4.t6 germany%1:15:00::
+d000.s4.t25 command%2:32:02::
+d000.s11.t8 commentary%1:10:00::
+d000.s17.t18 enforcement%1:04:00::
+d000.s17.t22 
+d000.s17.t36 spend%2:40:00::
+d000.s19.t0 drug%1:06:00::
+d000.s19.t36 drug%1:06:00::
+d000.s19.t46 drug%1:06:00::
+d000.s38.t8 republican%1:18:01::
+d000.s42.t22 people%1:14:03::
+d000.s43.t32 
+d000.s46.t5 expensive%3:00:00::
+d000.s47.t12 parent%1:03:00::
+d000.s47.t18 meal%1:13:00::
+d000.s49.t21 household%1:14:00::
+d000.s53.t4 fuss%1:11:00::
+d000.s58.t3 ban%2:32:00::
+d000.s58.t9 ban%2:32:00::
+d000.s60.t11 
+d000.s84.t7 remain%2:42:05::
+d000.s87.t15 beginning%1:09:00::
+d000.s91.t17 struggle%1:04:01::
+d000.s99.t6 separately%4:02:02::
+d000.s106.t20 
+d000.s111.t35 harassment%1:04:00::
+d000.s113.t34 
+d000.s115.t8 may%1:28:00::
+d000.s120.t12 need%2:34:01::
+d000.s1.t11 nazi%1:18:00::
+d000.s7.t21 symbol%1:10:00::
+d000.s10.t3 
+d000.s12.t39 counter%2:41:00::
+d000.s14.t16 
+d000.s14.t17 germany%1:15:00::
+d000.s34.t15 
+d000.s34.t23 only%4:02:02::
+d000.s55.t9 slam%1:11:01::
+d000.s66.t7 amount%1:21:00::
+d000.s68.t4 
+d000.s72.t12 slowly%4:02:02::
+d000.s83.t10 parliament%1:14:00::
+d000.s91.t4 immense%5:00:01:large:00
+d000.s98.t7 problem%1:26:00::
+d000.s102.t5 total%1:09:00::
+d000.s106.t23 
+d000.s113.t35 
+d000.s1.t17 many%3:00:00::
+d000.s3.t21 people%1:14:00::
+d000.s7.t12 injunction%1:10:01::
+d000.s12.t9 german%3:01:00::
+d000.s15.t26 probably%4:02:01::
+d000.s19.t15 instead%4:02:01::
+d000.s19.t22 legally%4:02:03::
+d000.s27.t39 intricate%5:00:00:complex:00
+d000.s32.t6 byron%1:18:00::
+d000.s39.t15 still%4:02:00::
+d000.s40.t0 
+d000.s40.t18 more%4:02:01::
+d000.s49.t36 expensive%3:00:00::
+d000.s52.t36 above%4:02:00::
+d000.s60.t7 first%3:00:00::
+d000.s64.t12 
+d000.s72.t27 carefully%4:02:00::
+d000.s75.t18 policy%1:10:00::
+d000.s91.t18 however%4:02:04::
+d000.s96.t17 not%4:02:00::
+d000.s96.t23 
+d000.s115.t10 information%1:10:00::
+d000.s6.t3 very%4:02:01::
+d000.s9.t15 
+d000.s13.t33 
+d000.s17.t20 tax%1:21:00::
+d000.s38.t10 arnold%1:18:01::
+d000.s43.t33 
+d000.s46.t10 relatively%4:02:00::
+d000.s46.t11 as%4:02:00::
+d000.s46.t40 as%4:02:00::
+d000.s49.t12 culinary%3:01:00::
+d000.s57.t4 ban%2:32:00::
+d000.s74.t11 none%1:28:00::
+d000.s84.t15 
+d000.s86.t8 terror%1:04:00::
+d000.s97.t11 
+d000.s102.t28 inappropriate%5:00:00:incongruous:00
+d000.s111.t5 delay%1:28:00::
+d000.s119.t31 then%4:02:01::
+d000.s12.t26 bavaria%1:15:00::
+d000.s13.t23 german%1:18:00::
+d000.s13.t38 
+d000.s14.t2 very%4:02:01::
+d000.s17.t21 revenue%1:21:01::
+d000.s21.t16 favor%1:09:00::
+d000.s28.t18 
+d000.s39.t17 reception%1:10:00::
+d000.s49.t6 not%4:02:00::
+d000.s59.t13 hear%2:39:00::
+d000.s64.t4 two-year%3:00:04::
+d000.s76.t37 ongoing%5:00:00:current:00
+d000.s77.t12 
+d000.s77.t19 unification%1:26:00::
+d000.s78.t22 israeli%3:01:00::
+d000.s81.t4 speaker%1:18:01::
+d000.s95.t30 incident%1:11:00::
+d000.s96.t38 frequent%3:00:00::
+d000.s113.t9 reluctant%5:00:00:disinclined:00
+d000.s113.t20 misconduct%1:04:01::
+d000.s113.t31 grapevine%1:10:00::
+d000.s115.t20 
+d000.s1.t18 
+d000.s2.t26 challenge%2:32:03::
+d000.s9.t11 absolutely%4:02:01::
+d000.s11.t22 equal%3:00:00::
+d000.s12.t30 worry%1:12:00::
+d000.s15.t0 today%1:28:00::
+d000.s15.t25 will%2:32:00::
+d000.s25.t10 patrol%1:14:00::
+d000.s42.t7 food%1:09:00::
+d000.s42.t16 food%1:03:00::
+d000.s42.t17 food%1:03:00::
+d000.s49.t9 
+d000.s49.t20 affluent%5:00:00:rich:00
+d000.s51.t10 still%4:02:04::
+d000.s59.t4 just%4:02:00::
+d000.s62.t6 protest%1:04:00::
+d000.s68.t11 
+d000.s82.t6 
+d000.s87.t2 tell%2:32:00::
+d000.s87.t9 operational%3:01:00::
+d000.s88.t9 socialist%1:18:00::
+d000.s89.t0 battle%1:04:02::
+d000.s95.t25 not%4:02:00::
+d000.s99.t41 incident%1:11:00::
+d000.s119.t36 leave%1:04:00::
+d000.s2.t20 publish%2:36:01::
+d000.s5.t15 copy%1:06:00::
+d000.s6.t9 ridiculous%5:00:00:undignified:00
+d000.s13.t14 
+d000.s15.t8 california%1:15:00::
+d000.s17.t23 nicholas%1:18:00::
+d000.s19.t5 suddenly%4:02:00::
+d000.s19.t7 one%1:09:00::
+d000.s19.t23 probably%4:02:00::
+d000.s43.t36 problem%1:09:00::
+d000.s49.t22 too%4:02:01::
+d000.s49.t28 impoverished%5:00:00:poor:00
+d000.s51.t7 role%1:04:00::
+d000.s52.t16 nike%1:18:00::
+d000.s58.t17 just%4:02:03::
+d000.s62.t11 actually%4:02:01::
+d000.s78.t33 enough%4:02:00::
+d000.s82.t14 concern%1:09:00::
+d000.s88.t13 host%2:34:00::
+d000.s89.t7 juncture%1:26:00::
+d000.s92.t2 advance%1:10:00::
+d000.s95.t41 as%4:02:00::
+d000.s96.t12 
+d000.s98.t17 later%4:02:01::
+d000.s99.t39 not%4:02:00::
+d000.s111.t3 several%5:00:00:individual:00
+d000.s113.t6 leadership%1:04:00::
+d000.s117.t5 engagement%1:04:00::
+d000.s117.t7 
+d000.s119.t6 
+d000.s1.t21 headquarters%1:06:01::
+d000.s8.t9 
+d000.s12.t1 will%2:32:00::
+d000.s12.t22 will%2:32:00::
+d000.s12.t32 will%2:31:01::
+d000.s12.t34 own%5:00:00:personal:00
+d000.s13.t35 shut%2:41:00::
+d000.s17.t45 shore%2:35:03::
+d000.s27.t13 advocate%2:32:00::
+d000.s33.t8 license%1:10:00::
+d000.s36.t11 hill%1:17:00::
+d000.s40.t25 
+d000.s43.t6 simply%4:02:00::
+d000.s43.t21 scarf%2:29:00::
+d000.s43.t29 
+d000.s43.t30 fry%2:42:00::
+d000.s49.t41 equipment%1:06:00::
+d000.s52.t9 wrongdoing%1:07:00::
+d000.s52.t15 birthplace%1:15:00::
+d000.s63.t17 guarantee%1:21:03::
+d000.s68.t12 different%3:00:00::
+d000.s68.t26 people%1:14:00::
+d000.s83.t1 
+d000.s94.t8 count%1:23:00::
+d000.s94.t30 perfect%5:00:00:unmitigated:00
+d000.s98.t34 
+d000.s106.t2 contention%1:10:00::
+d000.s121.t5 
+d000.s0.t1 supplement%1:10:00::
+d000.s5.t20 local%3:01:01::
+d000.s8.t21 
+d000.s15.t39 simply%4:02:03::
+d000.s19.t43 absolutely%4:02:01::
+d000.s27.t8 journalist%1:18:00::
+d000.s27.t18 
+d000.s36.t5 authority%1:14:00::
+d000.s53.t26 main%5:00:00:important:00
+d000.s56.t3 university%1:06:00::
+d000.s60.t4 let%2:41:00::
+d000.s62.t19 people%1:14:00::
+d000.s62.t27 people%1:14:00::
+d000.s64.t11 cincinnati%1:15:00::
+d000.s77.t17 
+d000.s88.t16 
+d000.s88.t31 
+d000.s92.t14 campaign%1:11:00::
+d000.s95.t33 
+d000.s97.t33 
+d000.s102.t37 pornography%1:04:00::
+d000.s106.t28 
+d000.s5.t5 plot%2:31:00::
+d000.s10.t11 historical%5:00:00:past:00
+d000.s11.t19 germany%1:15:00::
+d000.s11.t30 germany%1:15:00::
+d000.s19.t1 
+d000.s19.t26 
+d000.s19.t50 
+d000.s32.t0 
+d000.s40.t10 
+d000.s40.t34 
+d000.s45.t3 actual%5:00:02:real:00
+d000.s49.t4 cooking%1:04:00::
+d000.s49.t8 lazy%5:00:00:idle:00
+d000.s52.t19 stage%2:36:01::
+d000.s57.t7 just%4:02:03::
+d000.s63.t21 season%1:28:02::
+d000.s73.t8 
+d000.s73.t48 also%4:02:00::
+d000.s76.t18 numerous%5:00:00:many:00
+d000.s88.t20 jerry%1:18:00::
+d000.s90.t0 matter%1:09:01::
+d000.s98.t36 resign%2:31:00::
+d000.s99.t0 
+d000.s102.t0 then%4:02:00::
+d000.s102.t32 message%1:10:01::
+d000.s106.t0 second%5:00:00:ordinal:00
+d000.s2.t23 week%1:28:00::
+d000.s3.t20 fewer%3:00:00::
+d000.s5.t13 complete%3:00:00::
+d000.s8.t26 newsstand%1:06:00::
+d000.s12.t33 publish%2:32:00::
+d000.s13.t0 germany%1:15:00::
+d000.s17.t39 public%5:00:00:common:02
+d000.s32.t14 charitable%3:01:00::
+d000.s41.t3 include%2:42:00::
+d000.s43.t8 junk%1:27:00::
+d000.s43.t13 junk%1:06:01::
+d000.s43.t39 
+d000.s46.t6 less%4:02:01::
+d000.s46.t27 less%4:02:00::
+d000.s49.t2 cruel%5:00:01:inhumane:00
+d000.s52.t32 conduct%1:04:00::
+d000.s64.t10 
+d000.s66.t11 option%1:09:00::
+d000.s81.t7 ask%2:32:01::
+d000.s81.t13 hill%1:17:00::
+d000.s88.t32 reporter%1:18:00::
+d000.s96.t27 periodic%3:00:00::
+d000.s101.t14 also%4:02:00::
+d000.s106.t1 bone%1:08:00::
+d000.s111.t21 kenya%1:15:00::
+d000.s111.t27 florida%1:15:00::
+d000.s113.t22 boggle%2:38:00::
+d000.s115.t0 failure%1:11:00::
+d000.s120.t28 
+d000.s7.t20 nazi%1:18:00::
+d000.s8.t7 thursday%1:28:00::
+d000.s9.t28 publisher%1:14:00::
+d000.s13.t21 week%1:28:00::
+d000.s14.t27 maturity%1:26:00::
+d000.s17.t13 tobacco%1:06:00::
+d000.s19.t48 severely%4:02:01::
+d000.s20.t29 someone%1:03:00::
+d000.s21.t17 segregation%1:04:00::
+d000.s36.t3 use%2:34:01::
+d000.s43.t3 equation%1:10:00::
+d000.s46.t3 often%4:02:00::
+d000.s61.t12 
+d000.s62.t10 ban%2:32:00::
+d000.s62.t12 ban%2:32:00::
+d000.s66.t4 report%2:32:04::
+d000.s66.t5 agreement%1:09:00::
+d000.s66.t10 report%2:32:04::
+d000.s79.t4 senior%3:00:00::
+d000.s84.t2 
+d000.s87.t10 
+d000.s88.t1 october%1:28:00::
+d000.s95.t2 january%1:28:00::
+d000.s99.t7 confide%2:32:00::
+d000.s99.t30 conversation%1:10:00::
+d000.s99.t48 long%4:02:00::
+d000.s120.t10 society%1:14:00::
+d000.s124.t1 absence%1:04:00::
+d000.s5.t22 search%1:22:00::
+d000.s20.t26 
+d000.s20.t31 pot%2:35:00::
+d000.s32.t1 most%4:02:00::
+d000.s34.t7 
+d000.s37.t17 more%3:00:02::
+d000.s37.t20 more%3:00:02::
+d000.s48.t8 buy%2:40:00::
+d000.s49.t13 
+d000.s49.t29 one%1:23:00::
+d000.s52.t22 
+d000.s56.t1 
+d000.s67.t16 
+d000.s67.t38 
+d000.s72.t7 developer%1:06:00::
+d000.s72.t26 very%4:02:01::
+d000.s76.t29 lack%1:26:00::
+d000.s77.t20 
+d000.s79.t25 legal%3:00:00::
+d000.s91.t22 fight%1:07:00::
+d000.s91.t28 political%3:00:00::
+d000.s94.t0 
+d000.s96.t2 precisely%4:02:00::
+d000.s96.t31 team%1:14:00::
+d000.s96.t53 international%3:00:00::
+d000.s99.t15 uncomfortable%3:00:01::
+d000.s121.t13 
+d000.s0.t13 ban%2:32:00::
+d000.s10.t4 
+d000.s17.t1 
+d000.s19.t30 few%3:00:00::
+d000.s29.t10 conspiracy%1:09:00::
+d000.s35.t6 more%3:00:02::
+d000.s35.t22 more%3:00:02::
+d000.s55.t13 speech%1:10:00::
+d000.s60.t1 speech%1:10:00::
+d000.s67.t34 evolve%2:30:00::
+d000.s76.t1 kind%1:09:00::
+d000.s76.t25 jewish%3:01:01::
+d000.s83.t4 
+d000.s86.t14 just%4:02:00::
+d000.s86.t18 just%4:02:00::
+d000.s87.t8 sound%5:00:02:valid:00
+d000.s95.t50 protect%2:33:00::
+d000.s113.t2 mysterious%5:00:00:esoteric:00
+d000.s113.t12 even%4:02:00::
+d000.s120.t33 correct%5:00:00:proper:00
+d000.s12.t14 author%1:18:00::
+d000.s43.t40 consume%2:35:00::
+d000.s46.t23 nearly%4:02:00::
+d000.s46.t36 therefore%4:02:01::
+d000.s49.t25 extra%5:00:00:unnecessary:00
+d000.s63.t11 option%1:21:00::
+d000.s67.t19 deploy%2:35:00::
+d000.s70.t40 reagent%1:27:00::
+d000.s73.t29 already%4:02:00::
+d000.s80.t11 hill%1:17:00::
+d000.s90.t1 spin%1:04:03::
+d000.s90.t13 descent%1:14:00::
+d000.s95.t12 colleague%1:18:00::
+d000.s95.t53 
+d000.s97.t28 figure%2:31:02::
+d000.s101.t50 potentially%4:02:00::
+d000.s102.t30 suggestive%5:00:00:indecent:00
+d000.s111.t4 
+d000.s115.t18 consideration%1:09:01::
+d000.s118.t8 decision%1:09:00::
+d000.s4.t1 ban%2:32:00::
+d000.s5.t19 result%1:19:00::
+d000.s6.t7 ban%2:41:00::
+d000.s7.t7 appeal%2:41:04::
+d000.s8.t24 celebrity%1:26:00::
+d000.s20.t58 such%5:00:00:much:00
+d000.s43.t20 
+d000.s49.t34 can%2:30:00::
+d000.s52.t21 
+d000.s64.t7 earlier%4:02:00::
+d000.s69.t3 situation%1:26:00::
+d000.s70.t20 not%4:02:00::
+d000.s76.t13 
+d000.s88.t18 
+d000.s90.t17 worker%1:18:00::
+d000.s91.t14 powerful%3:00:00::
+d000.s92.t1 question%1:10:00::
+d000.s97.t6 seek%2:40:00::
+d000.s103.t22 not%4:02:00::
+d000.s103.t34 not%4:02:00::
+d000.s103.t50 not%4:02:00::
+d000.s120.t3 completely%4:02:04::
+d000.s124.t9 
+d000.s8.t0 attempt%1:04:00::
+d000.s11.t0 danger%1:04:00::
+d000.s11.t18 only%4:02:01::
+d000.s13.t8 mixed%5:00:00:integrated:00
+d000.s33.t0 driver%1:18:00::
+d000.s34.t14 more%3:00:02::
+d000.s48.t4 
+d000.s48.t10 local%3:01:01::
+d000.s61.t1 
+d000.s64.t6 offer%1:10:00::
+d000.s67.t31 ecosystem%1:14:00::
+d000.s70.t5 relatively%4:02:00::
+d000.s74.t9 toy%1:06:00::
+d000.s77.t9 
+d000.s86.t6 create%2:36:02::
+d000.s89.t10 
+d000.s89.t17 
+d000.s92.t11 help%2:41:12::
+d000.s94.t21 liberal%5:00:00:inexact:00
+d000.s95.t14 own%5:00:00:personal:00
+d000.s97.t14 gut%1:08:00::
+d000.s98.t10 distress%1:12:02::
+d000.s98.t35 quietly%4:02:01::
+d000.s102.t13 
+d000.s104.t15 currently%4:02:00::
+d000.s8.t40 commentary%1:10:00::
+d000.s15.t35 policy%1:09:00::
+d000.s17.t14 money%1:21:02::
+d000.s17.t28 money%1:21:00::
+d000.s17.t37 money%1:21:00::
+d000.s17.t44 money%1:21:02::
+d000.s19.t39 choice%1:09:02::
+d000.s20.t2 not%4:02:00::
+d000.s20.t12 excess%5:00:00:unnecessary:00
+d000.s20.t17 not%4:02:00::
+d000.s28.t20 
+d000.s30.t21 look%1:07:00::
+d000.s34.t9 person%1:03:00::
+d000.s40.t15 compare%2:31:00::
+d000.s43.t27 drink%1:13:04::
+d000.s46.t31 more%4:02:00::
+d000.s52.t13 
+d000.s59.t22 offensive%3:00:05::
+d000.s62.t8 just%4:02:00::
+d000.s62.t17 just%4:02:00::
+d000.s67.t26 almost%4:02:00::
+d000.s69.t12 community%1:26:00::
+d000.s74.t17 learn%2:32:02::
+d000.s78.t34 cause%2:32:00::
+d000.s88.t4 
+d000.s90.t10 first%5:00:01:opening:00
+d000.s91.t26 understanding%1:09:01::
+d000.s96.t24 poorly%4:02:00::
+d000.s96.t35 
+d000.s96.t37 more%4:02:00::
+d000.s101.t38 not%4:02:00::
+d000.s101.t44 not%4:02:00::
+d000.s113.t21 completely%4:02:04::
+d000.s115.t3 
+d000.s120.t14 terrible%5:00:01:bad:00
+d000.s4.t24 legal%3:00:00::
+d000.s5.t0 question%1:10:00::
+d000.s5.t2 country%1:15:00::
+d000.s15.t5 d%1:10:00::
+d000.s17.t10 tax%2:40:00::
+d000.s17.t11 same%3:00:04::
+d000.s19.t25 money%1:21:00::
+d000.s19.t29 
+d000.s19.t41 
+d000.s20.t51 
+d000.s20.t60 illegal%3:00:00::
+d000.s40.t8 show%1:10:03::
+d000.s43.t10 understand%2:31:02::
+d000.s46.t20 available%3:00:00::
+d000.s52.t3 resignation%1:10:01::
+d000.s52.t12 
+d000.s69.t11 large%5:00:00:generous:02
+d000.s78.t0 
+d000.s78.t28 regime%1:14:00::
+d000.s78.t35 
+d000.s83.t11 hill%1:17:00::
+d000.s84.t18 fatal%3:00:00::
+d000.s85.t10 send%2:38:01::
+d000.s95.t32 forget%2:31:01::
+d000.s103.t51 inconsequential%5:00:00:illogical:00
+d000.s104.t2 not%4:02:00::
+d000.s104.t8 kenyan%1:18:00::
+d000.s104.t11 not%4:02:00::
+d000.s104.t34 not%4:02:00::
+d000.s104.t39 not%4:02:00::
+d000.s104.t59 not%4:02:00::
+d000.s113.t42 seem%2:42:00::
+d000.s7.t26 copy%1:10:02::
+d000.s13.t32 least%3:00:00::
+d000.s15.t33 future%1:10:00::
+d000.s20.t4 drug%1:06:00::
+d000.s20.t13 drug%1:06:00::
+d000.s20.t22 drug%1:06:00::
+d000.s20.t49 drug%1:06:00::
+d000.s30.t15 back%4:02:01::
+d000.s49.t24 
+d000.s49.t38 
+d000.s59.t1 speech%1:10:00::
+d000.s69.t19 build%2:36:00::
+d000.s73.t10 m%5:00:00:cardinal:00
+d000.s78.t11 
+d000.s82.t7 early%3:00:00::
+d000.s87.t16 video%1:10:00::
+d000.s89.t27 
+d000.s97.t25 
+d000.s106.t25 may%1:28:00::
+d000.s119.t23 
+d000.s0.t19 government%1:14:00::
+d000.s4.t20 
+d000.s7.t17 violation%1:04:01::
+d000.s8.t30 central%5:00:00:important:00
+d000.s12.t0 debate%1:10:01::
+d000.s20.t32 once%4:02:00::
+d000.s27.t4 elaborate%5:00:00:fancy:00
+d000.s48.t11 market%1:06:00::
+d000.s52.t10 even%4:02:00::
+d000.s61.t13 truth%1:26:00::
+d000.s64.t32 past%3:00:00::
+d000.s64.t35 improvement%1:26:00::
+d000.s73.t7 
+d000.s78.t36 remind%2:32:00::
+d000.s88.t12 will%2:40:00::
+d000.s88.t28 will%2:40:00::
+d000.s88.t35 will%2:40:00::
+d000.s91.t8 
+d000.s95.t6 
+d000.s95.t15 titillation%1:04:01::
+d000.s96.t3 week%1:28:00::
+d000.s96.t9 
+d000.s102.t16 ten%1:06:00::
+d000.s111.t10 matter%1:09:01::
+d000.s127.t65 not%4:02:00::
+d000.s7.t9 government%1:14:00::
+d000.s7.t23 government%1:14:00::
+d000.s11.t4 people%1:14:03::
+d000.s13.t31 
+d000.s20.t3 
+d000.s46.t34 highly%4:02:01::
+d000.s64.t19 more%4:02:00::
+d000.s67.t28 need%2:42:00::
+d000.s72.t18 people%1:14:03::
+d000.s74.t7 
+d000.s74.t15 
+d000.s93.t17 
+d000.s95.t1 morning%1:28:00::
+d000.s95.t44 audio%1:07:00::
+d000.s97.t20 symptom%1:10:00::
+d000.s101.t22 willing%3:00:00::
+d000.s103.t0 
+d000.s125.t1 rest%1:24:00::
+d000.s4.t7 government%1:14:00::
+d000.s5.t11 era%1:28:00::
+d000.s16.t28 
+d000.s19.t49 weaken%2:30:03::
+d000.s20.t52 long%4:02:03::
+d000.s25.t17 
+d000.s27.t0 interview%1:10:01::
+d000.s27.t5 global%5:00:00:international:00
+d000.s43.t18 people%1:14:00::
+d000.s49.t23 easily%4:02:01::
+d000.s57.t10 large%3:00:00::
+d000.s65.t5 free%5:00:00:nonexistent:00
+d000.s70.t45 
+d000.s75.t12 
+d000.s76.t40 demolition%1:04:00::
+d000.s78.t14 same%3:00:02::
+d000.s81.t0 report%1:10:03::
+d000.s94.t18 great%5:00:00:good:01
+d000.s95.t19 troubled%3:00:00::
+d000.s97.t18 account%2:42:01::
+d000.s98.t37 still%4:02:04::
+d000.s101.t52 rehash%2:32:00::
+d000.s103.t54 traumatic%5:00:00:painful:00
+d000.s120.t38 matter%1:09:01::
+d000.s127.t20 unfair%3:00:00::
+d000.s2.t11 political%3:01:01::
+d000.s8.t1 publish%2:36:01::
+d000.s8.t17 
+d000.s8.t37 leaflet%1:20:00::
+d000.s12.t37 shortly%4:02:04::
+d000.s14.t15 council%1:14:01::
+d000.s24.t3 ruthless%5:00:00:merciless:00
+d000.s37.t3 traffic%1:14:00::
+d000.s46.t12 cheap%3:00:00::
+d000.s46.t18 
+d000.s64.t25 batting%1:04:00::
+d000.s69.t6 functional%3:00:00::
+d000.s72.t3 believe%2:31:00::
+d000.s73.t37 fast%4:02:01::
+d000.s79.t8 university%1:14:00::
+d000.s91.t0 challenge%1:26:00::
+d000.s96.t8 next%5:00:00:succeeding:00
+d000.s96.t33 however%4:02:04::
+d000.s98.t31 buy%2:31:09::
+d000.s102.t3 terrible%5:00:00:alarming:00
+d000.s112.t2 also%4:02:00::
+d000.s127.t2 effectively%4:02:01::
+d000.s127.t45 damage%2:30:00::
+d000.s5.t9 edge%1:07:00::
+d000.s8.t43 blurred%5:00:00:indistinct:00
+d000.s13.t6 
+d000.s13.t7 publication%1:04:01::
+d000.s15.t22 many%3:00:00::
+d000.s26.t11 shooter%1:18:01::
+d000.s29.t21 nature%1:09:00::
+d000.s30.t10 
+d000.s34.t17 influence%1:07:00::
+d000.s35.t4 help%2:41:00::
+d000.s36.t12 
+d000.s40.t6 
+d000.s47.t9 thing%1:26:00::
+d000.s50.t0 
+d000.s50.t44 also%4:02:00::
+d000.s55.t12 free%3:00:00::
+d000.s60.t0 free%3:00:00::
+d000.s64.t8 week%1:28:00::
+d000.s64.t20 aggressive%3:00:00::
+d000.s67.t22 never%4:02:01::
+d000.s74.t2 consider%2:39:00::
+d000.s76.t6 
+d000.s76.t31 equal%3:00:03::
+d000.s78.t9 policy%1:09:00::
+d000.s82.t3 
+d000.s86.t4 
+d000.s86.t9 
+d000.s89.t13 contract%1:10:00::
+d000.s91.t27 economic%3:01:01::
+d000.s92.t0 submit%2:32:01::
+d000.s94.t5 
+d000.s95.t31 
+d000.s96.t42 due%5:00:00:expected:00
+d000.s96.t52 due%5:00:00:attributable:00
+d000.s99.t44 rather%4:02:04::
+d000.s101.t30 anonymous%5:00:00:faceless:00
+d000.s101.t51 scandalous%5:00:00:immoral:00
+d000.s101.t54 traumatic%5:00:00:painful:00
+d000.s103.t10 
+d000.s108.t2 arguably%4:02:00::
+d000.s108.t3 mismanagement%1:04:00::
+d000.s113.t26 existential%3:01:00::
+d000.s119.t3 
+d000.s119.t14 
+d000.s119.t29 
+d000.s127.t33 mostly%4:02:00::
+d000.s0.t10 berlin%1:15:00::
+d000.s8.t12 publisher%1:14:00::
+d000.s8.t15 publicity%1:10:00::
+d000.s16.t12 legalization%1:04:00::
+d000.s16.t34 ten%5:00:00:cardinal:00
+d000.s19.t32 actually%4:02:01::
+d000.s20.t33 while%1:28:00::
+d000.s24.t13 police%1:14:00::
+d000.s24.t28 
+d000.s24.t51 
+d000.s28.t10 other%3:00:00::
+d000.s28.t29 information%1:10:00::
+d000.s35.t0 hill%1:18:01::
+d000.s50.t27 merely%4:02:00::
+d000.s51.t16 president%1:18:01::
+d000.s62.t1 university%1:14:00::
+d000.s67.t2 
+d000.s67.t3 more%4:02:00::
+d000.s71.t3 worse%1:07:00::
+d000.s84.t11 video%1:06:00::
+d000.s84.t16 video%1:06:00::
+d000.s91.t9 youth%1:14:00::
+d000.s101.t16 inappropriate%5:00:00:incongruous:00
+d000.s8.t19 pamphlet%1:10:01::
+d000.s10.t1 
+d000.s13.t37 
+d000.s14.t26 democratic%3:00:00::
+d000.s16.t6 
+d000.s16.t26 consistently%4:02:00::
+d000.s24.t50 fascist%3:01:00::
+d000.s32.t31 show%1:04:00::
+d000.s40.t30 britain%1:15:00::
+d000.s40.t33 poor%5:00:00:unfortunate:00
+d000.s44.t17 
+d000.s47.t8 last%5:00:00:worst:00
+d000.s49.t42 even%4:02:00::
+d000.s52.t17 
+d000.s55.t2 now%4:02:05::
+d000.s70.t12 can%2:30:00::
+d000.s70.t31 impractical%3:00:00::
+d000.s75.t1 israel%1:15:00::
+d000.s80.t7 report%1:10:03::
+d000.s97.t5 ill%3:00:01::
+d000.s101.t6 earlier%4:02:00::
+d000.s102.t22 unable%3:00:00::
+d000.s103.t14 sexual%3:01:01::
+d000.s108.t51 courtroom%1:06:00::
+d000.s111.t22 really%4:02:03::
+d000.s113.t39 may%1:28:00::
+d000.s126.t64 livelihood%1:21:00::
+d000.s126.t71 
+d000.s126.t74 brunt%1:07:00::
+d000.s6.t19 berlin%1:15:00::
+d000.s13.t12 still%4:02:00::
+d000.s15.t7 look%1:04:00::
+d000.s16.t46 expensive%3:00:00::
+d000.s16.t53 juvenile%1:18:00::
+d000.s19.t31 people%1:14:00::
+d000.s30.t1 particular%5:00:00:fastidious:00
+d000.s34.t11 license%1:26:01::
+d000.s39.t16 
+d000.s40.t5 
+d000.s43.t9 food%1:09:00::
+d000.s43.t14 food%1:09:00::
+d000.s43.t28 
+d000.s50.t49 
+d000.s53.t1 prime%5:00:02:first:00
+d000.s66.t12 year%1:28:01::
+d000.s71.t23 debug%2:30:00::
+d000.s73.t0 will%2:32:00::
+d000.s73.t17 need%2:34:00::
+d000.s73.t23 will%2:32:00::
+d000.s73.t34 can%2:30:00::
+d000.s73.t55 can%2:30:00::
+d000.s76.t0 
+d000.s97.t19 other%5:00:00:past:00
+d000.s104.t6 earlier%4:02:00::
+d000.s108.t23 properly%4:02:01::
+d000.s108.t59 harangue%2:32:00::
+d000.s120.t29 just%4:02:03::
+d000.s120.t39 just%4:02:00::
+d000.s10.t9 inspiration%1:09:02::
+d000.s20.t37 mean%1:09:00::
+d000.s20.t39 will%2:32:00::
+d000.s32.t11 tide%1:11:01::
+d000.s32.t27 tide%1:11:01::
+d000.s34.t3 hill%1:18:01::
+d000.s44.t14 ring%2:35:03::
+d000.s49.t33 
+d000.s50.t41 dietary%3:01:00::
+d000.s52.t11 email%1:10:00::
+d000.s72.t14 aspect%1:07:02::
+d000.s76.t12 
+d000.s76.t17 equality%1:26:00::
+d000.s88.t14 online%3:00:00::
+d000.s88.t15 interview%1:10:01::
+d000.s88.t24 
+d000.s88.t37 interview%1:10:01::
+d000.s96.t47 
+d000.s99.t24 share%2:42:00::
+d000.s103.t9 harassment%1:04:00::
+d000.s103.t20 trivial%5:00:00:insignificant:00
+d000.s103.t48 harassment%1:04:00::
+d000.s108.t18 jointly%4:02:02::
+d000.s112.t49 such%5:00:00:much:00
+d000.s113.t16 evidence%1:09:00::
+d000.s120.t13 reject%2:32:00::
+d000.s120.t37 means%1:04:00::
+d000.s2.t6 copy%1:06:00::
+d000.s3.t5 lid%1:06:00::
+d000.s6.t15 modern%3:00:00::
+d000.s6.t18 university%1:14:00::
+d000.s11.t23 other%3:00:00::
+d000.s15.t32 near%5:00:00:stingy:00
+d000.s19.t33 want%2:37:00::
+d000.s24.t44 parade%2:38:00::
+d000.s24.t52 as%4:02:00::
+d000.s27.t25 
+d000.s40.t26 fact%1:09:01::
+d000.s43.t43 
+d000.s66.t13 
+d000.s73.t26 problem%1:09:00::
+d000.s78.t3 observation%1:09:02::
+d000.s82.t4 report%1:10:03::
+d000.s82.t15 report%1:10:03::
+d000.s88.t0 sunday%1:28:00::
+d000.s98.t25 drunkenness%1:26:00::
+d000.s99.t32 
+d000.s101.t56 therefore%4:02:01::
+d000.s104.t13 comment%2:32:00::
+d000.s104.t51 will%2:32:00::
+d000.s113.t41 just%4:02:03::
+d000.s124.t11 
+d000.s126.t10 not%4:02:00::
+d000.s126.t66 not%4:02:00::
+d000.s24.t8 increase%2:30:02::
+d000.s39.t12 school%1:14:00::
+d000.s46.t24 always%4:02:00::
+d000.s59.t0 free%3:00:00::
+d000.s67.t40 mention%1:10:02::
+d000.s71.t52 
+d000.s73.t52 hope%2:37:01::
+d000.s83.t3 report%1:10:03::
+d000.s101.t47 
+d000.s102.t44 middle%1:15:00::
+d000.s104.t19 
+d000.s108.t19 severally%4:02:01::
+d000.s108.t53 prosecutor%1:18:00::
+d000.s112.t5 not%4:02:00::
+d000.s112.t26 july%1:28:00::
+d000.s112.t43 not%4:02:00::
+d000.s112.t55 
+d000.s112.t73 july%1:28:00::
+d000.s118.t10 now%4:02:00::
+d000.s119.t34 first%5:00:00:ordinal:00
+d000.s126.t38 subsequently%4:02:00::
+d000.s126.t70 inclusive%3:00:00::
+d000.s127.t5 
+d000.s127.t26 absolutely%4:02:00::
+d000.s127.t35 exactly%4:02:01::
+d000.s2.t25 government%1:14:00::
+d000.s15.t23 other%5:00:00:past:00
+d000.s16.t7 drug%1:06:00::
+d000.s16.t67 drug%1:06:00::
+d000.s17.t46 border%1:15:00::
+d000.s50.t10 absurdly%4:02:00::
+d000.s50.t12 misleading%5:00:00:dishonest:00
+d000.s53.t2 example%1:09:00::
+d000.s72.t33 worry%2:37:00::
+d000.s73.t12 aware%3:00:00::
+d000.s77.t6 israel%1:15:00::
+d000.s80.t4 
+d000.s90.t7 put%2:35:05::
+d000.s101.t53 past%5:00:00:outgoing:00
+d000.s104.t50 misconduct%1:04:01::
+d000.s106.t11 let%2:41:00::
+d000.s112.t9 as%4:02:00::
+d000.s113.t23 mind%1:09:05::
+d000.s113.t27 risk%1:26:00::
+d000.s126.t25 detrimental%5:00:00:harmful:00
+d000.s5.t6 empire%1:14:01::
+d000.s9.t16 idea%1:09:00::
+d000.s9.t19 idea%1:09:03::
+d000.s11.t29 
+d000.s13.t18 government%1:14:00::
+d000.s16.t52 
+d000.s16.t57 
+d000.s20.t41 become%2:30:00::
+d000.s32.t21 other%5:00:00:past:00
+d000.s33.t11 
+d000.s52.t14 eugene%1:18:00::
+d000.s64.t14 least%3:00:00::
+d000.s67.t12 even%4:02:01::
+d000.s68.t6 paradigm%1:24:00::
+d000.s70.t11 google%1:10:00::
+d000.s71.t21 ecosystem%1:14:00::
+d000.s93.t19 hope%1:18:00::
+d000.s98.t3 
+d000.s101.t5 
+d000.s102.t2 hear%2:39:00::
+d000.s103.t8 spectrum%1:07:00::
+d000.s112.t71 obvious%3:00:00::
+d000.s8.t23 heap%1:14:00::
+d000.s9.t21 just%4:02:00::
+d000.s19.t6 legal%5:00:00:eligible:00
+d000.s19.t11 buy%2:40:00::
+d000.s19.t18 buy%2:42:00::
+d000.s19.t44 buy%2:40:03::
+d000.s19.t45 legal%5:00:00:valid:00
+d000.s24.t22 
+d000.s24.t30 ruling%1:04:00::
+d000.s35.t19 driver%1:18:00::
+d000.s37.t10 year%1:28:01::
+d000.s46.t28 likely%3:00:00::
+d000.s46.t32 likely%3:00:00::
+d000.s50.t5 concept%1:09:00::
+d000.s50.t11 dated%5:00:00:unfashionable:00
+d000.s63.t0 
+d000.s65.t6 agent%1:17:00::
+d000.s67.t36 
+d000.s76.t10 rhetorical%3:00:00::
+d000.s96.t18 want%2:34:00::
+d000.s102.t7 
+d000.s102.t31 text%1:10:00::
+d000.s102.t43 woman%1:18:00::
+d000.s115.t21 date%1:14:00::
+d000.s9.t22 naive%5:00:00:unconditioned:00
+d000.s17.t12 rate%1:21:00::
+d000.s24.t19 tax%1:21:00::
+d000.s24.t42 
+d000.s27.t22 show%1:04:01::
+d000.s27.t31 show%1:04:01::
+d000.s35.t11 year%1:28:01::
+d000.s38.t12 
+d000.s40.t21 
+d000.s63.t3 free%5:00:00:unpaid:00
+d000.s64.t34 marked%5:00:00:noticeable:00
+d000.s74.t0 now%4:02:05::
+d000.s75.t6 
+d000.s76.t19 policy%1:10:00::
+d000.s76.t38 policy%1:09:00::
+d000.s95.t43 transcript%1:10:01::
+d000.s95.t46 transcript%1:10:00::
+d000.s97.t26 
+d000.s104.t48 guilty%3:00:00::
+d000.s112.t10 quickly%4:02:02::
+d000.s120.t15 precedent%1:14:00::
+d000.s125.t13 staff%1:06:00::
+d000.s127.t15 never%4:02:01::
+d000.s127.t60 past%5:00:00:outgoing:00
+d000.s1.t7 empire%1:15:00::
+d000.s12.t29 government%1:14:00::
+d000.s16.t43 absurd%1:26:00::
+d000.s17.t19 gain%1:23:00::
+d000.s18.t2 legalize%2:41:00::
+d000.s19.t35 hide%2:39:00::
+d000.s24.t24 guerrilla%1:18:00::
+d000.s25.t13 year%1:28:01::
+d000.s28.t22 news%1:10:01::
+d000.s57.t16 walk%2:38:00::
+d000.s70.t41 rum%1:13:00::
+d000.s71.t51 
+d000.s90.t5 pr%1:10:00::
+d000.s95.t37 here%4:02:02::
+d000.s101.t59 
+d000.s102.t9 
+d000.s102.t23 verify%2:31:01::
+d000.s102.t35 male%1:05:00::
+d000.s108.t27 sole%5:00:00:unshared:00
+d000.s17.t32 poor%3:00:00::
+d000.s24.t62 immigrant%1:18:00::
+d000.s34.t10 driver%1:18:00::
+d000.s46.t1 food%1:03:00::
+d000.s46.t19 food%1:03:00::
+d000.s49.t40 
+d000.s50.t30 
+d000.s56.t6 hopkins%1:18:04::
+d000.s70.t18 however%4:02:04::
+d000.s87.t0 march%1:28:00::
+d000.s103.t45 however%4:02:04::
+d000.s104.t65 finally%4:02:03::
+d000.s125.t2 company%1:26:00::
+d000.s127.t53 
+d000.s1.t22 now%4:02:00::
+d000.s13.t26 
+d000.s17.t33 neighborhood%1:15:00::
+d000.s18.t13 recently%4:02:00::
+d000.s21.t14 
+d000.s50.t28 
+d000.s68.t5 language%1:10:00::
+d000.s68.t8 
+d000.s68.t23 language%1:10:00::
+d000.s71.t47 can%2:30:00::
+d000.s76.t11 excess%1:04:00::
+d000.s76.t22 
+d000.s88.t22 review%2:31:01::
+d000.s96.t11 experience%2:39:00::
+d000.s96.t26 
+d000.s96.t50 
+d000.s97.t7 professional%3:01:01::
+d000.s101.t27 guarantee%2:32:03::
+d000.s103.t5 off%4:02:04::
+d000.s103.t13 even%4:02:00::
+d000.s108.t49 inquiry%1:10:01::
+d000.s113.t3 reason%1:16:00::
+d000.s113.t25 
+d000.s115.t13 easy%3:00:01::
+d000.s6.t16 history%1:09:00::
+d000.s11.t7 modern%5:00:00:fashionable:00
+d000.s18.t30 understandably%4:02:00::
+d000.s19.t9 mind%1:09:06::
+d000.s20.t10 ruin%2:30:00::
+d000.s25.t3 shooter%1:18:00::
+d000.s32.t20 
+d000.s32.t26 
+d000.s46.t15 parent%1:03:00::
+d000.s49.t17 hobby%1:04:00::
+d000.s49.t39 herb%1:13:00::
+d000.s50.t33 rubbish%1:27:00::
+d000.s68.t14 opposite%5:00:02:other:00
+d000.s72.t31 variable%1:17:00::
+d000.s75.t9 language%1:10:00::
+d000.s77.t2 prohibition%1:04:00::
+d000.s101.t17 
+d000.s108.t17 need%2:34:01::
+d000.s119.t4 decision%1:04:00::
+d000.s119.t8 decision%1:04:00::
+d000.s126.t45 income%1:21:00::
+d000.s9.t8 whole%3:00:00::
+d000.s20.t50 alcohol%1:13:00::
+d000.s24.t18 central%5:00:00:important:00
+d000.s24.t23 marxist%1:18:01::
+d000.s27.t6 conspiracy%1:14:00::
+d000.s27.t24 conspiracy%1:09:00::
+d000.s27.t35 conspiracy%1:09:00::
+d000.s32.t9 report%2:32:03::
+d000.s37.t5 
+d000.s40.t28 right%4:02:09::
+d000.s52.t26 bid%2:40:04::
+d000.s72.t36 
+d000.s74.t12 
+d000.s80.t2 
+d000.s88.t7 here%4:02:00::
+d000.s95.t51 
+d000.s101.t35 allegation%1:10:00::
+d000.s103.t30 only%4:02:02::
+d000.s104.t57 employment%1:04:01::
+d000.s112.t20 explain%2:32:01::
+d000.s120.t8 community%1:14:00::
+d000.s125.t4 world%1:14:01::
+d000.s126.t58 victim%1:18:00::
+d000.s9.t25 alexander%1:20:00::
+d000.s16.t2 
+d000.s16.t66 limit%2:30:00::
+d000.s17.t0 economic%3:01:01::
+d000.s25.t14 now%4:02:00::
+d000.s27.t2 
+d000.s27.t23 information%1:10:00::
+d000.s27.t34 information%1:10:02::
+d000.s32.t3 act%1:03:00::
+d000.s38.t13 statement%1:10:00::
+d000.s61.t5 hopkins%1:18:04::
+d000.s73.t35 only%4:02:02::
+d000.s76.t9 
+d000.s88.t23 political%3:00:00::
+d000.s88.t26 fight%1:10:00::
+d000.s88.t30 
+d000.s96.t0 
+d000.s96.t43 upheaval%1:11:00::
+d000.s97.t27 help%2:29:00::
+d000.s99.t37 
+d000.s104.t31 even%4:02:00::
+d000.s112.t17 wrongful%5:00:00:unlawful:00
+d000.s112.t74 
+d000.s120.t11 large%5:00:00:generous:02
+d000.s126.t7 sexual%3:01:01::
+d000.s126.t49 sexual%3:01:01::
+d000.s126.t52 abuse%1:04:02::
+d000.s126.t65 can%2:41:00::
+d000.s126.t76 sexual%3:01:01::
+d000.s127.t9 reputation%1:26:00::
+d000.s127.t29 unfortunate%3:00:00::
+d000.s5.t17 
+d000.s11.t24 
+d000.s16.t22 california%1:15:00::
+d000.s16.t29 smoke%2:34:00::
+d000.s16.t51 california%1:15:00::
+d000.s20.t43 addict%1:18:00::
+d000.s20.t54 
+d000.s24.t41 saturday%1:28:00::
+d000.s25.t5 engage%2:30:00::
+d000.s43.t23 
+d000.s50.t55 advertising%1:10:00::
+d000.s62.t23 last%5:00:00:past:00
+d000.s70.t7 least%3:00:00::
+d000.s73.t28 future%1:28:00::
+d000.s73.t49 
+d000.s78.t30 segregation%1:04:00::
+d000.s101.t19 only%4:02:00::
+d000.s103.t38 least%3:00:00::
+d000.s108.t47 counsel%1:18:00::
+d000.s112.t51 will%2:31:01::
+d000.s13.t11 country%1:14:00::
+d000.s16.t60 oakland%1:15:00::
+d000.s18.t77 not%4:02:00::
+d000.s19.t24 less%3:00:00::
+d000.s32.t30 
+d000.s53.t12 president%1:18:01::
+d000.s88.t11 
+d000.s94.t22 progressive%3:00:01::
+d000.s95.t35 
+d000.s103.t25 actually%4:02:01::
+d000.s108.t0 blame%1:10:01::
+d000.s108.t54 judge%1:18:00::
+d000.s108.t56 speak%2:32:00::
+d000.s126.t8 harassment%1:04:00::
+d000.s126.t36 harassment%1:04:00::
+d000.s126.t50 harassment%1:04:00::
+d000.s126.t77 harassment%1:04:00::
+d000.s127.t0 
+d000.s5.t21 version%1:09:01::
+d000.s8.t13 ready%5:00:00:prepared:00
+d000.s17.t3 marijuana%1:06:00::
+d000.s17.t7 marijuana%1:06:00::
+d000.s18.t88 as%4:02:00::
+d000.s24.t64 constant%5:00:00:invariable:00
+d000.s25.t15 
+d000.s26.t1 word%1:10:00::
+d000.s27.t7 
+d000.s27.t41 
+d000.s43.t17 mind%2:41:01::
+d000.s53.t18 major%3:00:06::
+d000.s64.t15 other%3:00:00::
+d000.s70.t21 always%4:02:02::
+d000.s71.t49 google%1:10:00::
+d000.s86.t15 
+d000.s95.t16 
+d000.s95.t39 event%1:03:00::
+d000.s95.t52 former%5:00:01:past:00
+d000.s96.t39 first%5:00:02:opening:00
+d000.s99.t25 
+d000.s101.t36 thus%4:02:00::
+d000.s108.t15 
+d000.s112.t64 misconduct%1:04:01::
+d000.s7.t24 
+d000.s9.t31 country%1:14:00::
+d000.s16.t30 more%4:02:01::
+d000.s16.t55 prison%1:06:00::
+d000.s18.t36 drug%1:06:00::
+d000.s18.t69 increase%2:30:02::
+d000.s19.t21 marijuana%1:06:00::
+d000.s19.t40 marijuana%1:06:00::
+d000.s27.t40 plot%1:09:00::
+d000.s30.t19 year%1:28:01::
+d000.s50.t26 problem%1:26:00::
+d000.s50.t45 unhealthy%5:00:00:unwholesome:00
+d000.s50.t47 
+d000.s50.t51 problem%1:09:00::
+d000.s58.t15 
+d000.s64.t33 season%1:28:02::
+d000.s70.t36 people%1:14:00::
+d000.s72.t20 ahead%4:02:04::
+d000.s80.t15 
+d000.s95.t7 
+d000.s103.t27 people%1:14:00::
+d000.s104.t24 uphold%2:42:00::
+d000.s104.t25 convention%1:09:00::
+d000.s104.t32 convention%1:09:00::
+d000.s118.t2 hearing%1:04:01::
+d000.s119.t5 send%2:38:01::
+d000.s125.t3 outside%5:00:00:external:00
+d000.s126.t13 crime%1:04:00::
+d000.s126.t28 whole%1:09:00::
+d000.s126.t68 
+d000.s18.t16 draconian%3:01:00::
+d000.s18.t49 spend%2:40:00::
+d000.s24.t0 dictatorial%5:00:00:undemocratic:00
+d000.s25.t23 inspiration%1:04:01::
+d000.s29.t3 
+d000.s29.t8 say%2:32:00::
+d000.s32.t19 community%1:14:00::
+d000.s46.t8 
+d000.s57.t0 hopkins%1:18:04::
+d000.s58.t0 course%1:04:01::
+d000.s63.t4 agent%1:18:02::
+d000.s64.t41 more%3:00:02::
+d000.s70.t10 many%3:00:00::
+d000.s70.t42 many%3:00:00::
+d000.s73.t11 fully%4:02:04::
+d000.s95.t11 sex%1:04:00::
+d000.s102.t24 behaviour%1:04:00::
+d000.s103.t6 lightly%4:02:06::
+d000.s103.t42 rape%1:04:00::
+d000.s104.t12 
+d000.s104.t52 issue%2:32:01::
+d000.s111.t15 yet%4:02:02::
+d000.s111.t38 
+d000.s114.t86 proposition%2:32:00::
+d000.s18.t80 deterrent%1:09:00::
+d000.s19.t20 quality%1:07:02::
+d000.s20.t8 people%1:14:00::
+d000.s20.t23 people%1:14:00::
+d000.s24.t12 week%1:28:00::
+d000.s24.t29 
+d000.s50.t9 become%2:30:00::
+d000.s50.t62 become%2:30:00::
+d000.s54.t8 conflict%1:26:00::
+d000.s63.t2 sign%2:32:00::
+d000.s67.t15 help%1:07:00::
+d000.s71.t13 developer%1:06:00::
+d000.s73.t33 sad%5:00:00:bad:00
+d000.s73.t50 here%4:02:02::
+d000.s88.t36 conduct%2:38:00::
+d000.s93.t20 story%1:10:03::
+d000.s96.t54 politics%1:09:00::
+d000.s97.t41 
+d000.s101.t29 remain%2:42:05::
+d000.s111.t7 claim%2:32:00::
+d000.s112.t63 guilty%3:00:00::
+d000.s114.t27 outright%5:00:00:unqualified:02
+d000.s114.t71 swiftly%4:02:00::
+d000.s117.t2 process%1:04:00::
+d000.s127.t19 completely%4:02:04::
+d000.s8.t44 text%1:10:00::
+d000.s14.t23 free%3:00:00::
+d000.s16.t48 criminal%5:00:00:guilty:00
+d000.s18.t62 importer%1:18:00::
+d000.s18.t89 long%4:02:03::
+d000.s20.t6 here%4:02:02::
+d000.s50.t63 uncontrollable%5:00:00:intractable:00
+d000.s67.t9 capable%3:00:00::
+d000.s72.t8 
+d000.s72.t10 
+d000.s72.t13 most%3:00:01::
+d000.s72.t21 
+d000.s89.t5 
+d000.s95.t49 
+d000.s97.t9 doctor%1:18:00::
+d000.s97.t15 doctor%1:18:00::
+d000.s106.t24 complaint%1:26:00::
+d000.s108.t32 very%4:02:00::
+d000.s108.t35 very%4:02:01::
+d000.s114.t9 internally%4:02:00::
+d000.s116.t2 process%1:04:00::
+d000.s6.t24 now%4:02:00::
+d000.s24.t27 luxury%1:26:00::
+d000.s50.t6 junk%1:27:00::
+d000.s50.t18 junk%1:27:00::
+d000.s50.t53 junk%1:27:00::
+d000.s67.t17 
+d000.s73.t41 unique%5:00:00:specific:00
+d000.s78.t6 israel%1:15:00::
+d000.s88.t34 london%1:15:00::
+d000.s89.t22 
+d000.s93.t24 company%1:14:06::
+d000.s96.t28 stomach%1:12:01::
+d000.s101.t39 expect%2:31:00::
+d000.s101.t41 believe%2:31:00::
+d000.s101.t45 want%2:37:00::
+d000.s108.t29 
+d000.s112.t31 
+d000.s18.t14 arizona%1:15:00::
+d000.s18.t47 much%3:00:00::
+d000.s18.t51 mexico%1:15:00::
+d000.s20.t53 sensible%5:00:00:perceptible:00
+d000.s24.t4 employment%1:04:02::
+d000.s24.t34 same%3:00:02::
+d000.s24.t40 next%5:00:00:incoming:00
+d000.s40.t16 about%4:02:00::
+d000.s43.t16 
+d000.s67.t4 more%3:00:01::
+d000.s104.t20 show%1:04:00::
+d000.s105.t11 additional%5:00:03:additive:00
+d000.s105.t32 
+d000.s108.t62 even%4:02:00::
+d000.s112.t65 several%5:00:00:some:00
+d000.s114.t45 entirety%1:26:00::
+d000.s122.t44 normally%4:02:00::
+d000.s126.t21 very%4:02:00::
+d000.s127.t32 remain%2:42:05::
+d000.s127.t40 people%1:14:00::
+d000.s3.t9 
+d000.s7.t5 
+d000.s14.t25 trust%1:09:01::
+d000.s15.t29 similar%3:00:00::
+d000.s16.t15 
+d000.s16.t39 
+d000.s18.t32 one%1:09:00::
+d000.s24.t33 
+d000.s43.t37 lie%2:42:00::
+d000.s50.t14 fundamental%5:00:00:important:00
+d000.s64.t13 report%2:32:04::
+d000.s73.t1 still%4:02:01::
+d000.s73.t4 primary%3:00:00::
+d000.s73.t16 still%4:02:01::
+d000.s74.t6 years%1:28:00::
+d000.s78.t20 green%3:01:00::
+d000.s78.t32 severe%5:00:01:bad:00
+d000.s83.t9 outside%3:00:00::
+d000.s88.t19 editor%1:18:00::
+d000.s102.t15 addition%1:21:00::
+d000.s114.t65 incident%1:11:00::
+d000.s114.t85 sexually%4:02:00::
+d000.s121.t2 wrong%3:00:02::
+d000.s126.t17 resign%2:41:00::
+d000.s126.t34 resign%2:41:00::
+d000.s127.t12 massive%5:00:02:large:00
+d000.s6.t1 say%2:32:00::
+d000.s6.t11 
+d000.s16.t23 even%4:02:00::
+d000.s21.t9 open%2:35:00::
+d000.s41.t0 
+d000.s43.t31 chicken%1:13:00::
+d000.s50.t4 very%4:02:00::
+d000.s50.t65 money%1:21:02::
+d000.s73.t27 near%5:00:00:stingy:00
+d000.s76.t24 segregation%1:14:00::
+d000.s93.t13 world%1:17:01::
+d000.s102.t11 similar%3:00:00::
+d000.s104.t14 
+d000.s114.t7 not%4:02:00::
+d000.s114.t12 july%1:28:00::
+d000.s114.t56 
+d000.s114.t58 not%4:02:00::
+d000.s114.t91 not%4:02:00::
+d000.s126.t35 due%3:00:02::
+d000.s4.t27 price%1:07:02::
+d000.s14.t10 
+d000.s16.t8 policy%1:09:00::
+d000.s17.t29 send%2:32:02::
+d000.s17.t43 use%2:34:00::
+d000.s20.t48 legal%3:00:00::
+d000.s30.t2 
+d000.s40.t29 now%4:02:00::
+d000.s51.t13 conflict%1:07:00::
+d000.s70.t34 other%3:00:00::
+d000.s73.t6 personal%3:00:00::
+d000.s77.t18 family%1:14:04::
+d000.s82.t11 
+d000.s84.t6 release%2:32:00::
+d000.s104.t22 faith%1:04:00::
+d000.s112.t23 
+d000.s112.t59 
+d000.s112.t72 even%4:02:00::
+d000.s114.t28 
+d000.s114.t29 as%4:02:00::
+d000.s115.t14 access%1:07:01::
+d000.s120.t0 complaint%1:10:00::
+d000.s121.t9 
+d000.s126.t19 like%2:37:05::
+d000.s127.t34 dark%1:26:01::
+d000.s8.t27 berlin%1:15:00::
+d000.s11.t5 sell%2:42:14::
+d000.s12.t17 death%1:26:01::
+d000.s16.t58 only%4:02:06::
+d000.s16.t59 student%1:18:00::
+d000.s18.t6 
+d000.s18.t56 will%2:32:00::
+d000.s18.t76 will%2:32:00::
+d000.s18.t82 will%2:32:00::
+d000.s46.t0 healthy%5:00:00:wholesome:00
+d000.s46.t7 healthy%5:00:00:wholesome:00
+d000.s69.t13 support%2:36:00::
+d000.s70.t3 
+d000.s70.t17 
+d000.s70.t33 
+d000.s70.t39 
+d000.s71.t16 barrier%1:17:00::
+d000.s73.t19 other%3:00:00::
+d000.s95.t45 name%1:10:00::
+d000.s105.t35 such%5:00:00:much:00
+d000.s105.t38 enable%2:30:00::
+d000.s112.t13 
+d000.s114.t5 october%1:28:00::
+d000.s114.t10 externally%4:02:00::
+d000.s114.t24 dubiously%4:02:01::
+d000.s114.t32 relevant%3:00:00::
+d000.s122.t36 such%5:00:00:much:00
+d000.s122.t81 
+d000.s16.t0 statistic%1:09:00::
+d000.s24.t15 athens%1:15:02::
+d000.s24.t55 evacuation%1:04:01::
+d000.s24.t59 athens%1:15:02::
+d000.s33.t7 lose%2:40:02::
+d000.s46.t38 
+d000.s80.t9 response%1:19:00::
+d000.s99.t33 learn%2:32:02::
+d000.s101.t31 other%3:00:00::
+d000.s101.t34 evidence%1:09:00::
+d000.s104.t45 
+d000.s113.t36 complaint%1:10:00::
+d000.s114.t20 summary%1:10:00::
+d000.s114.t74 solidly%4:02:02::
+d000.s11.t25 europe%1:17:00::
+d000.s18.t39 back%3:00:00::
+d000.s20.t28 
+d000.s41.t14 way%1:04:01::
+d000.s50.t38 only%4:02:02::
+d000.s50.t57 only%4:02:02::
+d000.s71.t4 people%1:14:00::
+d000.s71.t27 different%3:00:00::
+d000.s71.t46 different%5:00:00:other:00
+d000.s76.t8 dismiss%2:32:00::
+d000.s95.t23 
+d000.s99.t3 decision%1:04:00::
+d000.s101.t3 
+d000.s101.t10 able%5:00:00:capable:00
+d000.s101.t12 
+d000.s101.t20 woman%1:18:00::
+d000.s101.t32 
+d000.s101.t55 event%1:03:00::
+d000.s103.t28 tell%2:31:01::
+d000.s105.t23 july%1:28:00::
+d000.s105.t25 not%4:02:00::
+d000.s105.t46 not%4:02:00::
+d000.s105.t67 not%4:02:00::
+d000.s122.t24 employee%1:18:00::
+d000.s122.t33 employee%1:18:00::
+d000.s127.t21 majority%1:07:00::
+d000.s9.t6 awful%5:00:00:bad:00
+d000.s15.t36 last%5:00:00:unlikely:00
+d000.s16.t63 
+d000.s68.t3 world%1:09:00::
+d000.s88.t25 contract%1:10:00::
+d000.s95.t9 ask%2:32:01::
+d000.s95.t20 confused%5:00:00:perplexed:00
+d000.s99.t27 
+d000.s101.t58 more%3:00:02::
+d000.s122.t7 as%4:02:00::
+d000.s122.t76 be%1:27:00::
+d000.s126.t3 
+d000.s17.t30 year%1:28:01::
+d000.s18.t28 worried%5:00:00:uneasy:00
+d000.s18.t74 prison%1:26:00::
+d000.s20.t38 person%1:03:00::
+d000.s37.t4 safety%1:26:00::
+d000.s54.t9 interest%1:07:01::
+d000.s71.t17 want%2:42:01::
+d000.s73.t46 
+d000.s98.t6 
+d000.s99.t20 
+d000.s100.t51 
+d000.s101.t0 mind%1:09:03::
+d000.s104.t40 judicial%5:00:00:legal:00
+d000.s105.t14 tweet%1:11:00::
+d000.s112.t37 
+d000.s114.t87 january%1:28:00::
+d000.s122.t9 possible%3:00:00::
+d000.s122.t51 kind%1:09:00::
+d000.s124.t4 long%3:00:02::
+d000.s127.t36 transpire%2:30:09::
+d000.s9.t30 free%5:00:00:nonexistent:00
+d000.s16.t36 people%1:14:00::
+d000.s27.t38 edge%1:15:00::
+d000.s34.t12 
+d000.s40.t12 
+d000.s40.t20 
+d000.s43.t24 now%4:02:00::
+d000.s70.t24 example%1:09:00::
+d000.s73.t44 finished%5:00:00:destroyed:00
+d000.s75.t8 strong%3:00:00::
+d000.s76.t3 israel%1:15:00::
+d000.s76.t14 israel%1:15:00::
+d000.s83.t6 response%1:19:00::
+d000.s88.t39 
+d000.s88.t41 country%1:14:00::
+d000.s89.t6 critical%3:00:03::
+d000.s94.t26 course%1:14:01::
+d000.s99.t9 friend%1:18:00::
+d000.s112.t48 contrary%5:00:00:different:00
+d000.s114.t46 public%1:14:01::
+d000.s126.t30 people%1:14:00::
+d000.s126.t61 remain%2:42:03::
+d000.s127.t30 event%1:03:00::
+d000.s17.t40 school%1:14:00::
+d000.s26.t13 williams%1:18:00::
+d000.s50.t35 always%4:02:00::
+d000.s53.t3 big%3:00:01::
+d000.s58.t18 little%5:00:00:unimportant:00
+d000.s64.t30 
+d000.s68.t9 
+d000.s73.t14 
+d000.s79.t24 condemnation%1:10:00::
+d000.s91.t11 world%1:14:02::
+d000.s99.t4 early%3:00:00::
+d000.s103.t18 dismiss%2:32:00::
+d000.s103.t47 verbal%3:01:01::
+d000.s8.t39 historical%3:00:04::
+d000.s11.t10 
+d000.s16.t65 want%2:37:00::
+d000.s17.t31 old%5:00:00:genuine:00
+d000.s19.t13 street%1:26:01::
+d000.s36.t2 state%1:14:01::
+d000.s50.t66 
+d000.s52.t33 
+d000.s71.t20 java%1:10:00::
+d000.s71.t48 still%4:02:00::
+d000.s73.t13 
+d000.s96.t21 yet%4:02:02::
+d000.s100.t3 predominantly%4:02:00::
+d000.s105.t41 secrecy%1:07:02::
+d000.s108.t7 squarely%4:02:03::
+d000.s114.t17 website%1:10:00::
+d000.s117.t4 
+d000.s126.t39 unable%3:00:00::
+d000.s7.t19 use%1:07:03::
+d000.s16.t54 inmate%1:18:02::
+d000.s26.t7 hamilton%1:15:00::
+d000.s28.t4 story%1:10:03::
+d000.s67.t13 large%5:00:00:generous:02
+d000.s76.t15 
+d000.s76.t27 community%1:21:00::
+d000.s92.t8 
+d000.s100.t31 april%1:28:00::
+d000.s104.t61 
+d000.s112.t47 
+d000.s112.t58 intention%1:04:00::
+d000.s114.t22 inquiry%1:04:00::
+d000.s120.t34 conclusion%1:09:01::
+d000.s127.t14 need%1:26:00::
+d000.s8.t32 station%1:26:00::
+d000.s16.t5 
+d000.s16.t11 favor%1:09:00::
+d000.s18.t48 money%1:21:00::
+d000.s19.t16 walk%2:38:00::
+d000.s24.t39 expectation%1:26:00::
+d000.s24.t54 expectation%1:12:00::
+d000.s24.t66 bourgeois%5:00:02:middle-class:00
+d000.s27.t17 specific%5:00:00:specified:00
+d000.s27.t36 theory%1:09:02::
+d000.s67.t10 
+d000.s94.t3 capacity%1:07:00::
+d000.s100.t67 advice%1:10:00::
+d000.s103.t12 assault%1:04:02::
+d000.s103.t15 assault%1:04:02::
+d000.s114.t34 can%2:30:00::
+d000.s114.t69 will%2:32:00::
+d000.s119.t20 staff%1:14:01::
+d000.s0.t0 magazine%1:10:00::
+d000.s3.t12 rich%3:00:02::
+d000.s9.t24 
+d000.s18.t29 violence%1:04:01::
+d000.s20.t19 marijuana%1:06:00::
+d000.s32.t10 
+d000.s36.t4 new%3:00:00::
+d000.s50.t23 much%4:02:00::
+d000.s51.t14 interest%1:07:01::
+d000.s53.t16 sign%2:35:02::
+d000.s53.t21 company%1:14:01::
+d000.s71.t59 few%3:00:00::
+d000.s76.t34 property%1:15:00::
+d000.s89.t25 meet%2:33:00::
+d000.s96.t29 
+d000.s100.t25 not%4:02:00::
+d000.s100.t78 kenyan%1:18:00::
+d000.s100.t99 prudent%3:00:00::
+d000.s105.t58 
+d000.s108.t57 intervene%2:30:00::
+d000.s112.t54 
+d000.s114.t57 spite%1:12:00::
+d000.s8.t14 capitalize%2:40:02::
+d000.s17.t16 save%2:40:03::
+d000.s43.t34 implication%1:24:00::
+d000.s49.t3 thing%1:04:00::
+d000.s49.t18 stress%1:26:03::
+d000.s57.t13 
+d000.s71.t55 
+d000.s72.t2 easy%5:00:00:impressionable:00
+d000.s73.t53 
+d000.s95.t29 isolated%5:00:00:separate:00
+d000.s100.t59 as%4:02:00::
+d000.s100.t76 as%4:02:00::
+d000.s104.t0 reason%1:10:01::
+d000.s105.t18 
+d000.s108.t60 hours%1:28:01::
+d000.s112.t67 none%1:28:00::
+d000.s114.t8 
+d000.s114.t66 harassment%1:04:00::
+d000.s121.t6 process%1:04:00::
+d000.s126.t75 majority%1:07:00::
+d000.s8.t11 moment%1:28:00::
+d000.s14.t20 years%1:28:01::
+d000.s18.t7 
+d000.s18.t17 immigration%1:04:00::
+d000.s18.t65 demand%1:09:00::
+d000.s18.t85 demand%1:26:00::
+d000.s50.t7 food%1:03:00::
+d000.s50.t15 food%1:03:00::
+d000.s50.t31 kid%1:05:00::
+d000.s50.t54 food%1:03:00::
+d000.s68.t15 direction%1:09:00::
+d000.s79.t23 recognition%1:10:01::
+d000.s91.t2 face%2:32:00::
+d000.s97.t35 late%3:00:00::
+d000.s99.t40 isolated%5:00:00:separate:00
+d000.s100.t8 possible%3:00:00::
+d000.s103.t19 
+d000.s105.t43 
+d000.s105.t66 
+d000.s105.t77 
+d000.s108.t24 manage%2:41:00::
+d000.s112.t16 avoid%2:41:01::
+d000.s114.t75 
+d000.s5.t8 lose%2:40:02::
+d000.s18.t54 american%3:01:01::
+d000.s59.t7 
+d000.s73.t43 help%2:41:00::
+d000.s104.t28 internal%5:00:00:intramural:00
+d000.s104.t36 internal%3:00:00::
+d000.s105.t16 
+d000.s117.t6 be%2:42:03::
+d000.s119.t18 course%1:14:00::
+d000.s122.t30 there%4:02:02::
+d000.s122.t34 can%2:41:00::
+d000.s122.t54 will%2:31:01::
+d000.s122.t57 will%2:32:00::
+d000.s122.t64 will%2:32:00::
+d000.s122.t79 will%2:31:01::
+d000.s32.t12 
+d000.s50.t20 
+d000.s59.t16 true%3:00:00::
+d000.s62.t15 stop%2:42:00::
+d000.s93.t23 change%1:06:01::
+d000.s100.t6 thankfully%4:02:00::
+d000.s100.t42 unwelcome%5:00:00:unwanted:00
+d000.s100.t74 
+d000.s112.t30 
+d000.s126.t72 
+d000.s11.t31 look%2:42:00::
+d000.s16.t4 really%4:02:03::
+d000.s16.t20 more%3:00:02::
+d000.s16.t64 really%4:02:04::
+d000.s49.t27 tension%1:04:00::
+d000.s52.t27 thing%1:07:00::
+d000.s64.t0 
+d000.s64.t31 
+d000.s96.t15 office%1:04:01::
+d000.s100.t35 conversation%1:10:00::
+d000.s100.t90 environment%1:26:00::
+d000.s101.t61 duck%1:13:00::
+d000.s102.t4 
+d000.s102.t18 
+d000.s102.t26 
+d000.s105.t42 encourage%2:32:00::
+d000.s105.t44 harassment%1:04:00::
+d000.s105.t83 harassment%1:04:00::
+d000.s109.t8 be%2:42:03::
+d000.s112.t6 able%3:00:00::
+d000.s112.t18 termination%1:04:00::
+d000.s112.t25 event%1:03:00::
+d000.s114.t41 
+d000.s119.t19 hearing%1:15:00::
+d000.s20.t56 build%2:30:10::
+d000.s50.t17 creep%1:18:00::
+d000.s51.t19 planet%1:18:00::
+d000.s64.t2 free%5:00:00:unpaid:00
+d000.s70.t6 rare%5:00:00:scarce:00
+d000.s73.t21 finish%2:30:02::
+d000.s100.t75 
+d000.s106.t29 negative%3:00:01::
+d000.s115.t4 work%1:04:01::
+d000.s122.t73 
+d000.s126.t54 person%1:03:00::
+d000.s1.t16 
+d000.s12.t35 version%1:09:01::
+d000.s15.t28 
+d000.s17.t41 education%1:14:00::
+d000.s18.t9 emerge%2:30:01::
+d000.s18.t57 always%4:02:00::
+d000.s18.t83 always%4:02:00::
+d000.s46.t21 family%1:14:04::
+d000.s50.t19 normal%3:00:01::
+d000.s50.t24 more%3:00:01::
+d000.s67.t18 
+d000.s70.t13 use%2:34:01::
+d000.s70.t37 
+d000.s71.t19 whole%5:00:00:undiversified:00
+d000.s79.t6 law%1:04:00::
+d000.s79.t16 
+d000.s83.t13 
+d000.s95.t17 night%1:28:00::
+d000.s95.t40 night%1:28:00::
+d000.s100.t23 ensure%2:31:00::
+d000.s101.t24 forward%4:02:01::
+d000.s103.t52 addition%1:21:00::
+d000.s105.t82 
+d000.s114.t92 chronology%1:09:00::
+d000.s122.t0 timeline%1:10:00::
+d000.s127.t17 
+d000.s8.t10 last%5:00:00:unlikely:00
+d000.s10.t7 s%1:24:00::
+d000.s17.t25 
+d000.s18.t26 people%1:14:00::
+d000.s24.t17 
+d000.s24.t25 group%1:03:00::
+d000.s24.t48 
+d000.s27.t27 
+d000.s44.t15 true%5:00:00:typical:00
+d000.s50.t52 
+d000.s97.t30 wrong%5:00:00:malfunctioning:00
+d000.s100.t18 month%1:28:01::
+d000.s100.t32 month%1:28:01::
+d000.s100.t54 only%5:00:00:exclusive:00
+d000.s104.t4 forward%4:02:03::
+d000.s109.t6 action%1:04:02::
+d000.s112.t60 finding%1:17:00::
+d000.s122.t50 
+d000.s18.t19 many%3:00:00::
+d000.s18.t43 many%3:00:00::
+d000.s18.t70 patrol%1:04:00::
+d000.s26.t6 john%1:18:00::
+d000.s30.t22 
+d000.s33.t1 be%2:42:03::
+d000.s33.t5 wheel%1:06:00::
+d000.s58.t21 
+d000.s66.t17 deal%1:04:01::
+d000.s71.t60 
+d000.s86.t7 lot%1:18:00::
+d000.s108.t22 failure%1:04:01::
+d000.s108.t37 failure%1:04:01::
+d000.s108.t55 failure%1:26:02::
+d000.s114.t53 
+d000.s122.t15 acceptable%5:00:00:good:01
+d000.s10.t2 be%2:42:04::
+d000.s18.t5 hurt%2:39:00::
+d000.s18.t33 want%2:31:01::
+d000.s22.t80 coveted%5:00:00:desirable:00
+d000.s50.t42 
+d000.s56.t0 time%1:11:00::
+d000.s74.t3 do%2:41:01::
+d000.s79.t2 david%1:18:00::
+d000.s105.t36 predation%1:04:00::
+d000.s108.t28 reason%1:16:00::
+d000.s123.t4 be%2:42:03::
+d000.s123.t10 be%2:42:03::
+d000.s0.t12 law%1:10:00::
+d000.s13.t19 
+d000.s18.t75 
+d000.s22.t1 
+d000.s22.t40 
+d000.s22.t45 soon%4:02:00::
+d000.s22.t52 
+d000.s42.t3 so%4:02:02::
+d000.s62.t9 way%1:07:01::
+d000.s81.t1 be%2:42:03::
+d000.s100.t48 
+d000.s100.t86 sexual%3:01:01::
+d000.s101.t62 row%1:10:00::
+d000.s103.t1 grim%5:00:00:alarming:00
+d000.s103.t7 
+d000.s104.t49 gross%5:00:00:conspicuous:00
+d000.s112.t45 verbal%3:01:01::
+d000.s113.t29 organisation%1:14:01::
+d000.s114.t52 policy%1:09:00::
+d000.s122.t16 global%5:00:00:international:00
+d000.s126.t62 silent%5:00:02:inaudible:00
+d000.s16.t1 marijuana%1:06:00::
+d000.s18.t41 matter%1:09:01::
+d000.s25.t16 fox%1:05:00::
+d000.s29.t0 williams%1:18:05::
+d000.s41.t10 be%2:42:06::
+d000.s63.t13 link%1:24:00::
+d000.s70.t2 
+d000.s70.t16 library%1:06:02::
+d000.s73.t5 language%1:10:00::
+d000.s73.t20 
+d000.s82.t1 
+d000.s100.t92 
+d000.s100.t100 first%4:02:00::
+d000.s101.t63 submit%2:32:01::
+d000.s105.t1 main%5:00:00:important:00
+d000.s106.t7 response%1:19:00::
+d000.s121.t22 issue%1:09:01::
+d000.s122.t41 very%4:02:01::
+d000.s124.t8 be%2:41:00::
+d000.s3.t19 change%2:30:00::
+d000.s4.t0 law%1:10:00::
+d000.s13.t4 
+d000.s18.t53 latin%3:01:01::
+d000.s18.t60 border%1:15:00::
+d000.s18.t71 border%1:15:00::
+d000.s22.t9 
+d000.s22.t17 
+d000.s22.t49 police%1:14:00::
+d000.s22.t58 policeman%1:18:00::
+d000.s22.t106 police%1:14:00::
+d000.s22.t109 police%1:14:00::
+d000.s22.t118 police%1:14:00::
+d000.s27.t32 
+d000.s34.t6 
+d000.s45.t5 
+d000.s45.t10 be%2:42:04::
+d000.s45.t13 be%2:42:03::
+d000.s52.t20 
+d000.s54.t2 time%1:28:06::
+d000.s55.t3 be%2:42:03::
+d000.s63.t9 deal%1:10:00::
+d000.s71.t32 community%1:21:00::
+d000.s78.t16 
+d000.s88.t2 pm%1:10:00::
+d000.s100.t58 misconduct%1:04:01::
+d000.s100.t87 harassment%1:04:00::
+d000.s104.t53 notice%1:10:03::
+d000.s105.t55 ignore%2:32:02::
+d000.s105.t72 violence%1:04:01::
+d000.s108.t21 responsibility%1:04:00::
+d000.s112.t42 
+d000.s115.t11 
+d000.s118.t3 board%1:14:00::
+d000.s119.t22 access%1:07:00::
+d000.s122.t10 maximum%1:23:00::
+d000.s125.t8 
+d000.s8.t45 stamp%2:36:00::
+d000.s12.t13 years%1:28:00::
+d000.s19.t37 use%1:04:00::
+d000.s22.t8 fascist%3:01:00::
+d000.s22.t71 mr%1:10:00::
+d000.s24.t10 country%1:14:00::
+d000.s24.t43 pride%1:07:00::
+d000.s47.t17 start%2:30:00::
+d000.s50.t32 eat%2:34:00::
+d000.s56.t7 be%2:42:03::
+d000.s77.t10 
+d000.s98.t19 
+d000.s99.t5 march%1:28:00::
+d000.s100.t64 then%4:02:02::
+d000.s104.t55 cause%1:10:00::
+d000.s105.t10 
+d000.s105.t12 
+d000.s105.t40 silence%1:07:01::
+d000.s105.t57 
+d000.s105.t90 silence%1:07:01::
+d000.s108.t4 entire%5:00:01:whole:00
+d000.s112.t69 news%1:10:00::
+d000.s114.t79 thus%4:02:00::
+d000.s20.t30 
+d000.s32.t15 organization%1:04:02::
+d000.s32.t22 
+d000.s35.t17 state%1:03:00::
+d000.s56.t12 
+d000.s62.t18 allow%2:41:00::
+d000.s71.t8 build%2:36:00::
+d000.s71.t10 
+d000.s71.t30 server%1:06:00::
+d000.s80.t14 be%2:42:04::
+d000.s85.t0 be%2:42:03::
+d000.s86.t13 so%4:02:06::
+d000.s96.t6 focus%1:09:00::
+d000.s96.t48 programme%1:09:00::
+d000.s101.t11 identify%2:31:03::
+d000.s105.t3 contention%1:10:02::
+d000.s114.t16 list%2:41:00::
+d000.s114.t54 
+d000.s10.t8 
+d000.s12.t24 fair%5:00:00:legible:00
+d000.s18.t24 other%5:00:00:strange:00
+d000.s18.t52 other%3:00:00::
+d000.s18.t73 
+d000.s27.t16 look%2:39:02::
+d000.s38.t3 step%1:04:02::
+d000.s47.t6 be%2:42:03::
+d000.s47.t16 be%2:42:03::
+d000.s91.t10 us%1:15:00::
+d000.s95.t38 statement%1:10:00::
+d000.s100.t0 leave%1:28:00::
+d000.s122.t62 communication%1:03:00::
+d000.s4.t17 guard%1:14:00::
+d000.s16.t49 justice%1:14:00::
+d000.s19.t19 high%3:00:02::
+d000.s21.t18 lead%2:42:12::
+d000.s46.t30 fresh%3:00:01::
+d000.s48.t17 so%4:02:02::
+d000.s54.t4 be%2:42:06::
+d000.s54.t6 be%2:42:06::
+d000.s54.t12 be%2:42:03::
+d000.s64.t3 agent%1:18:01::
+d000.s87.t6 be%2:42:03::
+d000.s87.t13 be%2:42:03::
+d000.s87.t18 be%2:42:03::
+d000.s101.t64 complaint%1:10:04::
+d000.s106.t14 david%1:18:02::
+d000.s111.t2 receive%2:31:00::
+d000.s111.t29 law%1:09:00::
+d000.s114.t80 far%4:02:01::
+d000.s115.t2 be%2:42:06::
+d000.s115.t6 be%2:42:03::
+d000.s115.t9 be%2:42:06::
+d000.s118.t11 be%2:42:03::
+d000.s18.t87 
+d000.s22.t0 tuesday%1:28:00::
+d000.s22.t24 fascist%1:18:00::
+d000.s22.t43 fascist%1:18:00::
+d000.s22.t56 fascist%1:18:00::
+d000.s22.t85 fascist%1:18:00::
+d000.s22.t99 fascist%1:18:00::
+d000.s24.t14 station%1:07:00::
+d000.s29.t18 do%2:41:01::
+d000.s38.t1 be%2:42:06::
+d000.s61.t2 be%2:42:03::
+d000.s68.t10 
+d000.s70.t32 share%1:21:00::
+d000.s71.t6 
+d000.s71.t53 
+d000.s82.t10 be%2:42:03::
+d000.s82.t12 
+d000.s82.t17 be%2:42:03::
+d000.s89.t3 
+d000.s90.t9 deal%1:23:00::
+d000.s103.t11 physical%3:00:00::
+d000.s104.t66 free%3:00:00::
+d000.s105.t79 
+d000.s124.t12 leave%2:42:00::
+d000.s126.t69 
+d000.s22.t6 daily%4:02:00::
+d000.s30.t8 williams%1:18:00::
+d000.s44.t1 image%1:09:02::
+d000.s59.t2 be%2:42:06::
+d000.s59.t6 be%2:42:03::
+d000.s59.t9 be%2:42:03::
+d000.s59.t11 be%2:42:03::
+d000.s59.t20 be%2:42:03::
+d000.s66.t14 be%2:42:03::
+d000.s67.t23 easy%5:00:00:available:00
+d000.s69.t1 be%2:42:03::
+d000.s76.t20 
+d000.s86.t10 kill%2:35:00::
+d000.s86.t11 kill%2:35:00::
+d000.s89.t23 deal%1:11:00::
+d000.s99.t11 
+d000.s105.t73 actually%4:02:01::
+d000.s114.t31 omission%1:26:00::
+d000.s114.t72 assurance%1:10:00::
+d000.s122.t13 
+d000.s123.t0 support%1:04:04::
+d000.s123.t3 support%1:09:00::
+d000.s123.t11 support%1:09:00::
+d000.s3.t4 tight%3:00:01::
+d000.s8.t18 
+d000.s8.t20 version%1:09:01::
+d000.s13.t20 study%1:04:00::
+d000.s18.t38 operate%2:30:00::
+d000.s18.t64 smart%5:00:00:intense:00
+d000.s24.t61 
+d000.s39.t14 be%2:42:03::
+d000.s58.t1 be%2:42:03::
+d000.s58.t7 be%2:42:03::
+d000.s90.t8 new%3:00:00::
+d000.s99.t29 course%1:04:00::
+d000.s100.t19 average%1:09:01::
+d000.s104.t41 now%4:02:02::
+d000.s127.t3 complaint%1:10:03::
+d000.s127.t13 hit%1:04:00::
+d000.s16.t17 possession%1:04:00::
+d000.s16.t40 possession%1:04:00::
+d000.s22.t2 solidarity%1:07:00::
+d000.s22.t11 
+d000.s28.t16 david%1:18:02::
+d000.s30.t11 hamilton%1:15:00::
+d000.s39.t4 number%1:07:01::
+d000.s73.t45 
+d000.s81.t3 house%1:14:02::
+d000.s108.t6 
+d000.s112.t24 speed%1:07:00::
+d000.s120.t20 process%1:04:00::
+d000.s121.t1 be%2:42:03::
+d000.s1.t6 s%1:23:00::
+d000.s16.t9 
+d000.s39.t20 
+d000.s71.t36 
+d000.s94.t13 work%1:09:00::
+d000.s100.t69 base%2:42:04::
+d000.s105.t64 many%3:00:00::
+d000.s105.t65 many%3:00:00::
+d000.s111.t14 us%1:15:00::
+d000.s114.t15 still%4:02:04::
+d000.s114.t21 proceedings%1:10:00::
+d000.s114.t39 proceedings%1:10:00::
+d000.s3.t8 s%1:23:00::
+d000.s8.t2 
+d000.s21.t12 be%2:42:03::
+d000.s22.t7 
+d000.s28.t7 williams%1:18:03::
+d000.s28.t28 
+d000.s42.t15 be%2:42:03::
+d000.s42.t18 be%2:42:03::
+d000.s44.t18 be%2:42:03::
+d000.s50.t3 
+d000.s50.t60 most%3:00:01::
+d000.s51.t12 
+d000.s51.t18 be%2:42:03::
+d000.s52.t39 stop%2:30:12::
+d000.s57.t18 be%2:42:03::
+d000.s57.t20 be%2:42:03::
+d000.s61.t17 
+d000.s63.t22 be%2:42:06::
+d000.s73.t57 thing%1:10:00::
+d000.s86.t19 show%2:32:01::
+d000.s100.t79 florida%1:15:00::
+d000.s103.t35 big%5:00:00:important:00
+d000.s113.t45 way%1:07:01::
+d000.s122.t68 expect%2:32:00::
+d000.s1.t1 be%2:42:06::
+d000.s1.t8 be%2:42:03::
+d000.s15.t30 law%1:09:01::
+d000.s18.t21 
+d000.s18.t81 america%1:17:00::
+d000.s22.t3 immigrant%1:18:00::
+d000.s22.t32 immigrant%1:18:00::
+d000.s22.t55 protect%2:33:00::
+d000.s22.t60 
+d000.s22.t73 
+d000.s73.t25 big%5:00:00:important:00
+d000.s79.t26 system%1:14:00::
+d000.s88.t8 
+d000.s99.t46 years%1:28:01::
+d000.s100.t16 only%4:02:05::
+d000.s101.t2 reach%2:32:00::
+d000.s103.t17 easy%5:00:00:light:08
+d000.s3.t17 be%2:42:03::
+d000.s3.t22 be%2:42:03::
+d000.s14.t1 do%2:42:00::
+d000.s15.t31 change%1:24:00::
+d000.s18.t1 reason%1:16:00::
+d000.s18.t3 marijuana%1:06:00::
+d000.s18.t50 marijuana%1:06:00::
+d000.s18.t86 marijuana%1:06:00::
+d000.s22.t29 impose%2:41:00::
+d000.s24.t46 year%1:28:01::
+d000.s28.t1 hamilton%1:18:00::
+d000.s28.t21 
+d000.s37.t6 
+d000.s37.t13 be%2:42:03::
+d000.s75.t19 term%1:10:00::
+d000.s87.t5 
+d000.s87.t12 
+d000.s87.t17 second%1:24:00::
+d000.s93.t3 be%2:42:03::
+d000.s93.t9 be%2:42:03::
+d000.s93.t16 be%2:42:03::
+d000.s93.t18 be%2:42:03::
+d000.s100.t65 seek%2:32:00::
+d000.s100.t94 file%2:32:02::
+d000.s105.t22 light%2:40:12::
+d000.s114.t70 handle%2:41:00::
+d000.s114.t89 evidence%1:09:00::
+d000.s12.t10 law%1:14:00::
+d000.s22.t39 playground%1:06:00::
+d000.s22.t81 playground%1:06:00::
+d000.s22.t88 playground%1:06:00::
+d000.s22.t93 traitor%1:18:00::
+d000.s22.t98 neighbor%1:18:00::
+d000.s24.t68 waste%2:35:00::
+d000.s35.t15 be%2:42:03::
+d000.s57.t19 action%1:04:02::
+d000.s73.t36 write%2:36:10::
+d000.s89.t14 
+d000.s104.t35 apply%2:42:00::
+d000.s112.t3 claim%2:32:00::
+d000.s114.t25 
+d000.s114.t37 recording%1:04:00::
+d000.s114.t44 recording%1:04:00::
+d000.s114.t93 event%1:03:00::
+d000.s2.t18 late%3:00:00::
+d000.s9.t18 away%4:02:01::
+d000.s17.t17 law%1:14:00::
+d000.s18.t37 dealer%1:18:00::
+d000.s22.t61 
+d000.s22.t87 exit%1:11:00::
+d000.s24.t11 last%5:00:00:past:00
+d000.s24.t45 last%5:00:00:worst:00
+d000.s25.t22 be%2:42:03::
+d000.s40.t7 
+d000.s48.t25 s%1:27:00::
+d000.s50.t59 simple%5:00:02:plain:01
+d000.s54.t16 t%1:08:04::
+d000.s57.t8 
+d000.s62.t24 time%1:11:00::
+d000.s91.t21 
+d000.s93.t8 think%2:31:01::
+d000.s100.t52 
+d000.s108.t25 complaint%1:10:00::
+d000.s122.t45 
+d000.s8.t25 
+d000.s11.t2 
+d000.s16.t33 last%5:00:00:worst:00
+d000.s16.t61 school%1:09:00::
+d000.s18.t55 
+d000.s24.t56 old%3:00:01::
+d000.s28.t25 jones%1:18:00::
+d000.s52.t28 stand%2:42:04::
+d000.s53.t30 association%1:04:00::
+d000.s64.t27 home%1:06:02::
+d000.s64.t42 home%1:15:03::
+d000.s67.t27 
+d000.s82.t5 house%1:14:02::
+d000.s104.t5 story%1:10:03::
+d000.s122.t66 party%1:14:02::
+d000.s122.t92 party%1:18:00::
+d000.s0.t2 image%1:06:00::
+d000.s22.t21 entrance%1:11:00::
+d000.s22.t104 chief%1:18:00::
+d000.s24.t9 tension%1:26:03::
+d000.s29.t1 be%2:42:03::
+d000.s35.t2 measure%1:04:01::
+d000.s41.t4 call%1:10:04::
+d000.s43.t19 
+d000.s47.t15 day%1:28:00::
+d000.s48.t0 be%2:42:06::
+d000.s79.t18 be%2:42:06::
+d000.s94.t9 time%1:11:00::
+d000.s96.t32 retreat%1:04:02::
+d000.s96.t34 retreat%1:04:02::
+d000.s98.t2 
+d000.s104.t27 application%1:04:02::
+d000.s122.t48 evidence%1:09:00::
+d000.s122.t69 hear%2:31:00::
+d000.s122.t74 other%3:00:00::
+d000.s22.t47 arrival%1:04:00::
+d000.s22.t113 then%4:02:01::
+d000.s32.t7 williams%1:18:03::
+d000.s39.t2 good%5:00:00:ample:00
+d000.s50.t21 appear%2:39:00::
+d000.s58.t12 t%1:27:01::
+d000.s68.t1 be%2:42:03::
+d000.s97.t13 infection%1:26:00::
+d000.s99.t43 
+d000.s105.t54 just%4:02:03::
+d000.s112.t8 complaint%1:10:03::
+d000.s122.t11 calendar%1:28:00::
+d000.s122.t49 claim%1:07:01::
+d000.s127.t22 staff%1:14:01::
+d000.s4.t13 time%1:11:00::
+d000.s12.t5 latest%5:00:00:current:00
+d000.s18.t35 foreign%5:00:00:adulterating:00
+d000.s22.t31 
+d000.s22.t69 greek%1:18:00::
+d000.s22.t121 solicitor%1:18:01::
+d000.s24.t20 office%1:14:01::
+d000.s24.t31 class%1:14:01::
+d000.s48.t21 ring%1:07:00::
+d000.s62.t3 be%2:42:03::
+d000.s62.t7 be%2:42:03::
+d000.s62.t20 be%2:42:03::
+d000.s75.t0 be%2:42:06::
+d000.s78.t23 
+d000.s84.t8 
+d000.s97.t34 work%1:04:01::
+d000.s122.t87 means%1:04:00::
+d000.s8.t35 blue%5:00:00:noble:02
+d000.s22.t78 son%1:18:00::
+d000.s32.t29 fox%1:05:00::
+d000.s34.t0 measure%1:10:02::
+d000.s41.t2 have%2:42:00::
+d000.s64.t16 club%1:14:01::
+d000.s68.t18 hard%3:00:06::
+d000.s73.t2 pick%2:31:00::
+d000.s73.t18 pick%2:31:00::
+d000.s106.t4 board%1:14:00::
+d000.s114.t64 report%2:32:01::
+d000.s122.t28 
+d000.s122.t32 
+d000.s122.t42 person%1:03:00::
+d000.s122.t86 
+d000.s0.t8 be%2:42:05::
+d000.s6.t26 s%1:28:00::
+d000.s15.t14 pot%1:23:01::
+d000.s20.t5 use%1:04:00::
+d000.s20.t14 use%1:07:00::
+d000.s24.t65 target%1:09:00::
+d000.s44.t13 t%1:08:04::
+d000.s45.t14 
+d000.s50.t39 now%4:02:00::
+d000.s50.t40 
+d000.s57.t3 t%1:08:04::
+d000.s57.t15 
+d000.s60.t3 have%2:32:00::
+d000.s76.t39 home%1:15:03::
+d000.s91.t3 be%2:42:03::
+d000.s91.t12 be%2:42:03::
+d000.s91.t20 be%2:42:03::
+d000.s94.t10 be%2:42:03::
+d000.s94.t14 be%2:42:03::
+d000.s94.t17 be%2:42:03::
+d000.s94.t20 be%2:42:03::
+d000.s94.t25 be%2:42:03::
+d000.s94.t28 be%2:42:03::
+d000.s105.t4 first%3:00:00::
+d000.s122.t90 
+d000.s1.t23 house%1:14:02::
+d000.s13.t41 
+d000.s18.t23 
+d000.s22.t57 
+d000.s22.t64 criminal%5:00:00:illegal:00
+d000.s22.t67 
+d000.s52.t25 
+d000.s73.t42 
+d000.s75.t5 body%1:14:00::
+d000.s91.t5 force%1:14:02::
+d000.s99.t16 
+d000.s100.t84 
+d000.s126.t2 
+d000.s126.t6 
+d000.s4.t21 be%2:42:03::
+d000.s4.t23 
+d000.s6.t2 be%2:42:03::
+d000.s6.t8 be%2:42:06::
+d000.s6.t21 be%2:42:03::
+d000.s15.t24 state%1:03:00::
+d000.s18.t20 similar%3:00:00::
+d000.s20.t27 years%1:28:01::
+d000.s22.t89 threaten%2:32:00::
+d000.s76.t32 access%1:06:00::
+d000.s100.t66 legal%3:00:00::
+d000.s102.t17 so%4:02:06::
+d000.s105.t88 option%1:04:00::
+d000.s111.t6 board%1:14:00::
+d000.s125.t15 well%4:02:08::
+d000.s14.t22 be%2:42:03::
+d000.s18.t79 effective%5:00:00:efficacious:00
+d000.s22.t74 reign%1:28:01::
+d000.s30.t3 
+d000.s47.t1 have%2:40:00::
+d000.s77.t11 be%2:42:03::
+d000.s77.t23 be%2:42:03::
+d000.s96.t5 lose%2:40:02::
+d000.s98.t1 time%1:28:05::
+d000.s102.t41 
+d000.s106.t3 be%2:42:06::
+d000.s106.t9 be%2:42:03::
+d000.s106.t27 be%2:42:03::
+d000.s114.t67 
+d000.s12.t25 game%1:09:00::
+d000.s22.t63 
+d000.s22.t114 
+d000.s76.t7 try%2:41:05::
+d000.s100.t36 other%5:00:00:past:00
+d000.s100.t57 evidence%1:10:01::
+d000.s105.t69 predatory%5:00:00:acquisitive:00
+d000.s115.t12 
+d000.s115.t16 have%2:42:12::
+d000.s118.t9 
+d000.s119.t2 board%1:14:00::
+d000.s120.t16 board%1:14:00::
+d000.s15.t21 fall%1:11:01::
+d000.s17.t48 do%2:41:01::
+d000.s22.t23 
+d000.s22.t96 child%1:18:00::
+d000.s27.t1 williams%1:18:00::
+d000.s38.t14 have%2:30:00::
+d000.s49.t11 lose%2:40:00::
+d000.s50.t61 thing%1:06:01::
+d000.s61.t16 have%2:36:00::
+d000.s94.t24 place%1:26:01::
+d000.s98.t23 s%1:28:00::
+d000.s100.t37 
+d000.s127.t61 years%1:28:01::
+d000.s23.t91 also%4:02:00::
+d000.s24.t6 agent%1:18:02::
+d000.s40.t13 be%2:42:03::
+d000.s40.t35 be%2:42:03::
+d000.s49.t26 source%1:06:00::
+d000.s69.t4 have%2:39:06::
+d000.s93.t6 life%1:09:00::
+d000.s105.t19 news%1:10:00::
+d000.s106.t12 action%1:04:02::
+d000.s111.t8 be%2:42:06::
+d000.s111.t12 be%2:42:05::
+d000.s111.t17 be%2:42:04::
+d000.s111.t30 be%2:42:03::
+d000.s113.t5 board%1:14:00::
+d000.s113.t40 board%1:14:00::
+d000.s118.t15 
+d000.s121.t15 light%1:09:01::
+d000.s39.t8 
+d000.s53.t0 be%2:42:03::
+d000.s53.t5 be%2:42:03::
+d000.s53.t9 be%2:42:03::
+d000.s53.t15 be%2:42:03::
+d000.s98.t0 be%2:42:06::
+d000.s98.t8 be%2:42:03::
+d000.s98.t32 be%2:42:03::
+d000.s100.t55 person%1:03:00::
+d000.s100.t56 tangible%3:00:02::
+d000.s112.t46 write%2:32:00::
+d000.s122.t31 alternate%5:00:00:secondary:01
+d000.s127.t23 organisation%1:04:00::
+d000.s5.t7 
+d000.s23.t95 anarchist%1:18:00::
+d000.s23.t104 achieve%2:41:00::
+d000.s34.t21 
+d000.s43.t15 image%1:09:00::
+d000.s62.t26 good%3:00:01::
+d000.s73.t56 program%1:10:02::
+d000.s74.t1 have%2:40:00::
+d000.s74.t16 have%2:40:00::
+d000.s96.t20 bed%1:06:01::
+d000.s100.t88 
+d000.s114.t42 invite%2:32:01::
+d000.s114.t62 
+d000.s119.t9 be%2:42:06::
+d000.s119.t11 be%2:42:06::
+d000.s119.t16 be%2:42:05::
+d000.s119.t28 
+d000.s119.t33 be%2:42:04::
+d000.s120.t2 be%2:42:03::
+d000.s120.t22 be%2:42:03::
+d000.s120.t27 be%2:42:03::
+d000.s121.t0 
+d000.s2.t9 s%1:10:00::
+d000.s22.t84 
+d000.s23.t76 famous%5:00:00:known:00
+d000.s23.t117 disputed%5:00:00:controversial:00
+d000.s50.t13 shift%2:30:03::
+d000.s71.t18 pick%2:35:01::
+d000.s72.t25 step%1:26:00::
+d000.s97.t3 be%2:42:03::
+d000.s97.t10 be%2:42:03::
+d000.s97.t29 be%2:40:00::
+d000.s97.t40 be%2:42:06::
+d000.s100.t33 soul%1:03:00::
+d000.s100.t70 
+d000.s105.t9 behaviour%1:04:00::
+d000.s105.t33 behaviour%1:07:00::
+d000.s105.t70 behaviour%1:07:00::
+d000.s108.t41 parameter%1:11:00::
+d000.s111.t36 law%1:10:00::
+d000.s122.t3 entire%5:00:01:whole:00
+d000.s126.t26 
+d000.s126.t73 bear%2:42:01::
+d000.s22.t48 riot%1:26:00::
+d000.s23.t83 1970s%1:28:00::
+d000.s51.t3 
+d000.s86.t25 land%1:15:01::
+d000.s94.t23 good%3:00:01::
+d000.s96.t1 do%2:41:04::
+d000.s96.t7 work%1:04:00::
+d000.s96.t16 
+d000.s98.t27 body%1:17:00::
+d000.s108.t42 hearing%1:04:01::
+d000.s112.t41 
+d000.s113.t8 be%2:42:03::
+d000.s113.t32 be%2:42:04::
+d000.s113.t37 
+d000.s114.t26 
+d000.s2.t5 be%2:42:06::
+d000.s11.t1 be%2:42:03::
+d000.s11.t12 be%2:42:03::
+d000.s11.t21 be%2:42:03::
+d000.s11.t27 be%2:42:05::
+d000.s22.t53 battle%1:04:02::
+d000.s22.t75 terror%1:04:00::
+d000.s23.t7 fascist%3:01:00::
+d000.s72.t16 be%2:42:03::
+d000.s97.t1 
+d000.s97.t38 
+d000.s122.t17 standard%1:09:00::
+d000.s3.t10 
+d000.s13.t30 
+d000.s13.t34 be%2:42:03::
+d000.s16.t68 use%1:04:00::
+d000.s22.t35 purity%1:26:02::
+d000.s23.t80 desert%1:15:00::
+d000.s37.t19 have%2:30:01::
+d000.s42.t13 
+d000.s43.t35 be%2:42:03::
+d000.s53.t27 argument%1:10:02::
+d000.s93.t2 have%2:42:00::
+d000.s95.t0 
+d000.s15.t27 be%2:42:03::
+d000.s22.t28 effort%1:04:03::
+d000.s22.t46 
+d000.s22.t111 present%1:21:00::
+d000.s52.t37 board%1:14:00::
+d000.s88.t6 conversion%1:09:00::
+d000.s88.t10 
+d000.s113.t11 action%1:04:02::
+d000.s113.t14 
+d000.s9.t5 be%2:42:03::
+d000.s9.t10 be%2:42:03::
+d000.s9.t20 be%2:42:06::
+d000.s13.t28 ring%1:14:00::
+d000.s13.t39 
+d000.s16.t35 years%1:28:01::
+d000.s18.t11 button%1:06:02::
+d000.s19.t3 push%2:40:00::
+d000.s20.t57 law%1:09:01::
+d000.s22.t25 want%2:37:00::
+d000.s23.t34 illegal%3:00:00::
+d000.s23.t70 as%4:02:00::
+d000.s23.t114 as%4:02:00::
+d000.s23.t124 illegal%3:00:00::
+d000.s23.t126 lack%1:26:00::
+d000.s25.t21 
+d000.s32.t4 be%2:42:03::
+d000.s64.t38 
+d000.s94.t7 
+d000.s102.t21 be%2:42:03::
+d000.s119.t7 leave%2:38:01::
+d000.s5.t16 book%1:10:00::
+d000.s9.t14 view%1:09:02::
+d000.s12.t3 be%2:42:06::
+d000.s12.t23 be%2:42:03::
+d000.s22.t122 leading%5:00:00:superior:01
+d000.s23.t93 mass%5:00:00:collective:00
+d000.s23.t120 eventually%4:02:00::
+d000.s23.t136 increase%2:30:02::
+d000.s28.t11 
+d000.s32.t16 know%2:31:00::
+d000.s100.t68 
+d000.s104.t9 law%1:14:00::
+d000.s105.t89 suffer%2:39:01::
+d000.s127.t62 
+d000.s7.t14 beat%1:07:00::
+d000.s15.t15 measure%1:10:03::
+d000.s17.t4 be%2:42:03::
+d000.s17.t8 be%2:42:03::
+d000.s17.t26 
+d000.s34.t13 have%2:30:01::
+d000.s47.t14 end%1:15:00::
+d000.s78.t12 
+d000.s89.t4 
+d000.s89.t21 
+d000.s105.t76 feed%2:41:00::
+d000.s111.t25 t%1:08:04::
+d000.s126.t27 organisation%1:14:00::
+d000.s0.t5 title%1:10:00::
+d000.s18.t0 big%5:00:00:important:00
+d000.s19.t2 be%2:42:03::
+d000.s19.t4 be%2:42:03::
+d000.s19.t27 be%2:42:03::
+d000.s23.t132 
+d000.s52.t8 
+d000.s52.t24 be%2:42:03::
+d000.s52.t35 be%2:42:03::
+d000.s79.t15 
+d000.s96.t51 time%1:11:00::
+d000.s98.t30 t%1:08:04::
+d000.s98.t40 t%1:08:04::
+d000.s99.t12 new%5:00:00:inexperienced:00
+d000.s104.t30 process%1:04:00::
+d000.s104.t37 process%1:04:00::
+d000.s122.t25 submit%2:32:01::
+d000.s122.t35 submit%2:32:01::
+d000.s122.t46 submit%2:32:01::
+d000.s126.t33 
+d000.s22.t103 presence%1:15:00::
+d000.s23.t97 solidarity%1:07:00::
+d000.s24.t70 
+d000.s48.t3 well%4:02:13::
+d000.s62.t14 
+d000.s64.t23 post%2:32:00::
+d000.s64.t44 post%2:32:00::
+d000.s78.t24 west%1:15:00::
+d000.s105.t27 stretch%1:04:01::
+d000.s127.t28 series%1:14:00::
+d000.s3.t16 book%1:10:00::
+d000.s22.t13 party%1:14:01::
+d000.s23.t79 
+d000.s23.t118 legislation%1:10:00::
+d000.s43.t42 real%5:00:02:realistic:00
+d000.s68.t20 well%4:02:00::
+d000.s70.t22 true%3:00:00::
+d000.s96.t10 
+d000.s99.t8 close%3:00:02::
+d000.s18.t72 agent%1:17:00::
+d000.s22.t95 handle%2:41:03::
+d000.s23.t113 olympics%1:11:00::
+d000.s28.t9 
+d000.s78.t17 be%2:42:06::
+d000.s91.t23 have%2:42:12::
+d000.s91.t24 have%2:42:12::
+d000.s100.t30 early%3:00:00::
+d000.s100.t89 hostile%5:00:00:inhospitable:00
+d000.s127.t47 david%1:18:02::
+d000.s2.t2 t%1:08:04::
+d000.s7.t4 
+d000.s11.t16 good%3:00:01::
+d000.s20.t18 true%5:00:00:real:02
+d000.s22.t94 
+d000.s23.t35 immigrant%1:18:00::
+d000.s23.t99 immigrant%1:18:00::
+d000.s23.t111 
+d000.s46.t2 be%2:42:03::
+d000.s46.t9 be%2:42:03::
+d000.s46.t26 be%2:42:03::
+d000.s46.t29 be%2:42:03::
+d000.s46.t33 be%2:42:03::
+d000.s64.t9 john%1:18:00::
+d000.s86.t16 hit%2:39:00::
+d000.s96.t22 be%2:42:03::
+d000.s96.t41 
+d000.s96.t49 be%2:42:03::
+d000.s112.t56 
+d000.s114.t43 share%1:04:01::
+d000.s120.t6 
+d000.s121.t3 end%1:11:00::
+d000.s22.t14 local%3:00:01::
+d000.s22.t22 local%3:01:01::
+d000.s22.t68 local%3:01:01::
+d000.s22.t105 local%3:01:01::
+d000.s22.t117 local%3:01:01::
+d000.s23.t12 4th%5:00:00:ordinal:00
+d000.s23.t45 nato%1:14:00::
+d000.s28.t0 release%1:10:00::
+d000.s46.t13 chips%1:13:01::
+d000.s105.t20 complaint%1:10:00::
+d000.s105.t71 report%1:10:01::
+d000.s114.t19 member%1:24:00::
+d000.s114.t83 member%1:24:00::
+d000.s122.t26 complaint%1:10:00::
+d000.s122.t37 
+d000.s122.t39 
+d000.s2.t27 court%1:06:00::
+d000.s9.t17 pack%2:35:00::
+d000.s14.t24 have%2:42:00::
+d000.s15.t20 t%1:08:04::
+d000.s16.t13 black%1:06:01::
+d000.s16.t24 
+d000.s16.t32 
+d000.s22.t30 segregation%1:14:00::
+d000.s23.t105 virtual%5:00:00:realistic:00
+d000.s49.t35 be%2:42:06::
+d000.s96.t40 think%2:30:00::
+d000.s99.t36 s%1:28:00::
+d000.s101.t7 stage%1:26:00::
+d000.s102.t34 
+d000.s106.t8 have%2:30:01::
+d000.s106.t26 have%2:30:01::
+d000.s112.t15 
+d000.s114.t38 
+d000.s8.t42 image%1:06:00::
+d000.s20.t46 so%4:02:06::
+d000.s23.t36 greek%3:01:01::
+d000.s23.t51 impractical%3:00:00::
+d000.s73.t22 work%1:04:00::
+d000.s73.t51 do%2:36:01::
+d000.s88.t5 
+d000.s95.t24 be%2:42:03::
+d000.s95.t28 be%2:42:03::
+d000.s95.t48 be%2:42:03::
+d000.s101.t49 so%4:02:07::
+d000.s103.t36 deal%1:11:00::
+d000.s14.t3 well%4:02:05::
+d000.s22.t54 aim%1:15:00::
+d000.s23.t60 humanitarian%3:01:00::
+d000.s23.t127 legislative%3:01:01::
+d000.s50.t16 culture%1:14:00::
+d000.s64.t17 be%2:42:03::
+d000.s64.t18 be%2:42:03::
+d000.s71.t35 away%4:02:05::
+d000.s95.t21 
+d000.s96.t4 
+d000.s99.t10 
+d000.s99.t14 be%2:42:03::
+d000.s99.t22 be%2:42:03::
+d000.s99.t31 be%2:42:03::
+d000.s99.t38 be%2:42:03::
+d000.s100.t20 time%2:31:00::
+d000.s101.t37 
+d000.s101.t43 
+d000.s22.t42 
+d000.s24.t26 series%1:14:00::
+d000.s75.t23 part%1:24:00::
+d000.s95.t27 
+d000.s100.t85 
+d000.s104.t1 
+d000.s104.t33 
+d000.s114.t51 door%1:07:00::
+d000.s0.t7 book%1:10:00::
+d000.s23.t20 defeat%1:12:00::
+d000.s23.t32 sweeping%5:00:00:indiscriminate:00
+d000.s23.t72 surprise%1:04:00::
+d000.s23.t81 island%1:17:00::
+d000.s43.t41 top%1:07:02::
+d000.s52.t6 t%1:08:04::
+d000.s71.t26 lot%1:14:01::
+d000.s71.t45 lot%1:14:01::
+d000.s96.t19 leave%2:42:02::
+d000.s98.t13 
+d000.s98.t18 
+d000.s105.t2 
+d000.s108.t9 david%1:18:02::
+d000.s112.t44 act%2:41:00::
+d000.s112.t52 act%2:41:06::
+d000.s8.t8 be%2:42:05::
+d000.s8.t33 be%2:42:04::
+d000.s18.t68 high%5:00:00:intoxicated:00
+d000.s22.t34 blood%1:14:00::
+d000.s23.t5 ascent%1:11:00::
+d000.s23.t101 whole%1:09:00::
+d000.s23.t129 mp%1:14:00::
+d000.s76.t5 s%1:07:00::
+d000.s88.t29 be%2:42:06::
+d000.s114.t0 clay%1:18:01::
+d000.s114.t13 
+d000.s114.t63 staff%1:14:00::
+d000.s114.t81 
+d000.s114.t82 staff%1:14:00::
+d000.s114.t94 
+d000.s119.t21 have%2:40:01::
+d000.s119.t25 
+d000.s120.t1 
+d000.s120.t18 
+d000.s120.t21 
+d000.s120.t30 have%2:40:00::
+d000.s127.t56 work%1:04:00::
+d000.s127.t59 
+d000.s127.t63 do%2:36:02::
+d000.s4.t28 book%1:10:00::
+d000.s6.t5 book%1:10:00::
+d000.s22.t20 unblock%2:30:00::
+d000.s22.t38 unblock%2:35:02::
+d000.s24.t38 guard%1:18:03::
+d000.s40.t2 
+d000.s67.t1 be%2:42:03::
+d000.s67.t8 be%2:42:03::
+d000.s67.t21 be%2:42:03::
+d000.s67.t33 be%2:42:06::
+d000.s27.t12 
+d000.s28.t12 
+d000.s49.t32 real%3:00:00::
+d000.s50.t46 weight%1:07:01::
+d000.s95.t18 leave%2:42:02::
+d000.s108.t43 
+d000.s113.t7 
+d000.s113.t43 have%2:30:00::
+d000.s126.t53 power%1:18:00::
+d000.s126.t56 power%1:09:01::
+d000.s126.t63 lose%2:40:00::
+d000.s2.t3 have%2:40:00::
+d000.s2.t4 
+d000.s25.t18 host%1:14:00::
+d000.s72.t23 have%2:30:01::
+d000.s99.t23 
+d000.s114.t36 bear%2:42:01::
+d000.s126.t44 
+d000.s13.t5 have%2:40:04::
+d000.s13.t13 have%2:42:12::
+d000.s13.t24 
+d000.s13.t29 
+d000.s13.t40 
+d000.s23.t24 endorse%2:41:02::
+d000.s23.t55 several%5:00:00:individual:00
+d000.s101.t25 board%1:14:00::
+d000.s101.t65 board%1:14:00::
+d000.s112.t66 front%1:06:00::
+d000.s121.t16 best%3:00:00::
+d000.s122.t75 staff%1:14:01::
+d000.s122.t78 staff%1:10:00::
+d000.s15.t38 
+d000.s71.t15 
+d000.s91.t25 clear%5:00:00:net:00
+d000.s100.t15 office%1:06:00::
+d000.s100.t22 office%1:06:00::
+d000.s104.t43 board%1:14:00::
+d000.s104.t54 show%2:32:00::
+d000.s9.t13 have%2:42:12::
+d000.s19.t8 right%3:00:02::
+d000.s32.t25 
+d000.s63.t19 best%3:00:00::
+d000.s70.t4 be%2:42:03::
+d000.s70.t27 be%2:42:06::
+d000.s70.t44 be%2:42:03::
+d000.s102.t1 have%2:39:06::
+d000.s102.t8 have%2:39:06::
+d000.s102.t10 
+d000.s103.t16 be%2:42:03::
+d000.s103.t21 be%2:42:03::
+d000.s103.t29 be%2:42:03::
+d000.s103.t49 be%2:42:03::
+d000.s103.t53 be%2:42:03::
+d000.s16.t31 pot%1:23:01::
+d000.s17.t47 defense%1:10:00::
+d000.s23.t125 due%3:00:02::
+d000.s73.t24 be%2:42:04::
+d000.s96.t46 
+d000.s100.t21 visit%1:04:01::
+d000.s103.t46 view%1:07:00::
+d000.s111.t33 come%2:30:01::
+d000.s20.t20 be%2:42:03::
+d000.s20.t25 be%2:42:03::
+d000.s20.t55 be%2:42:03::
+d000.s22.t107 station%1:15:00::
+d000.s22.t119 station%1:26:00::
+d000.s23.t28 policy%1:09:00::
+d000.s23.t65 city%1:15:00::
+d000.s23.t66 
+d000.s70.t8 hard%5:00:00:strong:00
+d000.s101.t9 be%2:42:03::
+d000.s101.t21 be%2:42:03::
+d000.s101.t40 be%2:42:03::
+d000.s101.t46 be%2:42:03::
+d000.s19.t34 have%2:34:00::
+d000.s20.t7 know%2:31:04::
+d000.s51.t15 position%1:10:01::
+d000.s52.t34 have%2:39:06::
+d000.s52.t38 
+d000.s78.t19 side%1:14:00::
+d000.s104.t7 be%2:42:03::
+d000.s104.t10 be%2:42:03::
+d000.s104.t18 be%2:42:06::
+d000.s104.t38 be%2:42:03::
+d000.s104.t60 be%2:42:03::
+d000.s104.t62 be%2:42:03::
+d000.s104.t64 be%2:42:06::
+d000.s108.t5 issue%1:09:01::
+d000.s112.t32 so%4:02:06::
+d000.s120.t32 come%2:30:02::
+d000.s127.t8 s%1:07:00::
+d000.s23.t63 purpose%1:07:00::
+d000.s23.t68 discourse%1:10:01::
+d000.s49.t19 release%1:04:00::
+d000.s52.t18 right%1:07:00::
+d000.s83.t14 
+d000.s104.t63 view%1:09:00::
+d000.s112.t34 
+d000.s8.t41 column%1:10:01::
+d000.s18.t18 law%1:09:01::
+d000.s18.t78 act%2:41:06::
+d000.s23.t109 athens%1:15:00::
+d000.s23.t122 protest%1:04:00::
+d000.s76.t2 analysis%1:04:00::
+d000.s100.t46 conclusion%1:04:00::
+d000.s127.t4 be%2:42:03::
+d000.s127.t18 be%2:42:03::
+d000.s127.t44 be%2:42:06::
+d000.s127.t66 be%2:42:03::
+d000.s23.t59 disgraceful%5:00:00:dishonorable:00
+d000.s96.t36 worse%3:00:00::
+d000.s101.t1 
+d000.s103.t31 words%1:10:03::
+d000.s126.t41 new%5:00:00:other:00
+d000.s126.t43 new%5:00:00:other:00
+d000.s9.t7 book%1:10:00::
+d000.s18.t59 way%1:09:01::
+d000.s23.t38 summer%1:28:00::
+d000.s23.t57 military%3:01:00::
+d000.s23.t88 summer%1:28:00::
+d000.s23.t106 military%3:00:02::
+d000.s23.t110 summer%1:28:00::
+d000.s32.t28 times%1:28:01::
+d000.s46.t16 have%2:40:00::
+d000.s95.t26 right%3:00:02::
+d000.s96.t25 
+d000.s112.t19 suit%1:04:00::
+d000.s119.t13 clear%3:00:04::
+d000.s12.t36 book%1:10:00::
+d000.s22.t37 race%1:14:00::
+d000.s108.t8 board%1:14:00::
+d000.s127.t46 action%1:04:02::
+d000.s8.t22 top%1:15:01::
+d000.s16.t50 system%1:09:00::
+d000.s16.t56 system%1:14:00::
+d000.s16.t62 system%1:09:01::
+d000.s23.t41 plan%2:31:00::
+d000.s24.t35 time%1:11:00::
+d000.s24.t69 time%1:28:00::
+d000.s46.t41 well%4:02:05::
+d000.s100.t43 attention%1:09:00::
+d000.s103.t2 picture%1:26:00::
+d000.s105.t84 face%2:33:00::
+d000.s113.t15 clear%3:00:00::
+d000.s16.t27 show%2:32:03::
+d000.s23.t74 political%3:00:00::
+d000.s23.t77 want%2:42:01::
+d000.s58.t2 better%4:02:00::
+d000.s78.t25 bank%1:21:00::
+d000.s95.t10 have%2:40:00::
+d000.s95.t22 have%2:42:12::
+d000.s95.t47 have%2:41:00::
+d000.s103.t41 t%1:08:04::
+d000.s22.t102 full%3:00:00::
+d000.s23.t10 
+d000.s49.t43 gas%1:26:01::
+d000.s71.t5 
+d000.s71.t11 
+d000.s71.t14 be%2:42:03::
+d000.s71.t25 be%2:42:06::
+d000.s71.t33 be%2:42:06::
+d000.s94.t4 development%1:04:01::
+d000.s99.t1 
+d000.s99.t26 
+d000.s99.t42 
+d000.s99.t45 
+d000.s112.t0 board%1:14:00::
+d000.s112.t39 board%1:14:00::
+d000.s12.t11 
+d000.s20.t36 t%1:08:03::
+d000.s76.t33 land%1:15:01::
+d000.s95.t42 well%4:02:05::
+d000.s100.t62 relationship%1:24:00::
+d000.s108.t1 be%2:42:06::
+d000.s108.t26 be%2:42:03::
+d000.s108.t31 be%2:42:03::
+d000.s108.t34 be%2:42:03::
+d000.s108.t58 be%2:42:06::
+d000.s21.t13 
+d000.s24.t7 be%2:42:03::
+d000.s24.t16 be%2:42:03::
+d000.s24.t21 be%2:42:03::
+d000.s24.t32 be%2:42:05::
+d000.s24.t37 be%2:42:04::
+d000.s24.t47 be%2:42:03::
+d000.s24.t60 be%2:42:03::
+d000.s24.t63 be%2:42:03::
+d000.s104.t21 good%5:00:00:righteous:00
+d000.s105.t92 stop%2:41:00::
+d000.s8.t16 
+d000.s8.t38 
+d000.s16.t3 be%2:42:03::
+d000.s16.t10 be%2:42:03::
+d000.s16.t14 be%2:42:06::
+d000.s16.t38 be%2:42:03::
+d000.s16.t47 
+d000.s23.t17 govern%2:41:01::
+d000.s23.t30 pledge%2:32:01::
+d000.s23.t128 majority%1:23:00::
+d000.s23.t134 legal%3:00:00::
+d000.s77.t15 
+d000.s78.t27 part%1:24:00::
+d000.s126.t5 be%2:42:03::
+d000.s126.t9 be%2:42:03::
+d000.s126.t20 be%2:42:03::
+d000.s126.t24 
+d000.s126.t32 be%2:42:03::
+d000.s126.t37 
+d000.s126.t46 be%2:42:03::
+d000.s126.t51 be%2:42:06::
+d000.s126.t67 be%2:42:03::
+d000.s126.t80 be%2:42:03::
+d000.s3.t3 
+d000.s18.t31 so%4:02:06::
+d000.s18.t67 so%4:02:02::
+d000.s22.t27 lock%2:30:00::
+d000.s22.t51 
+d000.s22.t97 sympathetic%3:00:02::
+d000.s23.t11 
+d000.s23.t18 party%1:14:01::
+d000.s23.t75 party%1:14:01::
+d000.s23.t96 
+d000.s67.t25 
+d000.s67.t32 
+d000.s67.t35 have%2:42:00::
+d000.s103.t3 feel%2:42:00::
+d000.s104.t16 court%1:14:00::
+d000.s105.t39 culture%1:09:02::
+d000.s105.t62 culture%1:09:02::
+d000.s105.t75 culture%1:09:02::
+d000.s112.t4 be%2:42:03::
+d000.s112.t14 be%2:42:03::
+d000.s112.t21 be%2:42:03::
+d000.s112.t29 be%2:40:00::
+d000.s112.t40 be%2:42:03::
+d000.s112.t53 be%2:42:03::
+d000.s112.t62 be%2:42:03::
+d000.s112.t68 be%2:42:03::
+d000.s112.t70 be%2:42:03::
+d000.s112.t75 be%2:42:03::
+d000.s126.t29 know%2:31:06::
+d000.s127.t39 good%3:00:01::
+d000.s127.t55 good%5:00:00:ample:00
+d000.s16.t44 
+d000.s18.t25 state%1:26:01::
+d000.s20.t11 
+d000.s22.t33 preserve%2:42:00::
+d000.s50.t2 be%2:42:03::
+d000.s50.t22 be%2:42:03::
+d000.s50.t36 be%2:42:06::
+d000.s50.t37 be%2:42:06::
+d000.s50.t43 be%2:42:03::
+d000.s50.t48 be%2:42:03::
+d000.s50.t50 be%2:42:03::
+d000.s50.t58 be%2:42:03::
+d000.s73.t32 feel%2:31:00::
+d000.s81.t11 
+d000.s57.t17 hall%1:06:07::
+d000.s76.t16 right%1:07:01::
+d000.s18.t12 issue%1:09:00::
+d000.s23.t23 government%1:14:00::
+d000.s23.t52 government%1:14:00::
+d000.s23.t102 government%1:14:00::
+d000.s23.t130 government%1:14:00::
+d000.s31.t113 repeatedly%4:02:00::
+d000.s64.t40 hit%2:35:03::
+d000.s100.t5 home%1:15:04::
+d000.s112.t7 action%1:04:02::
+d000.s127.t31 day%1:28:03::
+d000.s7.t15 
+d000.s15.t3 post%1:04:01::
+d000.s23.t54 
+d000.s23.t112 
+d000.s31.t12 ago%4:02:00::
+d000.s116.t6 
+d000.s22.t16 area%1:15:01::
+d000.s22.t76 area%1:15:01::
+d000.s31.t91 paranoid%5:00:00:insane:00
+d000.s31.t105 beck%1:10:00::
+d000.s71.t40 support%1:06:00::
+d000.s103.t26 
+d000.s122.t4 process%1:04:00::
+d000.s122.t18 process%1:04:00::
+d000.s122.t22 way%1:04:01::
+d000.s122.t53 process%1:04:00::
+d000.s122.t63 process%1:04:00::
+d000.s122.t96 process%1:04:00::
+d000.s122.t100 process%1:04:00::
+d000.s126.t57 
+d000.s24.t67 medium%1:27:03::
+d000.s31.t140 frequently%4:02:00::
+d000.s64.t28 
+d000.s64.t43 
+d000.s72.t35 find%2:40:01::
+d000.s73.t40 
+d000.s20.t9 have%2:30:01::
+d000.s20.t24 have%2:34:00::
+d000.s31.t84 
+d000.s31.t87 resurgence%1:04:00::
+d000.s93.t7 balance%1:25:00::
+d000.s101.t4 have%2:41:00::
+d000.s101.t8 
+d000.s101.t13 
+d000.s101.t15 have%2:41:00::
+d000.s101.t33 
+d000.s108.t36 good%3:00:01::
+d000.s23.t78 displace%2:41:02::
+d000.s31.t24 
+d000.s71.t34 
+d000.s104.t44 
+d000.s122.t91 allow%2:31:00::
+d000.s126.t22 good%5:00:00:fortunate:00
+d000.s127.t38 heart%1:07:01::
+d000.s22.t15 
+d000.s24.t57 
+d000.s31.t11 century%1:28:00::
+d000.s31.t51 capitalism%1:14:00::
+d000.s31.t96 
+d000.s114.t90 
+d000.s127.t10 
+d000.s127.t16 have%2:40:00::
+d000.s127.t24 have%2:40:00::
+d000.s127.t43 have%2:41:00::
+d000.s127.t58 
+d000.s31.t2 extremism%1:09:00::
+d000.s31.t17 right-wing%5:00:00:right:03
+d000.s31.t117 nancy%1:15:00::
+d000.s100.t40 
+d000.s100.t80 
+d000.s121.t21 
+d000.s18.t4 be%2:42:06::
+d000.s18.t22 be%2:42:03::
+d000.s18.t27 be%2:42:03::
+d000.s18.t63 be%2:42:06::
+d000.s18.t66 be%2:42:06::
+d000.s70.t43 times%1:28:01::
+d000.s95.t34 move%2:37:00::
+d000.s122.t52 stage%1:26:00::
+d000.s122.t72 stage%1:26:00::
+d000.s22.t108 strong%5:00:00:powerful:00
+d000.s31.t90 buttress%2:30:01::
+d000.s63.t18 
+d000.s23.t92 include%2:42:00::
+d000.s122.t55 do%2:41:01::
+d000.s122.t59 
+d000.s18.t44 
+d000.s23.t107 occupation%1:04:02::
+d000.s23.t116 introduction%1:10:03::
+d000.s31.t4 long%4:02:00::
+d000.s31.t64 
+d000.s50.t64 life%1:26:00::
+d000.s23.t43 
+d000.s23.t61 
+d000.s31.t57 pave%2:35:00::
+d000.s46.t17 find%2:40:01::
+d000.s101.t23 come%2:42:13::
+d000.s122.t94 issue%1:09:01::
+d000.s31.t23 belief%1:09:00::
+d000.s31.t49 undermine%2:41:00::
+d000.s31.t130 health%1:26:01::
+d000.s100.t10 
+d000.s104.t3 come%2:42:13::
+d000.s114.t3 board%1:14:00::
+d000.s114.t18 
+d000.s114.t40 board%1:14:00::
+d000.s114.t59 board%1:14:00::
+d000.s114.t68 board%1:14:00::
+d000.s114.t77 board%1:14:00::
+d000.s31.t108 month%1:28:01::
+d000.s127.t27 part%1:24:00::
+d000.s16.t25 have%2:34:00::
+d000.s16.t37 have%2:40:00::
+d000.s24.t36 movement%1:14:00::
+d000.s31.t33 explain%2:32:01::
+d000.s31.t59 socialism%1:09:00::
+d000.s99.t13 job%1:04:00::
+d000.s104.t26 extend%2:40:04::
+d000.s105.t63 
+d000.s105.t85 lead%2:32:00::
+d000.s126.t16 
+d000.s126.t23 
+d000.s126.t31 have%2:30:01::
+d000.s23.t103 
+d000.s24.t53 well%4:02:05::
+d000.s39.t3 see%2:39:02::
+d000.s60.t2 work%2:41:03::
+d000.s112.t1 
+d000.s112.t12 have%2:30:00::
+d000.s112.t28 have%2:40:01::
+d000.s50.t8 
+d000.s50.t34 
+d000.s114.t6 be%2:42:03::
+d000.s114.t14 be%2:42:05::
+d000.s114.t23 be%2:42:03::
+d000.s114.t35 be%2:42:03::
+d000.s114.t73 
+d000.s114.t84 be%2:42:06::
+d000.s122.t1 time%1:28:05::
+d000.s23.t15 vote%1:14:00::
+d000.s23.t133 yet%4:02:02::
+d000.s31.t123 california%1:15:00::
+d000.s100.t50 
+d000.s112.t36 
+d000.s22.t112 scene%1:15:00::
+d000.s23.t39 concentration%1:04:02::
+d000.s31.t93 public%5:00:00:common:02
+d000.s31.t94 
+d000.s98.t20 pass%2:41:11::
+d000.s118.t14 work%2:41:05::
+d000.s18.t40 yard%1:15:00::
+d000.s105.t5 be%2:42:06::
+d000.s105.t26 be%2:42:03::
+d000.s105.t37 be%2:42:03::
+d000.s105.t74 be%2:42:03::
+d000.s105.t80 be%2:42:03::
+d000.s122.t6 be%2:42:03::
+d000.s122.t14 be%2:42:03::
+d000.s122.t19 be%2:42:06::
+d000.s122.t29 be%2:42:06::
+d000.s122.t40 be%2:42:03::
+d000.s122.t43 be%2:42:03::
+d000.s122.t58 be%2:42:03::
+d000.s122.t80 be%2:42:03::
+d000.s122.t89 be%2:42:03::
+d000.s122.t97 
+d000.s16.t19 time%1:28:00::
+d000.s31.t104 glenn%1:18:00::
+d000.s31.t112 guilty%5:00:00:ashamed:00
+d000.s23.t44 old%3:00:01::
+d000.s23.t56 old%3:00:01::
+d000.s34.t16 drive%2:38:01::
+d000.s114.t2 
+d000.s23.t1 tension%1:26:03::
+d000.s13.t22 
+d000.s23.t49 now%4:02:00::
+d000.s31.t114 threaten%2:32:00::
+d000.s31.t121 threaten%2:32:00::
+d000.s70.t9 find%2:40:02::
+d000.s15.t16 
+d000.s31.t74 prominence%1:26:00::
+d000.s31.t77 
+d000.s108.t40 clear%5:00:00:innocent:00
+d000.s23.t37 
+d000.s18.t8 
+d000.s18.t34 have%2:40:04::
+d000.s18.t84 have%2:34:00::
+d000.s23.t90 
+d000.s31.t31 society%1:14:00::
+d000.s31.t122 destroy%2:35:00::
+d000.s104.t47 
+d000.s31.t69 militia%1:14:00::
+d000.s100.t1 be%2:42:03::
+d000.s100.t7 be%2:42:06::
+d000.s100.t13 be%2:42:06::
+d000.s100.t29 be%2:40:00::
+d000.s100.t39 be%2:42:03::
+d000.s100.t49 be%2:42:03::
+d000.s100.t53 be%2:42:03::
+d000.s100.t63 
+d000.s100.t91 be%2:42:06::
+d000.s100.t98 be%2:42:03::
+d000.s112.t38 clear%5:00:00:untroubled:00
+d000.s122.t8 short%3:00:02::
+d000.s31.t29 american%3:01:01::
+d000.s31.t152 d%1:23:00::
+d000.s126.t48 core%1:14:00::
+d000.s23.t2 area%1:26:00::
+d000.s23.t94 attack%1:04:00::
+d000.s31.t22 
+d000.s31.t53 economy%1:04:00::
+d000.s50.t67 core%1:09:00::
+d000.s23.t6 lao%1:10:00::
+d000.s23.t29 
+d000.s78.t18 found%2:41:00::
+d000.s100.t2 
+d000.s23.t82 late%5:00:02:past:00
+d000.s23.t135 trick%1:28:00::
+d000.s31.t143 people%1:14:00::
+d000.s71.t50 find%2:32:00::
+d000.s105.t86 feel%2:39:01::
+d000.s108.t30 job%1:18:01::
+d000.s122.t84 
+d000.s114.t49 
+d000.s114.t61 
+d000.s114.t78 
+d000.s114.t88 
+d000.s23.t121 render%2:40:03::
+d000.s97.t23 see%2:41:11::
+d000.s126.t18 job%1:06:00::
+d000.s126.t42 job%1:04:03::
+d000.s33.t3 catch%2:31:01::
+d000.s64.t29 plate%1:06:04::
+d000.s114.t30 well%4:02:05::
+d000.s126.t40 find%2:39:02::
+d000.s23.t64 
+d000.s31.t92 rhetoric%1:10:03::
+d000.s31.t95 republican%1:18:01::
+d000.s72.t5 see%2:39:02::
+d000.s112.t57 best%3:00:00::
+d000.s100.t95 court%1:04:00::
+d000.s105.t0 have%2:40:00::
+d000.s105.t17 have%2:42:12::
+d000.s105.t87 have%2:30:00::
+d000.s122.t95 have%2:40:00::
+d000.s31.t0 
+d000.s31.t38 conspiracy%1:09:00::
+d000.s126.t55 position%1:26:00::
+d000.s126.t59 position%1:26:00::
+d000.s31.t147 idea%1:09:03::
+d000.s122.t12 
+d000.s31.t27 
+d000.s22.t4 be%2:42:03::
+d000.s22.t5 be%2:42:03::
+d000.s22.t41 be%2:42:03::
+d000.s22.t44 be%2:42:03::
+d000.s22.t59 be%2:42:03::
+d000.s22.t62 be%2:42:03::
+d000.s22.t83 be%2:42:03::
+d000.s23.t123 march%1:04:02::
+d000.s24.t1 rule%1:26:00::
+d000.s31.t8 government%1:14:00::
+d000.s31.t18 thought%1:09:02::
+d000.s31.t30 government%1:14:00::
+d000.s31.t40 more%3:00:01::
+d000.s31.t56 government%1:14:00::
+d000.s31.t136 local%3:01:01::
+d000.s31.t145 really%4:02:03::
+d000.s31.t157 really%4:02:03::
+d000.s72.t15 develop%2:36:01::
+d000.s22.t50 
+d000.s22.t110 
+d000.s31.t131 care%1:12:00::
+d000.s31.t135 
+d000.s58.t8 better%3:00:00::
+d000.s120.t19 set%2:30:01::
+d000.s27.t37 drive%2:38:02::
+d000.s31.t43 climax%1:11:00::
+d000.s31.t142 group%1:03:00::
+d000.s100.t26 have%2:42:12::
+d000.s100.t38 
+d000.s31.t111 plead%2:32:02::
+d000.s31.t149 
+d000.s105.t21 come%2:30:01::
+d000.s23.t40 camp%1:06:00::
+d000.s23.t58 
+d000.s23.t71 little%5:00:00:unimportant:00
+d000.s27.t10 
+d000.s31.t116 
+d000.s100.t60 well%4:02:14::
+d000.s100.t77 well%4:02:00::
+d000.s18.t58 find%2:40:01::
+d000.s31.t128 upset%5:00:00:disorganized:00
+d000.s23.t84 
+d000.s31.t37 
+d000.s31.t102 news%1:10:01::
+d000.s31.t137 news%1:10:01::
+d000.s31.t155 
+d000.s95.t36 see%2:39:00::
+d000.s23.t16 combination%1:14:01::
+d000.s27.t3 
+d000.s31.t120 include%2:42:00::
+d000.s23.t31 mass%1:14:01::
+d000.s100.t45 come%2:31:13::
+d000.s22.t86 
+d000.s31.t138 station%1:07:00::
+d000.s57.t14 turn%2:38:00::
+d000.s99.t17 work%2:41:00::
+d000.s31.t75 clinton%1:15:00::
+d000.s100.t41 end%1:15:03::
+d000.s20.t61 drive%2:38:01::
+d000.s22.t36 white%3:00:02::
+d000.s23.t62 capital%1:15:00::
+d000.s73.t30 see%2:31:00::
+d000.s31.t41 generation%1:28:01::
+d000.s114.t50 open%3:00:07::
+d000.s68.t25 turn%2:38:00::
+d000.s23.t0 new%3:00:00::
+d000.s31.t7 progressive%5:00:00:liberal:00
+d000.s31.t35 identify%2:31:04::
+d000.s22.t123 figure%1:08:00::
+d000.s31.t107 last%5:00:00:high:02
+d000.s31.t146 radical%5:00:00:new:00
+d000.s31.t158 radical%5:00:00:new:00
+d000.s70.t35 
+d000.s23.t22 
+d000.s31.t50 free%5:00:00:inexact:00
+d000.s31.t62 report%1:09:00::
+d000.s98.t14 
+d000.s88.t21 white%1:18:04::
+d000.s88.t27 white%1:18:04::
+d000.s31.t76 administration%1:28:00::
+d000.s18.t15 
+d000.s18.t45 pass%2:41:02::
+d000.s31.t134 mother%1:18:01::
+d000.s31.t153 say%2:32:00::
+d000.s23.t42 be%2:42:03::
+d000.s23.t48 be%2:42:03::
+d000.s23.t89 be%2:42:03::
+d000.s31.t55 federal%5:00:00:national:01
+d000.s127.t41 work%2:41:03::
+d000.s31.t42 
+d000.s19.t28 
+d000.s31.t52 bring%2:35:04::
+d000.s22.t66 end%1:11:00::
+d000.s23.t67 
+d000.s23.t98 
+d000.s120.t35 case%1:10:01::
+d000.s31.t16 write%2:32:00::
+d000.s71.t22 
+d000.s31.t25 agent%1:17:00::
+d000.s22.t19 move%2:30:00::
+d000.s18.t10 hot%5:00:00:new:00
+d000.s32.t24 turn%2:38:00::
+d000.s72.t17 cover%2:41:10::
+d000.s108.t38 set%2:30:12::
+d000.s31.t44 roosevelt%1:18:02::
+d000.s88.t38 field%1:14:03::
+d000.s122.t21 form%1:09:01::
+d000.s122.t83 form%1:07:03::
+d000.s31.t80 years%1:28:01::
+d000.s23.t27 wing%1:14:02::
+d000.s31.t83 
+d000.s114.t33 
+d000.s16.t21 
+d000.s31.t124 home%1:15:03::
+d000.s1.t2 center%1:15:01::
+d000.s31.t54 direction%1:09:00::
+d000.s78.t5 
+d000.s122.t20 
+d000.s23.t21 
+d000.s23.t53 
+d000.s23.t131 
+d000.s31.t6 reaction%1:09:01::
+d000.s23.t100 movement%1:04:03::
+d000.s31.t28 
+d000.s22.t65 charge%1:18:00::
+d000.s23.t115 well%4:02:05::
+d000.s116.t3 
+d000.s31.t65 
+d000.s30.t14 go%2:42:03::
+d000.s62.t25 
+d000.s31.t58 way%1:26:00::
+d000.s31.t78 away%4:02:05::
+d000.s22.t26 keep%2:42:00::
+d000.s31.t79 
+d000.s23.t3 come%2:30:01::
+d000.s23.t69 
+d000.s23.t73 
+d000.s23.t87 come%2:30:01::
+d000.s20.t40 turn%2:30:03::
+d000.s31.t101 fox%1:05:00::
+d000.s31.t154 fox%1:05:00::
+d000.s97.t22 
+d000.s104.t17 case%1:04:00::
+d000.s113.t44 go%2:30:08::
+d000.s72.t19 
+d000.s111.t37 
+d000.s23.t25 core%1:14:00::
+d000.s31.t10 
+d000.s31.t48 deal%1:04:01::
+d000.s23.t33 operation%1:04:03::
+d000.s23.t86 operation%1:04:03::
+d000.s108.t48 turn%2:38:00::
+d000.s22.t100 beat%2:42:00::
+d000.s46.t25 
+d000.s96.t14 
+d000.s100.t4 work%2:41:11::
+d000.s100.t12 work%2:41:04::
+d000.s126.t78 case%1:18:03::
+d000.s31.t161 s%1:27:00::
+d000.s112.t50 case%1:11:00::
+d000.s59.t15 
+d000.s31.t5 be%2:42:03::
+d000.s31.t21 be%2:42:06::
+d000.s31.t89 be%2:42:06::
+d000.s31.t126 be%2:42:05::
+d000.s31.t156 be%2:42:06::
+d000.s23.t13 position%1:26:00::
+d000.s87.t14 cut%2:35:00::
+d000.s29.t24 give%2:40:07::
+d000.s31.t73 
+d000.s22.t70 father%1:18:00::
+d000.s22.t91 father%1:18:00::
+d000.s22.t101 father%1:18:05::
+d000.s22.t115 father%1:18:05::
+d000.s68.t19 get%2:30:02::
+d000.s31.t99 
+d000.s31.t115 house%1:14:02::
+d000.s0.t21 
+d000.s4.t15 hold%2:42:07::
+d000.s31.t3 
+d000.s31.t19 
+d000.s31.t26 
+d000.s31.t34 
+d000.s31.t72 
+d000.s31.t82 
+d000.s31.t88 
+d000.s31.t144 have%2:40:00::
+d000.s31.t32 right%1:14:00::
+d000.s31.t70 movement%1:14:00::
+d000.s71.t37 
+d000.s98.t33 point%1:28:00::
+d000.s19.t38 give%2:40:13::
+d000.s31.t100 
+d000.s126.t1 go%2:41:00::
+d000.s122.t27 raise%2:32:00::
+d000.s122.t85 raise%2:36:01::
+d000.s122.t93 raise%2:32:00::
+d000.s31.t20 come%2:42:04::
+d000.s100.t96 case%1:10:02::
+d000.s91.t15 carry%2:42:12::
+d000.s118.t7 make%2:31:00::
+d000.s38.t4 
+d000.s82.t18 
+d000.s92.t9 make%2:40:01::
+d000.s103.t4 
+d000.s66.t15 
+d000.s101.t60 get%2:30:03::
+d000.s105.t59 
+d000.s109.t5 take%2:41:04::
+d000.s36.t6 take%2:41:13::
+d000.s48.t12 make%2:36:07::
+d000.s23.t85 order%1:26:00::
+d000.s31.t109 gregory%1:18:01::
+d000.s100.t14 
+d000.s94.t6 
+d000.s106.t31 make%2:41:00::
+d000.s115.t17 
+d000.s31.t67 found%2:41:00::
+d000.s31.t129 
+d000.s53.t6 
+d000.s113.t38 
+d000.s35.t5 take%2:38:09::
+d000.s12.t7 make%2:30:00::
+d000.s34.t24 take%2:40:06::
+d000.s48.t19 
+d000.s78.t21 line%1:14:01::
+d000.s96.t44 
+d000.s64.t26 line%1:10:01::
+d000.s64.t1 
+d000.s99.t2 
+d000.s105.t56 
+d000.s127.t25 play%2:41:12::
+d000.s97.t32 
+d000.s105.t81 point%1:10:01::
+d000.s113.t10 take%2:41:04::
+d000.s72.t24 take%2:30:08::
+d000.s14.t13 head%1:18:00::
+d000.s15.t6 take%2:40:07::
+d000.s73.t31 
+d000.s20.t59 
+d000.s105.t28 call%2:32:00::
+d000.s105.t68 call%2:32:05::
+d000.s23.t108 center%1:14:01::
+d000.s70.t23 
+d000.s101.t57 
+d000.s127.t11 
+d000.s22.t92 call%2:32:00::
+d000.s108.t20 take%2:32:00::
+d000.s112.t35 take%2:31:07::
+d000.s105.t13 
+d000.s105.t47 make%2:41:00::
+d000.s22.t79 play%2:38:03::
+d000.s100.t27 run%2:42:02::
+d000.s122.t2 
+d000.s122.t65 take%2:40:05::
+d000.s31.t66 center%1:14:00::
+d000.s22.t77 take%2:40:01::
+d000.s22.t116 
+d000.s31.t141 
+d000.s110.t57 also%4:02:00::
+d000.s110.t34 
+d000.s110.t35 penchant%1:12:00::
+d000.s110.t93 unsolicited%5:00:00:unrequested:00
+d000.s110.t216 
+d000.s110.t381 untruth%1:10:00::
+d000.s110.t75 explicitly%4:02:00::
+d000.s110.t71 
+d000.s110.t430 update%1:10:00::
+d000.s110.t100 
+d000.s110.t123 acting%5:00:00:impermanent:00
+d000.s110.t340 allegedly%4:02:00::
+d000.s110.t379 indirectly%4:02:00::
+d000.s110.t334 aberdare%1:15:00::
+d000.s110.t357 already%4:02:00::
+d000.s110.t9 sexually%4:02:01::
+d000.s110.t14 blogger%1:18:00::
+d000.s110.t102 unwanted%3:00:01::
+d000.s110.t1 knowledge%1:03:00::
+d000.s110.t67 not%4:02:00::
+d000.s110.t84 kenyan%1:18:00::
+d000.s110.t88 november%1:28:00::
+d000.s110.t128 knowledge%1:03:00::
+d000.s110.t204 july%1:28:00::
+d000.s110.t274 not%4:02:00::
+d000.s110.t275 shy%2:35:00::
+d000.s110.t285 
+d000.s110.t315 logically%4:02:01::
+d000.s110.t373 not%4:02:00::
+d000.s110.t404 not%4:02:00::
+d000.s110.t415 not%4:02:00::
+d000.s110.t332 as%4:02:00::
+d000.s110.t400 lack%1:26:00::
+d000.s110.t411 investigate%2:32:01::
+d000.s110.t10 
+d000.s110.t36 
+d000.s110.t85 tech%1:14:00::
+d000.s110.t95 dick%1:08:00::
+d000.s110.t118 tech%1:14:00::
+d000.s110.t172 
+d000.s110.t290 effectively%4:02:00::
+d000.s110.t86 entrepreneur%1:18:00::
+d000.s110.t138 permanent%1:08:00::
+d000.s110.t173 project%1:04:00::
+d000.s110.t269 ethos%1:07:00::
+d000.s127.t37 break%2:41:09::
+d000.s110.t112 
+d000.s110.t215 lawyer%1:18:00::
+d000.s110.t250 lawyer%1:18:00::
+d000.s110.t354 conversation%1:10:00::
+d000.s110.t369 bonfire%1:11:00::
+d000.s110.t119 ecosystem%1:14:00::
+d000.s110.t139 january%1:28:00::
+d000.s110.t267 malicious%3:00:00::
+d000.s110.t294 public%1:14:00::
+d000.s110.t52 forum%1:14:00::
+d000.s110.t83 prominent%5:00:00:conspicuous:00
+d000.s110.t213 
+d000.s110.t187 seminar%1:14:00::
+d000.s110.t206 investigation%1:09:00::
+d000.s110.t238 investigation%1:09:00::
+d000.s110.t265 disingenuous%3:00:00::
+d000.s110.t271 
+d000.s110.t281 lawsuit%1:04:00::
+d000.s110.t178 international%3:00:00::
+d000.s110.t226 sworn%5:00:00:committed:00
+d000.s110.t257 wrongful%5:00:00:illegitimate:00
+d000.s110.t365 
+d000.s110.t78 sexual%3:01:01::
+d000.s110.t103 sexual%3:01:01::
+d000.s110.t246 
+d000.s110.t318 own%5:00:00:personal:00
+d000.s110.t361 can%2:41:00::
+d000.s110.t414 can%2:41:00::
+d000.s110.t79 harassment%1:04:00::
+d000.s110.t147 misconduct%1:04:01::
+d000.s110.t158 public%3:00:00::
+d000.s110.t185 good%1:07:00::
+d000.s110.t306 public%3:00:00::
+d000.s110.t313 public%3:00:00::
+d000.s110.t115 then%4:02:01::
+d000.s110.t235 
+d000.s110.t328 earpiece%1:06:00::
+d000.s110.t339 then%4:02:01::
+d000.s110.t342 invitation%1:10:00::
+d000.s110.t23 more%4:02:00::
+d000.s110.t63 aware%3:00:00::
+d000.s110.t124 
+d000.s110.t135 
+d000.s110.t170 
+d000.s110.t418 judge%1:18:00::
+d000.s110.t175 strategy%1:09:00::
+d000.s110.t0 
+d000.s110.t76 inform%2:32:00::
+d000.s110.t164 
+d000.s110.t179 travel%1:11:00::
+d000.s110.t380 
+d000.s110.t410 
+d000.s110.t163 
+d000.s110.t221 criminal%5:00:00:illegal:00
+d000.s110.t225 
+d000.s110.t292 private%5:00:00:personal:00
+d000.s110.t99 
+d000.s110.t186 
+d000.s110.t398 clearly%4:02:00::
+d000.s110.t188 
+d000.s110.t254 apparently%4:02:00::
+d000.s110.t317 directly%4:02:01::
+d000.s110.t38 significant%3:00:00::
+d000.s110.t64 
+d000.s110.t191 
+d000.s110.t198 same%3:00:00::
+d000.s110.t218 same%3:00:02::
+d000.s110.t310 particularly%4:02:02::
+d000.s110.t352 however%4:02:01::
+d000.s110.t359 bed%2:35:00::
+d000.s110.t419 same%3:00:02::
+d000.s31.t39 
+d000.s110.t3 allegation%1:10:00::
+d000.s110.t8 allegation%1:10:00::
+d000.s110.t22 even%4:02:00::
+d000.s110.t65 even%4:02:03::
+d000.s110.t70 
+d000.s110.t77 allegation%1:10:00::
+d000.s110.t89 allegation%1:10:00::
+d000.s110.t141 even%4:02:03::
+d000.s110.t177 even%4:02:03::
+d000.s110.t382 even%4:02:03::
+d000.s110.t13 kenya%1:15:00::
+d000.s110.t44 kenya%1:15:00::
+d000.s110.t127 kenya%1:15:00::
+d000.s110.t253 
+d000.s110.t304 kenya%1:15:00::
+d000.s110.t144 unequivocal%5:00:00:explicit:00
+d000.s110.t156 
+d000.s110.t192 
+d000.s110.t194 only%4:02:01::
+d000.s110.t201 africa%1:17:00::
+d000.s110.t288 d%1:10:00::
+d000.s110.t261 
+d000.s110.t401 independence%1:26:00::
+d000.s110.t26 least%3:00:00::
+d000.s110.t239 thus%4:02:00::
+d000.s110.t280 fear%1:12:02::
+d000.s110.t241 exclude%2:31:01::
+d000.s110.t323 explanation%1:10:00::
+d000.s110.t190 peace%1:26:01::
+d000.s110.t349 effort%1:04:03::
+d000.s110.t341 
+d000.s110.t43 administrator%1:18:00::
+d000.s110.t53 administrator%1:18:00::
+d000.s110.t108 building%1:14:00::
+d000.s110.t189 luxembourg%1:15:01::
+d000.s110.t200 quartz%1:27:00::
+d000.s110.t293 matter%1:07:00::
+d000.s110.t325 evening%1:28:00::
+d000.s110.t343 
+d000.s110.t330 aid%1:04:01::
+d000.s110.t368 still%4:02:00::
+d000.s110.t423 still%4:02:00::
+d000.s110.t152 may%1:28:00::
+d000.s110.t183 
+d000.s110.t174 
+d000.s110.t242 evidence%1:10:00::
+d000.s110.t11 
+d000.s110.t37 
+d000.s110.t98 
+d000.s110.t105 
+d000.s110.t176 session%1:10:00::
+d000.s110.t258 termination%1:11:00::
+d000.s110.t312 recording%1:04:00::
+d000.s110.t324 event%1:03:00::
+d000.s110.t125 director%1:18:03::
+d000.s110.t136 director%1:18:03::
+d000.s110.t171 director%1:18:03::
+d000.s110.t87 
+d000.s110.t96 
+d000.s110.t104 
+d000.s110.t210 
+d000.s110.t116 
+d000.s110.t387 fact%1:09:01::
+d000.s110.t220 procedure%1:04:00::
+d000.s110.t301 
+d000.s107.t26 again%4:02:00::
+d000.s107.t37 okay%1:10:00::
+d000.s107.t81 prohibit%2:32:00::
+d000.s107.t400 
+d000.s107.t427 again%4:02:00::
+d000.s107.t487 also%4:02:00::
+d000.s107.t105 
+d000.s110.t374 correct%2:29:04::
+d000.s107.t104 subtly%4:02:00::
+d000.s107.t153 reliably%4:02:00::
+d000.s107.t453 fuck%2:35:00::
+d000.s107.t484 fuck%2:35:00::
+d000.s107.t489 actively%4:02:00::
+d000.s110.t212 accommodate%2:42:00::
+d000.s110.t363 
+d000.s110.t399 
+d000.s107.t27 nobody%1:18:00::
+d000.s107.t231 
+d000.s107.t291 initial%5:00:00:first:00
+d000.s107.t414 perpetrator%1:18:00::
+d000.s107.t498 vociferously%4:02:00::
+d000.s110.t237 internal%5:00:00:intramural:00
+d000.s107.t232 enthusiastic%3:00:00::
+d000.s107.t349 notify%2:32:00::
+d000.s107.t443 harmless%3:00:00::
+d000.s110.t413 decision%1:09:00::
+d000.s107.t65 june%1:28:00::
+d000.s107.t71 
+d000.s107.t314 june%1:28:00::
+d000.s107.t455 incident%1:11:00::
+d000.s110.t91 include%2:42:00::
+d000.s110.t182 include%2:42:00::
+d000.s110.t337 
+d000.s107.t4 not%4:02:00::
+d000.s107.t16 
+d000.s107.t19 not%4:02:00::
+d000.s107.t21 not%4:02:00::
+d000.s107.t79 knowledge%1:03:00::
+d000.s107.t195 july%1:28:00::
+d000.s107.t202 not%4:02:00::
+d000.s107.t212 not%4:02:00::
+d000.s107.t222 not%4:02:00::
+d000.s107.t260 not%4:02:00::
+d000.s107.t282 kenyan%1:18:00::
+d000.s107.t379 not%4:02:00::
+d000.s107.t407 not%4:02:00::
+d000.s107.t441 not%4:02:00::
+d000.s107.t473 not%4:02:00::
+d000.s107.t497 not%4:02:00::
+d000.s110.t217 ask%2:32:01::
+d000.s110.t303 
+d000.s110.t307 
+d000.s110.t314 domain%1:15:00::
+d000.s107.t0 
+d000.s107.t39 alleviate%2:30:00::
+d000.s107.t192 subsequently%4:02:00::
+d000.s107.t363 
+d000.s110.t229 authority%1:18:01::
+d000.s107.t40 adverse%5:00:00:unfavorable:01
+d000.s107.t73 well-being%1:26:00::
+d000.s107.t213 relevant%3:00:00::
+d000.s107.t364 appropriate%3:00:00::
+d000.s107.t22 third%5:00:00:ordinal:00
+d000.s107.t36 m%5:00:00:cardinal:00
+d000.s107.t116 
+d000.s107.t188 once%4:02:02::
+d000.s107.t270 once%4:02:02::
+d000.s107.t426 once%4:02:02::
+d000.s107.t48 management%1:14:00::
+d000.s107.t399 quickly%4:02:02::
+d000.s110.t7 history%1:28:00::
+d000.s110.t92 
+d000.s110.t195 
+d000.s107.t119 lawyer%1:18:00::
+d000.s107.t123 lawyer%1:18:00::
+d000.s107.t149 conversation%1:10:00::
+d000.s107.t258 
+d000.s107.t336 whistleblower%1:18:00::
+d000.s107.t380 
+d000.s107.t388 conversation%1:10:00::
+d000.s107.t397 conversation%1:10:00::
+d000.s107.t461 conversation%1:10:00::
+d000.s110.t2 similar%3:00:00::
+d000.s110.t146 gross%5:00:00:conspicuous:00
+d000.s107.t502 
+d000.s107.t45 health%1:26:01::
+d000.s107.t354 receipt%1:04:00::
+d000.s107.t46 only%5:00:00:single:05
+d000.s107.t156 instance%1:11:00::
+d000.s107.t164 one%1:09:00::
+d000.s107.t197 instance%1:11:00::
+d000.s107.t340 only%5:00:00:exclusive:00
+d000.s107.t381 instance%1:09:00::
+d000.s107.t393 clarification%1:10:00::
+d000.s107.t459 one%1:23:00::
+d000.s107.t501 inappropriate%5:00:00:incongruous:00
+d000.s107.t178 
+d000.s107.t216 
+d000.s107.t285 
+d000.s110.t106 bishop%1:06:00::
+d000.s107.t10 inquire%2:32:02::
+d000.s107.t72 
+d000.s107.t224 inquiry%1:04:00::
+d000.s107.t365 corrective%5:00:00:nonindulgent:00
+d000.s107.t382 inquiry%1:04:00::
+d000.s107.t416 victim%1:18:01::
+d000.s107.t419 
+d000.s107.t437 inquiry%1:04:00::
+d000.s107.t52 supervisor%1:18:00::
+d000.s107.t57 manager%1:18:00::
+d000.s107.t92 decency%1:07:00::
+d000.s107.t168 sexual%3:01:01::
+d000.s107.t300 clarity%1:07:01::
+d000.s107.t348 will%2:32:00::
+d000.s107.t360 will%2:32:00::
+d000.s107.t367 will%2:31:01::
+d000.s107.t430 clarity%1:07:01::
+d000.s107.t433 will%2:32:00::
+d000.s107.t468 sexual%3:01:01::
+d000.s107.t476 sexual%3:01:01::
+d000.s107.t490 welcome%2:40:00::
+d000.s107.t494 sexual%3:01:01::
+d000.s110.t298 declare%2:32:00::
+d000.s107.t49 
+d000.s107.t75 
+d000.s107.t150 
+d000.s107.t275 first%4:02:00::
+d000.s107.t294 opaque%5:00:00:incomprehensible:00
+d000.s107.t362 promptly%4:02:02::
+d000.s107.t448 potty%5:00:00:unimportant:00
+d000.s110.t151 complaint%1:10:04::
+d000.s110.t165 complaint%1:10:04::
+d000.s110.t309 complaint%1:10:04::
+d000.s107.t148 public%5:00:00:common:02
+d000.s107.t273 public%5:00:00:common:02
+d000.s107.t312 
+d000.s107.t370 
+d000.s107.t110 counsel%1:18:00::
+d000.s107.t146 counsel%1:10:00::
+d000.s107.t244 counsel%1:10:00::
+d000.s107.t280 then%4:02:02::
+d000.s110.t360 night%1:28:00::
+d000.s107.t29 leadership%1:04:00::
+d000.s107.t137 sentiment%1:09:00::
+d000.s107.t272 
+d000.s107.t287 more%4:02:01::
+d000.s107.t325 timeline%1:10:00::
+d000.s107.t411 alternative%5:00:00:unconventional:01
+d000.s107.t415 become%2:42:00::
+d000.s107.t429 timeline%1:10:00::
+d000.s107.t91 human%3:01:00::
+d000.s107.t111 rationale%1:09:00::
+d000.s107.t127 
+d000.s107.t133 personally%4:02:03::
+d000.s107.t225 
+d000.s107.t254 delay%1:28:00::
+d000.s107.t326 
+d000.s110.t28 
+d000.s110.t366 member%1:24:00::
+d000.s107.t61 inform%2:32:00::
+d000.s107.t89 possess%2:42:00::
+d000.s107.t154 inform%2:32:10::
+d000.s107.t477 context%1:26:00::
+d000.s110.t421 date%1:28:05::
+d000.s107.t77 liability%1:07:00::
+d000.s107.t147 private%5:00:00:personal:00
+d000.s107.t377 
+d000.s110.t224 witness%1:18:03::
+d000.s110.t417 witness%1:18:00::
+d000.s107.t69 several%5:00:00:different:00
+d000.s107.t141 several%5:00:00:different:00
+d000.s107.t439 several%5:00:00:different:00
+d000.s107.t444 personality%1:07:00::
+d000.s107.t182 
+d000.s107.t281 various%5:00:00:different:00
+d000.s107.t480 various%5:00:00:individual:00
+d000.s107.t41 impact%1:04:00::
+d000.s107.t346 
+d000.s107.t412 narrative%1:10:00::
+d000.s107.t53 even%4:02:00::
+d000.s107.t203 even%4:02:00::
+d000.s107.t239 even%4:02:03::
+d000.s107.t373 even%4:02:00::
+d000.s107.t417 even%4:02:00::
+d000.s110.t203 story%1:10:02::
+d000.s110.t335 staff%1:14:01::
+d000.s107.t165 
+d000.s107.t337 policy%1:10:00::
+d000.s107.t488 
+d000.s110.t145 proof%1:04:00::
+d000.s110.t227 
+d000.s110.t234 around%4:02:02::
+d000.s110.t346 
+d000.s107.t58 only%4:02:00::
+d000.s107.t170 only%4:02:02::
+d000.s107.t267 only%4:02:00::
+d000.s107.t402 
+d000.s110.t81 late%3:00:00::
+d000.s110.t244 company%1:14:01::
+d000.s110.t268 company%1:14:01::
+d000.s107.t38 seek%2:40:00::
+d000.s107.t107 seek%2:40:00::
+d000.s107.t108 retain%2:31:00::
+d000.s107.t166 
+d000.s107.t171 file%2:38:00::
+d000.s107.t200 second%5:00:00:ordinal:00
+d000.s110.t338 look%2:41:13::
+d000.s107.t70 occasion%1:16:00::
+d000.s107.t125 thus%4:02:01::
+d000.s107.t186 least%3:00:00::
+d000.s107.t220 thus%4:02:00::
+d000.s107.t278 count%1:23:00::
+d000.s107.t327 conclude%2:31:01::
+d000.s107.t463 thus%4:02:00::
+d000.s107.t500 protest%1:10:01::
+d000.s107.t245 
+d000.s107.t268 seem%2:42:00::
+d000.s107.t308 
+d000.s107.t357 
+d000.s110.t159 pressure%1:07:00::
+d000.s107.t253 always%4:02:04::
+d000.s110.t329 hearing%1:04:01::
+d000.s110.t370 hearing%1:04:01::
+d000.s107.t25 repeat%2:32:00::
+d000.s107.t140 
+d000.s107.t331 
+d000.s107.t404 brutal%5:00:00:direct:02
+d000.s107.t457 
+d000.s107.t469 
+d000.s107.t20 email%1:10:00::
+d000.s107.t265 e-mail%1:10:00::
+d000.s110.t169 capacity%1:04:01::
+d000.s107.t62 intention%1:04:00::
+d000.s107.t205 complete%2:30:02::
+d000.s107.t334 want%2:42:01::
+d000.s107.t424 
+d000.s107.t445 flaw%1:26:02::
+d000.s107.t124 up%4:02:01::
+d000.s110.t181 organisation%1:14:01::
+d000.s110.t358 
+d000.s107.t129 matter%1:09:01::
+d000.s107.t271 matter%1:09:01::
+d000.s107.t328 matter%1:09:00::
+d000.s107.t405 
+d000.s107.t161 
+d000.s107.t175 
+d000.s107.t339 vague%5:00:00:unclear:00
+d000.s107.t3 ordeal%1:11:00::
+d000.s107.t76 legal%5:00:00:eligible:00
+d000.s107.t109 legal%3:01:01::
+d000.s107.t115 legal%3:00:00::
+d000.s107.t189 may%1:28:00::
+d000.s107.t422 
+d000.s107.t434 end%2:42:00::
+d000.s107.t23 party%1:14:02::
+d000.s107.t128 
+d000.s107.t143 other%5:00:00:past:00
+d000.s107.t180 
+d000.s107.t257 other%5:00:00:past:00
+d000.s107.t263 copy%1:06:00::
+d000.s107.t304 handle%2:32:00::
+d000.s107.t313 meeting%1:11:00::
+d000.s107.t403 hours%1:28:01::
+d000.s107.t215 event%1:03:00::
+d000.s107.t248 literal%5:00:00:true:00
+d000.s107.t356 violation%1:04:03::
+d000.s107.t358 violation%1:04:03::
+d000.s107.t90 basic%5:00:02:first:00
+d000.s107.t155 more%3:00:01::
+d000.s107.t174 reject%2:31:00::
+d000.s110.t219 level%1:26:01::
+d000.s107.t47 person%1:03:00::
+d000.s107.t50 concern%1:14:00::
+d000.s107.t82 person%1:03:00::
+d000.s107.t118 involve%2:42:04::
+d000.s107.t208 tell%2:32:00::
+d000.s107.t262 advance%1:04:00::
+d000.s107.t350 person%1:03:00::
+d000.s107.t462 sex%1:04:00::
+d000.s110.t167 
+d000.s107.t33 
+d000.s107.t196 first%3:00:00::
+d000.s107.t237 first%5:00:02:opening:00
+d000.s107.t410 create%2:36:00::
+d000.s110.t320 
+d000.s107.t471 fact%1:09:01::
+d000.s110.t168 act%2:41:00::
+d000.s107.t284 
+d000.s107.t347 
+d000.s107.t293 
+d000.s107.t355 
+d000.s110.t276 away%4:02:06::
+d000.s107.t495 proposition%1:10:00::
+d000.s110.t48 david%1:18:00::
+d000.s107.t167 
+d000.s107.t190 letter%1:10:00::
+d000.s107.t233 letter%1:10:00::
+d000.s107.t307 letter%1:10:03::
+d000.s107.t390 establish%2:31:00::
+d000.s110.t6 long%3:00:02::
+d000.s110.t327 lose%2:40:02::
+d000.s110.t243 
+d000.s110.t429 latest%5:00:00:current:00
+d000.s107.t193 internal%3:00:00::
+d000.s107.t162 effect%1:10:00::
+d000.s107.t206 question%1:10:03::
+d000.s107.t210 question%1:10:01::
+d000.s107.t229 decision%1:09:00::
+d000.s107.t386 
+d000.s107.t391 
+d000.s107.t34 ask%2:32:01::
+d000.s107.t83 ask%2:32:01::
+d000.s110.t39 period%1:28:00::
+d000.s110.t60 period%1:28:00::
+d000.s110.t231 so%4:02:02::
+d000.s110.t345 so%4:02:05::
+d000.s110.t377 so%4:02:10::
+d000.s107.t464 
+d000.s110.t148 
+d000.s110.t160 
+d000.s110.t230 do%2:41:01::
+d000.s110.t277 
+d000.s110.t372 
+d000.s110.t378 
+d000.s107.t74 
+d000.s107.t240 
+d000.s107.t264 
+d000.s107.t409 truth%1:10:00::
+d000.s107.t479 video%1:10:01::
+d000.s107.t247 
+d000.s107.t261 send%2:32:00::
+d000.s107.t317 engagement%1:04:00::
+d000.s107.t353 acknowledge%2:32:00::
+d000.s107.t446 use%2:41:14::
+d000.s107.t450 use%2:41:14::
+d000.s107.t474 use%2:41:03::
+d000.s107.t250 mail%1:14:00::
+d000.s110.t259 suit%1:04:00::
+d000.s107.t351 
+d000.s107.t423 notice%1:10:04::
+d000.s107.t68 
+d000.s107.t425 
+d000.s110.t27 board%1:14:00::
+d000.s110.t40 time%1:11:00::
+d000.s110.t90 time%1:11:00::
+d000.s110.t120 time%1:11:00::
+d000.s110.t130 board%1:14:00::
+d000.s110.t153 board%1:14:00::
+d000.s110.t208 board%1:14:00::
+d000.s110.t245 board%1:14:00::
+d000.s110.t353 time%1:28:00::
+d000.s110.t409 board%1:14:00::
+d000.s110.t426 board%1:14:00::
+d000.s107.t406 
+d000.s110.t134 s%1:28:00::
+d000.s110.t252 s%1:28:00::
+d000.s107.t172 complaint%1:10:04::
+d000.s107.t217 complaint%1:10:04::
+d000.s107.t352 complaint%1:10:04::
+d000.s107.t359 
+d000.s107.t420 
+d000.s107.t17 phone%1:06:00::
+d000.s110.t17 be%2:42:03::
+d000.s110.t21 be%2:42:03::
+d000.s110.t25 
+d000.s110.t42 be%2:42:03::
+d000.s110.t46 be%2:42:06::
+d000.s110.t50 be%2:42:03::
+d000.s110.t56 be%2:42:03::
+d000.s110.t62 be%2:42:04::
+d000.s110.t74 be%2:42:03::
+d000.s110.t114 
+d000.s110.t122 be%2:42:03::
+d000.s110.t155 be%2:41:00::
+d000.s110.t193 be%2:42:06::
+d000.s110.t236 be%2:42:06::
+d000.s110.t255 be%2:42:03::
+d000.s110.t260 
+d000.s110.t263 be%2:42:03::
+d000.s110.t278 be%2:42:03::
+d000.s110.t300 be%2:42:03::
+d000.s110.t305 be%2:42:03::
+d000.s110.t326 be%2:42:03::
+d000.s110.t336 be%2:42:04::
+d000.s110.t347 be%2:42:03::
+d000.s110.t362 be%2:42:06::
+d000.s110.t367 be%2:42:06::
+d000.s110.t385 be%2:42:03::
+d000.s110.t388 be%2:42:03::
+d000.s110.t406 
+d000.s110.t416 be%2:42:03::
+d000.s107.t297 now%4:02:01::
+d000.s110.t30 
+d000.s107.t234 writing%1:10:02::
+d000.s107.t7 member%1:18:00::
+d000.s107.t145 member%1:24:00::
+d000.s107.t306 save%2:41:01::
+d000.s110.t143 
+d000.s107.t132 
+d000.s107.t9 
+d000.s110.t197 leave%2:30:02::
+d000.s110.t344 leave%2:40:02::
+d000.s107.t5 single%3:00:00::
+d000.s107.t185 bring%2:36:00::
+d000.s110.t266 bad%3:00:00::
+d000.s107.t436 
+d000.s107.t324 provide%2:40:00::
+d000.s107.t11 well%1:10:00::
+d000.s110.t222 court%1:14:00::
+d000.s110.t302 
+d000.s110.t180 face%1:18:00::
+d000.s110.t199 day%1:28:05::
+d000.s107.t169 relationship%1:26:01::
+d000.s107.t194 hearing%1:26:00::
+d000.s107.t318 hearing%1:26:00::
+d000.s110.t279 right%3:00:02::
+d000.s107.t451 word%1:10:03::
+d000.s107.t475 word%1:10:03::
+d000.s107.t482 word%1:10:06::
+d000.s107.t120 
+d000.s110.t5 
+d000.s110.t29 have%2:35:00::
+d000.s110.t68 have%2:40:00::
+d000.s110.t154 
+d000.s110.t209 
+d000.s110.t228 
+d000.s110.t272 have%2:40:00::
+d000.s110.t283 
+d000.s110.t289 have%2:40:04::
+d000.s110.t296 have%2:40:00::
+d000.s110.t297 
+d000.s110.t308 
+d000.s110.t356 
+d000.s110.t384 
+d000.s110.t397 have%2:40:00::
+d000.s110.t405 have%2:40:00::
+d000.s110.t424 
+d000.s107.t449 mouth%1:10:00::
+d000.s110.t12 day%1:28:03::
+d000.s110.t333 well%4:02:05::
+d000.s107.t184 
+d000.s107.t389 try%2:41:05::
+d000.s107.t199 response%1:19:00::
+d000.s110.t390 part%1:24:00::
+d000.s110.t407 part%1:24:00::
+d000.s107.t198 
+d000.s107.t269 act%2:41:00::
+d000.s107.t13 way%1:07:01::
+d000.s107.t101 process%1:04:00::
+d000.s107.t295 process%1:04:00::
+d000.s107.t333 way%1:07:01::
+d000.s107.t375 process%1:04:00::
+d000.s107.t421 process%1:04:00::
+d000.s107.t432 process%1:04:00::
+d000.s107.t14 shape%1:03:00::
+d000.s107.t204 
+d000.s107.t442 so%4:02:05::
+d000.s107.t44 work%1:04:00::
+d000.s107.t96 do%2:41:01::
+d000.s107.t236 
+d000.s107.t259 
+d000.s107.t322 
+d000.s107.t332 do%2:41:04::
+d000.s107.t341 state%1:03:00::
+d000.s107.t472 
+d000.s107.t496 
+d000.s110.t408 panel%1:14:00::
+d000.s107.t305 issue%1:04:01::
+d000.s110.t264 well%4:02:05::
+d000.s110.t425 job%1:06:00::
+d000.s110.t319 best%3:00:00::
+d000.s107.t126 
+d000.s107.t316 term%1:28:00::
+d000.s107.t6 board%1:14:00::
+d000.s107.t30 board%1:14:00::
+d000.s107.t66 board%1:14:00::
+d000.s107.t106 board%1:14:00::
+d000.s107.t144 board%1:14:00::
+d000.s107.t191 board%1:14:00::
+d000.s107.t230 board%1:14:00::
+d000.s107.t241 board%1:14:00::
+d000.s107.t266 board%1:14:00::
+d000.s107.t302 board%1:14:00::
+d000.s107.t309 board%1:14:00::
+d000.s107.t323 board%1:14:00::
+d000.s107.t383 board%1:06:03::
+d000.s110.t137 position%1:10:01::
+d000.s107.t311 s%1:28:00::
+d000.s107.t12 be%2:42:03::
+d000.s107.t51 
+d000.s107.t54 be%2:42:03::
+d000.s107.t86 be%2:42:03::
+d000.s107.t103 be%2:42:03::
+d000.s107.t112 be%2:42:06::
+d000.s107.t131 be%2:42:03::
+d000.s107.t136 be%2:42:03::
+d000.s107.t139 be%2:42:04::
+d000.s107.t152 be%2:42:03::
+d000.s107.t163 be%2:42:03::
+d000.s107.t176 be%2:42:06::
+d000.s107.t201 be%2:42:03::
+d000.s107.t207 be%2:42:06::
+d000.s107.t211 be%2:42:03::
+d000.s107.t218 be%2:42:06::
+d000.s107.t221 be%2:42:06::
+d000.s107.t235 
+d000.s107.t246 be%2:42:03::
+d000.s107.t252 be%2:42:06::
+d000.s107.t319 be%2:42:03::
+d000.s107.t338 be%2:42:06::
+d000.s107.t361 be%2:42:03::
+d000.s107.t368 be%2:42:03::
+d000.s107.t376 be%2:42:06::
+d000.s107.t378 be%2:42:03::
+d000.s107.t385 be%2:42:03::
+d000.s107.t401 be%2:42:03::
+d000.s107.t456 be%2:42:03::
+d000.s107.t458 be%2:42:03::
+d000.s107.t470 be%2:42:03::
+d000.s107.t486 be%2:42:03::
+d000.s107.t55 direct%3:00:02::
+d000.s107.t94 know%2:31:06::
+d000.s107.t395 view%1:09:00::
+d000.s107.t80 
+d000.s107.t366 action%1:04:02::
+d000.s107.t63 leave%2:42:02::
+d000.s107.t435 
+d000.s110.t18 active%3:00:02::
+d000.s110.t58 active%3:00:02::
+d000.s107.t481 
+d000.s107.t286 medium%1:27:03::
+d000.s107.t1 support%1:04:00::
+d000.s107.t277 
+d000.s107.t18 call%1:10:01::
+d000.s107.t8 have%2:41:00::
+d000.s107.t31 
+d000.s107.t42 
+d000.s107.t43 
+d000.s107.t67 have%2:40:00::
+d000.s107.t102 have%2:42:00::
+d000.s107.t130 
+d000.s107.t138 
+d000.s107.t151 have%2:41:00::
+d000.s107.t159 
+d000.s107.t183 have%2:40:00::
+d000.s107.t298 have%2:40:00::
+d000.s107.t299 
+d000.s107.t330 have%2:36:00::
+d000.s107.t428 
+d000.s107.t438 
+d000.s107.t447 have%2:40:00::
+d000.s107.t2 
+d000.s107.t227 
+d000.s107.t238 
+d000.s107.t256 
+d000.s107.t289 
+d000.s107.t290 day%1:28:03::
+d000.s107.t292 
+d000.s107.t296 
+d000.s107.t142 
+d000.s107.t78 best%3:00:00::
+d000.s107.t15 form%1:07:03::
+d000.s107.t59 found%2:41:00::
+d000.s110.t233 
+d000.s110.t291 turn%2:35:10::
+d000.s107.t279 
+d000.s110.t420 case%1:10:02::
+d000.s107.t478 see%2:31:00::
+d000.s107.t255 work%2:41:04::
+d000.s107.t320 set%2:31:04::
+d000.s110.t47 
+d000.s110.t316 go%2:30:08::
+d000.s107.t98 better%3:00:00::
+d000.s107.t460 
+d000.s107.t223 
+d000.s110.t350 get%2:32:00::
+d000.s110.t376 point%1:09:02::
+d000.s110.t389 call%2:41:04::
+d000.s110.t101 
+d000.s110.t131 
+d000.s110.t150 
+d000.s110.t348 
+d000.s110.t412 make%2:41:00::
+d000.s107.t228 get%2:30:03::
+d000.s107.t408 get%2:30:03::
+d000.s107.t384 
+d000.s107.t32 point%1:09:02::
+d000.s107.t321 point%1:09:01::
+d000.s110.t202 
+d000.s107.t56 line%1:10:02::
+d000.s107.t114 
+d000.s107.t160 
+d000.s107.t177 
+d000.s107.t219 
+d000.s107.t276 
+d000.s107.t226 
+d000.s107.t369 
