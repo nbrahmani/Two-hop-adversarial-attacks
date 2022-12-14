@@ -1,6 +1,6 @@
 # Systematic Monotonicity and Consistency for Natural Language Inference
 
-Implementatio of our paper 'Systematic Monotonicity and Consistency for Natural Language Infernece' at \url{https://link.springer.com/chapter/10.1007/978-3-031-22695-3_25}
+Implementatio of our paper 'Systematic Monotonicity and Consistency for Natural Language Infernece' at https://link.springer.com/chapter/10.1007/978-3-031-22695-3_25
 
 ## Prerequisites
 
