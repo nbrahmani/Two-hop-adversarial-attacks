@@ -1,0 +1,2983 @@
+Example No: 2
+Premise: man smokes while sitting on a parked scooter
+Hypothesis: a man smokes a cigarette while sitting on his scooter
+Markers: Prem- ['man', 'parked', 'sitting', 'smokes', 'scooter'], Hyp- ['man', 'smokes', 'sitting', 'cigarette', 'scooter']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.022007260471582413
+Grammar Score Prem: 0.9943844079971313
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: man smokes while sitting on a parked scooter
+		Hypothsis: a man smokes a cigarette while sitting on his conveyance
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0220), tensor(0.9946)]
+		Premise: man smokes while sitting on a parked scooter
+		Hypothsis: a man smokes a cigarette while sitting on his instrumentality
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0220), tensor(0.9913)]
+		Premise: man smokes while sitting on a parked scooter
+		Hypothsis: a man smokes a cigarette while sitting on his vehicle
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0220), tensor(0.9942)]
+		Premise: man smokes while sitting on a parked scooter
+		Hypothsis: a man smokes a cigarette while sitting on his container
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.0220), tensor(0.9937)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 1, 'fail': 3, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 1
+Example No: 5
+Premise: a man in a blue shirt is looking up
+Hypothesis: a man in a blue shirt is looking up at a dog
+Markers: Prem- ['man', 'looking', 'shirt', 'blue'], Hyp- ['man', 'looking', 'blue', 'shirt', 'dog']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9933888912200928
+Grammar Score Prem: 0.9940564632415771
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: a man in a blue shirt is looking up
+		Hypothsis: a man in a blue shirt is looking up at a carnivore
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9934), tensor(0.9954)]
+		Premise: a man in a blue shirt is looking up
+		Hypothsis: a man in a blue shirt is looking up at a canine
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9934), tensor(0.9955)]
+		Premise: a man in a blue shirt is looking up
+		Hypothsis: a man in a blue shirt is looking up at a organism
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9934), tensor(0.9956)]
+		Premise: a man in a blue shirt is looking up
+		Hypothsis: a man in a blue shirt is looking up at a placental
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9934), tensor(0.9945)]
+		Premise: a man in a blue shirt is looking up
+		Hypothsis: a man in a blue shirt is looking up at a animal
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9934), tensor(0.9951)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 3, 'fail': 2, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 1
+Example No: 6
+Premise: a small white dog running on a pebble covered beach
+Hypothesis: a seagull on the dock
+Markers: Prem- ['white', 'small', 'dog', 'pebble', 'beach'], Hyp- ['dock', 'seagull']
+Ground Truth: 0
+Predicted label: 0
+Grammar Score Prem: 0.9804341197013855
+Grammar Score Prem: 0.08992686122655869
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+		Premise: a small white dog running on a pebble covered plage
+		Hypothsis: a seagull on the dock
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9814), tensor(0.0899)]
+	Transformations of type MNP^H
+		Premise: a small white dog running on a pebble covered object
+		Hypothsis: a seagull on the dock
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9806), tensor(0.0899)]
+	Transformations of type PEH^
+		Premise: a small white dog running on a pebble covered beach
+		Hypothsis: a gull on the dock
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9804), tensor(0.0714)]
+	Transformations of type PMEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type PMNH^
+		Premise: a small white dog running on a pebble covered beach
+		Hypothsis: a larid on the dock
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9804), tensor(0.0254)]
+		Premise: a small white dog running on a pebble covered beach
+		Hypothsis: a seabird on the dock
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9804), tensor(0.0628)]
+		Premise: a small white dog running on a pebble covered beach
+		Hypothsis: a gull on the dock
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9804), tensor(0.0714)]
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			No transformations exist
+	Transformations of type MEP^EH^
+		Premise: a small white dog running on a pebble covered plage
+		Hypothsis: a gull on the dock
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9814), tensor(0.0714)]
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+		Premise: a small white dog running on a pebble covered plage
+		Hypothsis: a larid on the dock
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9814), tensor(0.0254)]
+		Premise: a small white dog running on a pebble covered plage
+		Hypothsis: a seabird on the dock
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9814), tensor(0.0628)]
+		Premise: a small white dog running on a pebble covered plage
+		Hypothsis: a gull on the dock
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9814), tensor(0.0714)]
+	Transformations of type MNP^EH^
+		Premise: a small white dog running on a pebble covered object
+		Hypothsis: a gull on the dock
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9806), tensor(0.0714)]
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+		Premise: a small white dog running on a pebble covered object
+		Hypothsis: a larid on the dock
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9806), tensor(0.0254)]
+		Premise: a small white dog running on a pebble covered object
+		Hypothsis: a seabird on the dock
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9806), tensor(0.0628)]
+		Premise: a small white dog running on a pebble covered object
+		Hypothsis: a gull on the dock
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9806), tensor(0.0714)]
+			Status counts: {'success': 5, 'fail': 9, 'no_trans': 3, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 8
+Premise: a woman talks to two other women and a man with notepads in an office building with large windows
+Hypothesis: a woman talks to others indoors about lunch
+Markers: Prem- ['women', 'woman', 'talks', 'notepads', 'office'], Hyp- ['woman', 'indoors', 'talks', 'lunch']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9899389743804932
+Grammar Score Prem: 0.9903597831726074
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: a woman talks to two other women and a man with notepads in an office building with large windows
+		Hypothsis: a woman talks to others indoors about tiffin
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9899), tensor(0.9915)]
+		Premise: a woman talks to two other women and a man with notepads in an office building with large windows
+		Hypothsis: a woman talks to others indoors about luncheon
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9899), tensor(0.9859)]
+	Transformations of type PMEH^
+		Premise: a woman talks to two other women and a man with notepads in an office building with large windows
+		Hypothsis: a woman talks to others indoors about food
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9899), tensor(0.9927)]
+		Premise: a woman talks to two other women and a man with notepads in an office building with large windows
+		Hypothsis: a woman talks to others indoors about nutriment
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9899), tensor(0.9930)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 1, 'fail': 3, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 1
+Example No: 11
+Premise: a woman in a green jacket and black sunglasses outside in a crowd
+Hypothesis: a woman is outside
+Markers: Prem- ['outside', 'sunglasses', 'woman', 'jacket', 'crowd'], Hyp- ['outside', 'woman']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.3532269597053528
+Grammar Score Prem: 0.9889441728591919
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+		Premise: a woman in a green jacket and black sunglasses outside in a gathering
+		Hypothsis: a woman is outside
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.8341), tensor(0.9889)]
+	Transformations of type MNP^H
+		Premise: a woman in a green jacket and black sunglasses outside in a troop
+		Hypothsis: a woman is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.1356), tensor(0.9889)]
+		Premise: a woman in a green jacket and black sunglasses outside in a crush
+		Hypothsis: a woman is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9607), tensor(0.9889)]
+		Premise: a woman in a green jacket and black sunglasses outside in a phalanx
+		Hypothsis: a woman is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.8922), tensor(0.9889)]
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: a woman in a green jacket and black sunglasses outside in a crowd
+		Hypothsis: a person is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.3532), tensor(0.9665)]
+		Premise: a woman in a green jacket and black sunglasses outside in a crowd
+		Hypothsis: a adult is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.3532), tensor(0.9787)]
+		Premise: a woman in a green jacket and black sunglasses outside in a crowd
+		Hypothsis: a female is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.3532), tensor(0.9790)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+		Premise: a woman in a green jacket and black sunglasses outside in a gathering
+		Hypothsis: a person is outside
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.8341), tensor(0.9665)]
+		Premise: a woman in a green jacket and black sunglasses outside in a gathering
+		Hypothsis: a adult is outside
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.8341), tensor(0.9787)]
+		Premise: a woman in a green jacket and black sunglasses outside in a gathering
+		Hypothsis: a female is outside
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.8341), tensor(0.9790)]
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+		Premise: a woman in a green jacket and black sunglasses outside in a troop
+		Hypothsis: a person is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.1356), tensor(0.9665)]
+		Premise: a woman in a green jacket and black sunglasses outside in a troop
+		Hypothsis: a adult is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.1356), tensor(0.9787)]
+		Premise: a woman in a green jacket and black sunglasses outside in a troop
+		Hypothsis: a female is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.1356), tensor(0.9790)]
+		Premise: a woman in a green jacket and black sunglasses outside in a crush
+		Hypothsis: a person is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9607), tensor(0.9665)]
+		Premise: a woman in a green jacket and black sunglasses outside in a crush
+		Hypothsis: a adult is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9607), tensor(0.9787)]
+		Premise: a woman in a green jacket and black sunglasses outside in a crush
+		Hypothsis: a female is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9607), tensor(0.9790)]
+		Premise: a woman in a green jacket and black sunglasses outside in a phalanx
+		Hypothsis: a person is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.8922), tensor(0.9665)]
+		Premise: a woman in a green jacket and black sunglasses outside in a phalanx
+		Hypothsis: a adult is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.8922), tensor(0.9787)]
+		Premise: a woman in a green jacket and black sunglasses outside in a phalanx
+		Hypothsis: a female is outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.8922), tensor(0.9790)]
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 4, 'fail': 15, 'no_trans': 6, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 13
+Premise: a main street scene of a small town with an overhead welcome sign that says welcome to golden
+Hypothesis: a sign reads welcome to golden
+Markers: Prem- ['main', 'sign', 'golden', 'street', 'town'], Hyp- ['reads', 'welcome', 'sign', 'golden']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.06237015128135681
+Grammar Score Prem: 0.022480130195617676
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+		Premise: a main street scene of a small municipality with an overhead welcome sign that says welcome to golden
+		Hypothsis: a sign reads welcome to golden
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.0433), tensor(0.0225)]
+		Premise: a main street scene of a small district with an overhead welcome sign that says welcome to golden
+		Hypothsis: a sign reads welcome to golden
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.0356), tensor(0.0225)]
+	Transformations of type MNP^H
+		Premise: a main street scene of a small burg with an overhead welcome sign that says welcome to golden
+		Hypothsis: a sign reads welcome to golden
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.0479), tensor(0.0225)]
+		Premise: a main street scene of a small hometown with an overhead welcome sign that says welcome to golden
+		Hypothsis: a sign reads welcome to golden
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.0684), tensor(0.0225)]
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 3, 'fail': 1, 'no_trans': 9, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 17
+Premise: a brown dog running with two white and brown dogs on the seashore with crashing waves behind them
+Hypothesis: the dogs are running along the shore to meet their master who just beached his kayak
+Markers: Prem- ['running', 'dog', 'waves', 'seashore', 'dogs'], Hyp- ['kayak', 'dogs', 'beached', 'shore', 'master']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.972453773021698
+Grammar Score Prem: 0.9922112226486206
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: a brown dog running with two white and brown dogs on the seashore with crashing waves behind them
+		Hypothsis: the dogs are running along the shore to meet their lord who just beached his kayak
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9725), tensor(0.9901)]
+		Premise: a brown dog running with two white and brown dogs on the seashore with crashing waves behind them
+		Hypothsis: the dogs are running along the shore to meet their overlord who just beached his kayak
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9725), tensor(0.9921)]
+	Transformations of type PMEH^
+		Premise: a brown dog running with two white and brown dogs on the seashore with crashing waves behind them
+		Hypothsis: the dogs are running along the shore to meet their ruler who just beached his kayak
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9725), tensor(0.9907)]
+		Premise: a brown dog running with two white and brown dogs on the seashore with crashing waves behind them
+		Hypothsis: the dogs are running along the shore to meet their person who just beached his kayak
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9725), tensor(0.9898)]
+		Premise: a brown dog running with two white and brown dogs on the seashore with crashing waves behind them
+		Hypothsis: the dogs are running along the shore to meet their overlord who just beached his kayak
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9725), tensor(0.9921)]
+		Premise: a brown dog running with two white and brown dogs on the seashore with crashing waves behind them
+		Hypothsis: the dogs are running along the shore to meet their organism who just beached his kayak
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9725), tensor(0.9025)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 6, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 20
+Premise: a child in formal clothing is walking along the edge of a stony area that is littered in places
+Hypothesis: the child is wearing a hat
+Markers: Prem- ['clothing', 'formal', 'walking', 'littered', 'child'], Hyp- ['wearing', 'child', 'hat']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9895598888397217
+Grammar Score Prem: 0.9945709109306335
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: a child in formal clothing is walking along the edge of a stony area that is littered in places
+		Hypothsis: the child is wearing a chapeau
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9896), tensor(0.9948)]
+		Premise: a child in formal clothing is walking along the edge of a stony area that is littered in places
+		Hypothsis: the child is wearing a lid
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9896), tensor(0.9849)]
+	Transformations of type PMEH^
+		Premise: a child in formal clothing is walking along the edge of a stony area that is littered in places
+		Hypothsis: the child is wearing a covering
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9896), tensor(0.9845)]
+		Premise: a child in formal clothing is walking along the edge of a stony area that is littered in places
+		Hypothsis: the child is wearing a headdress
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9896), tensor(0.9953)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 3, 'fail': 1, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 1
+Example No: 21
+Premise: a white dog running in the backyard
+Hypothesis: the dog is chasing a stick
+Markers: Prem- ['running', 'white', 'dog', 'backyard'], Hyp- ['chasing', 'dog', 'stick']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9842661619186401
+Grammar Score Prem: 0.9934897422790527
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: a white dog running in the backyard
+		Hypothsis: the dog is chasing a branch
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9843), tensor(0.9938)]
+		Premise: a white dog running in the backyard
+		Hypothsis: the dog is chasing a limb
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9843), tensor(0.9936)]
+		Premise: a white dog running in the backyard
+		Hypothsis: the dog is chasing a stalk
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9843), tensor(0.9931)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 3, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 22
+Premise: three male workers in bright jackets are working in a field with shovels
+Hypothesis: there are some people digging a hole
+Markers: Prem- ['bright', 'field', 'workers', 'jackets', 'shovels'], Hyp- ['people', 'hole', 'digging']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9946073889732361
+Grammar Score Prem: 0.9933152794837952
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 2, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 24
+Premise: woman sitting in tree with dove
+Hypothesis: a woman and a bird are near each other
+Markers: Prem- ['sitting', 'woman', 'tree', 'dove'], Hyp- ['near', 'woman', 'bird']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.009353596717119217
+Grammar Score Prem: 0.9917833805084229
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+		Premise: woman sitting in tree with pigeon
+		Hypothsis: a woman and a bird are near each other
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.0091), tensor(0.9918)]
+	Transformations of type MNP^H
+		Premise: woman sitting in tree with turtledove
+		Hypothsis: a woman and a bird are near each other
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.0097), tensor(0.9918)]
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 1, 'fail': 1, 'no_trans': 9, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 28
+Premise: a young asian girl wearing a pink outfit is walking past a bicycle
+Hypothesis: a young girl wears a pink outfit
+Markers: Prem- ['asian', 'walking', 'bicycle', 'pink', 'girl'], Hyp- ['wears', 'young', 'outfit', 'girl', 'pink']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.9932954907417297
+Grammar Score Prem: 0.9950137734413147
+	Transformations of type EP^H
+		Premise: a young asian missy wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9863), tensor(0.9950)]
+		Premise: a young asian fille wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9898), tensor(0.9950)]
+	Transformations of type MEP^H
+		Premise: a young asian person wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9933), tensor(0.9950)]
+		Premise: a young asian adult wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9926), tensor(0.9950)]
+		Premise: a young asian female wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9936), tensor(0.9950)]
+		Premise: a young asian woman wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9935), tensor(0.9950)]
+	Transformations of type MNP^H
+		Premise: a young asian bimbo wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9942), tensor(0.9950)]
+		Premise: a young asian colleen wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9869), tensor(0.9950)]
+		Premise: a young asian flapper wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9935), tensor(0.9950)]
+		Premise: a young asian soubrette wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9888), tensor(0.9950)]
+		Premise: a young asian peri wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9675), tensor(0.9950)]
+		Premise: a young asian dame wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9933), tensor(0.9950)]
+		Premise: a young asian chachka wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9920), tensor(0.9950)]
+		Premise: a young asian belle wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9937), tensor(0.9950)]
+		Premise: a young asian gal wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9920), tensor(0.9950)]
+		Premise: a young asian rosebud wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9810), tensor(0.9950)]
+		Premise: a young asian mill-girl wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9918), tensor(0.9950)]
+		Premise: a young asian baby wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9920), tensor(0.9950)]
+		Premise: a young asian gamine wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9938), tensor(0.9950)]
+		Premise: a young asian chit wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9936), tensor(0.9950)]
+		Premise: a young asian lass wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9917), tensor(0.9950)]
+		Premise: a young asian maid wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9934), tensor(0.9950)]
+		Premise: a young asian tomboy wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a pink outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9930), tensor(0.9950)]
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: a young asian girl wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9933), tensor(0.9904)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+		Premise: a young asian missy wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9863), tensor(0.9904)]
+		Premise: a young asian fille wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9898), tensor(0.9904)]
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+		Premise: a young asian person wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9933), tensor(0.9904)]
+		Premise: a young asian adult wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9926), tensor(0.9904)]
+		Premise: a young asian female wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9936), tensor(0.9904)]
+		Premise: a young asian woman wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9935), tensor(0.9904)]
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+		Premise: a young asian bimbo wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9942), tensor(0.9904)]
+		Premise: a young asian colleen wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9869), tensor(0.9904)]
+		Premise: a young asian flapper wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9935), tensor(0.9904)]
+		Premise: a young asian soubrette wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9888), tensor(0.9904)]
+		Premise: a young asian peri wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9675), tensor(0.9904)]
+		Premise: a young asian dame wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9933), tensor(0.9904)]
+		Premise: a young asian chachka wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9920), tensor(0.9904)]
+		Premise: a young asian belle wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9937), tensor(0.9904)]
+		Premise: a young asian gal wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9920), tensor(0.9904)]
+		Premise: a young asian rosebud wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9810), tensor(0.9904)]
+		Premise: a young asian mill-girl wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9918), tensor(0.9904)]
+		Premise: a young asian baby wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9920), tensor(0.9904)]
+		Premise: a young asian gamine wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9938), tensor(0.9904)]
+		Premise: a young asian chit wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9936), tensor(0.9904)]
+		Premise: a young asian lass wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9917), tensor(0.9904)]
+		Premise: a young asian maid wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9934), tensor(0.9904)]
+		Premise: a young asian tomboy wearing a pink outfit is walking past a bicycle
+		Hypothsis: a young girl wears a color outfit
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9930), tensor(0.9904)]
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 21, 'fail': 26, 'no_trans': 4, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 32
+Premise: two dogs playing outside
+Hypothesis: there are canines in the yard
+Markers: Prem- ['outside', 'playing', 'dogs'], Hyp- ['yard', 'canines']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.9773489832878113
+Grammar Score Prem: 0.9946634769439697
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 11, 'no_rule': 4}
+
+Final Attack Status: 0
+Example No: 33
+Premise: a woman sitting on a bench in a park on a cloudy day
+Hypothesis: the woman is dancing in the streets
+Markers: Prem- ['bench', 'woman', 'sitting', 'park', 'cloudy'], Hyp- ['woman', 'dancing', 'streets']
+Ground Truth: 0
+Predicted label: 0
+Grammar Score Prem: 0.9822062253952026
+Grammar Score Prem: 0.9913540482521057
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+		Premise: a woman sitting on a bench in a park on a cloudy day
+		Hypothsis: the woman is dancing in the streets
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9822), tensor(0.9914)]
+	Transformations of type PMEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type PMNH^
+		Premise: a woman sitting on a bench in a park on a cloudy day
+		Hypothsis: the woman is dancing in the mews
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9822), tensor(0.9908)]
+		Premise: a woman sitting on a bench in a park on a cloudy day
+		Hypothsis: the woman is dancing in the alley
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9822), tensor(0.9923)]
+		Premise: a woman sitting on a bench in a park on a cloudy day
+		Hypothsis: the woman is dancing in the rue
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9822), tensor(0.9917)]
+		Premise: a woman sitting on a bench in a park on a cloudy day
+		Hypothsis: the woman is dancing in the avenue
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9822), tensor(0.9877)]
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			No transformations exist
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			No transformations exist
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			No transformations exist
+			Status counts: {'success': 2, 'fail': 3, 'no_trans': 9, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 34
+Premise: a child in a green shirt rides a bicycle
+Hypothesis: the child is a boy
+Markers: Prem- ['rides', 'shirt', 'green', 'child', 'bicycle'], Hyp- ['boy', 'child']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9944650530815125
+Grammar Score Prem: 0.9841012358665466
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: a child in a green shirt rides a bicycle
+		Hypothsis: the minor is a boy
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.9795)]
+		Premise: a child in a green shirt rides a bicycle
+		Hypothsis: the tike is a boy
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.4934)]
+		Premise: a child in a green shirt rides a bicycle
+		Hypothsis: the youngster is a boy
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.9786)]
+		Premise: a child in a green shirt rides a bicycle
+		Hypothsis: the kid is a boy
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.9707)]
+		Premise: a child in a green shirt rides a bicycle
+		Hypothsis: the tiddler is a boy
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.9898)]
+		Premise: a child in a green shirt rides a bicycle
+		Hypothsis: the nipper is a boy
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.9851)]
+	Transformations of type PMEH^
+		Premise: a child in a green shirt rides a bicycle
+		Hypothsis: the person is a boy
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.9672)]
+		Premise: a child in a green shirt rides a bicycle
+		Hypothsis: the juvenile is a boy
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.9864)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 8, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 36
+Premise: fully clothed adults splash each other as they play in water
+Hypothesis: the adults are playing in a pool
+Markers: Prem- ['water', 'play', 'clothed', 'adults', 'splash'], Hyp- ['playing', 'adults', 'pool']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9890362620353699
+Grammar Score Prem: 0.9952698349952698
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: fully clothed adults splash each other as they play in water
+		Hypothsis: the adults are playing in a game
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9890), tensor(0.9949)]
+		Premise: fully clothed adults splash each other as they play in water
+		Hypothsis: the adults are playing in a activity
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9890), tensor(0.9901)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 2, 'fail': 0, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 1
+Example No: 39
+Premise: the girl in the red dress is raising her hand amidst a group of people
+Hypothesis: a young asian girl in a red dress is in a crowd of people
+Markers: Prem- ['raising', 'red', 'dress', 'girl', 'hand'], Hyp- ['people', 'dress', 'asian', 'girl', 'crowd']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9940593242645264
+Grammar Score Prem: 0.9933356046676636
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: the girl in the red dress is raising her hand amidst a group of people
+		Hypothsis: a young asian girl in a red dress is in a group of people
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9941), tensor(0.9875)]
+		Premise: the girl in the red dress is raising her hand amidst a group of people
+		Hypothsis: a young asian girl in a red dress is in a gathering of people
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9941), tensor(0.9921)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 2, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 41
+Premise: craftsman hanging from a rope
+Hypothesis: the rope is long
+Markers: Prem- ['hanging', 'craftsman', 'rope'], Hyp- ['long', 'rope']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.01450568437576294
+Grammar Score Prem: 0.9908977150917053
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: craftsman hanging from a rope
+		Hypothsis: the whole is long
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0145), tensor(0.8999)]
+		Premise: craftsman hanging from a rope
+		Hypothsis: the line is long
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0145), tensor(0.9800)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 2, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 42
+Premise: short order cook preparing a meal in a kitchen
+Hypothesis: short order cook preparing a meal in a kitchen at his place of employment
+Markers: Prem- ['short', 'preparing', 'meal', 'kitchen', 'cook'], Hyp- ['employment', 'preparing', 'meal', 'kitchen', 'cook']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.02664255164563656
+Grammar Score Prem: 0.02888987958431244
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 2, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 45
+Premise: four dancers each dressed in black with a red ribbon around their waist are dancing
+Hypothesis: four dancers are wearing black and red costumes and doing the tango
+Markers: Prem- ['dressed', 'black', 'dancing', 'ribbon', 'dancers'], Hyp- ['red', 'black', 'costumes', 'dancers', 'tango']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9938761591911316
+Grammar Score Prem: 0.9944308400154114
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 2, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 47
+Premise: a baby laughs at his reflection in a mirror
+Hypothesis: there is an infant in this picture
+Markers: Prem- ['baby', 'laughs', 'reflection', 'mirror'], Hyp- ['picture', 'infant']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.994345486164093
+Grammar Score Prem: 0.9941264390945435
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+		Premise: a baby laughs at his reflection in a instrumentality
+		Hypothsis: there is an infant in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9681), tensor(0.9941)]
+		Premise: a baby laughs at his reflection in a reflector
+		Hypothsis: there is an infant in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9937), tensor(0.9941)]
+		Premise: a baby laughs at his reflection in a device
+		Hypothsis: there is an infant in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9914), tensor(0.9941)]
+	Transformations of type MNP^H
+		Premise: a baby laughs at his reflection in a speculum
+		Hypothsis: there is an infant in this picture
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9939), tensor(0.9941)]
+	Transformations of type PEH^
+		Premise: a baby laughs at his reflection in a mirror
+		Hypothsis: there is an babe in this picture
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9943), tensor(0.9930)]
+		Premise: a baby laughs at his reflection in a mirror
+		Hypothsis: there is an baby in this picture
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9943), tensor(0.9942)]
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+		Premise: a baby laughs at his reflection in a instrumentality
+		Hypothsis: there is an babe in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9681), tensor(0.9930)]
+		Premise: a baby laughs at his reflection in a instrumentality
+		Hypothsis: there is an baby in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9681), tensor(0.9942)]
+		Premise: a baby laughs at his reflection in a reflector
+		Hypothsis: there is an babe in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9937), tensor(0.9930)]
+		Premise: a baby laughs at his reflection in a reflector
+		Hypothsis: there is an baby in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9937), tensor(0.9942)]
+		Premise: a baby laughs at his reflection in a device
+		Hypothsis: there is an babe in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9914), tensor(0.9930)]
+		Premise: a baby laughs at his reflection in a device
+		Hypothsis: there is an baby in this picture
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9914), tensor(0.9942)]
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+		Premise: a baby laughs at his reflection in a speculum
+		Hypothsis: there is an babe in this picture
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9939), tensor(0.9930)]
+		Premise: a baby laughs at his reflection in a speculum
+		Hypothsis: there is an baby in this picture
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9939), tensor(0.9942)]
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 9, 'fail': 5, 'no_trans': 6, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 49
+Premise: gray dog with muzzle and with the 8 yellow striped identification is running
+Hypothesis: a gray dog is about to win a race
+Markers: Prem- ['yellow', 'running', 'gray', 'muzzle', 'dog'], Hyp- ['race', 'win', 'dog', 'gray']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.016957061365246773
+Grammar Score Prem: 0.9953206181526184
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: gray dog with muzzle and with the 8 yellow striped identification is running
+		Hypothsis: a greyish dog is about to win a race
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0170), tensor(0.9955)]
+		Premise: gray dog with muzzle and with the 8 yellow striped identification is running
+		Hypothsis: a grayish dog is about to win a race
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0170), tensor(0.9955)]
+		Premise: gray dog with muzzle and with the 8 yellow striped identification is running
+		Hypothsis: a grey dog is about to win a race
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0170), tensor(0.9951)]
+	Transformations of type PMEH^
+		Premise: gray dog with muzzle and with the 8 yellow striped identification is running
+		Hypothsis: a grey dog is about to win a race
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0170), tensor(0.9951)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 4, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 51
+Premise: a man in a hoodie does an ollie on his skateboard with people in the park in the background
+Hypothesis: the skateboard is on the ground
+Markers: Prem- ['people', 'hoodie', 'park', 'skateboard', 'ollie'], Hyp- ['ground', 'skateboard']
+Ground Truth: 0
+Predicted label: 0
+Grammar Score Prem: 0.9824981093406677
+Grammar Score Prem: 0.9912269711494446
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type PMNH^
+			No transformations exist
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			No transformations exist
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			No transformations exist
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			No transformations exist
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 11, 'no_rule': 4}
+
+Final Attack Status: 0
+Example No: 54
+Premise: three cheerleaders are rooting for their team
+Hypothesis: one of the cheerleaders is male
+Markers: Prem- ['rooting', 'team', 'cheerleaders'], Hyp- ['male', 'cheerleaders']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9944539666175842
+Grammar Score Prem: 0.9897552132606506
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: three cheerleaders are rooting for their team
+		Hypothsis: one of the cheerleaders is male
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.9898)]
+	Transformations of type PMEH^
+		Premise: three cheerleaders are rooting for their team
+		Hypothsis: one of the cheerleader is male
+			Attack status: Success
+			Label: 1
+			Grammar score: [tensor(0.9945), tensor(0.0635)]
+		Premise: three cheerleaders are rooting for their team
+		Hypothsis: one of the organism is male
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9945), tensor(0.0679)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 1, 'fail': 2, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 1
+Example No: 55
+Premise: a group of teen kids loitering
+Hypothesis: a group of teen kids are wearing baseball caps
+Markers: Prem- ['group', 'kids', 'teen', 'loitering'], Hyp- ['group', 'baseball', 'kids', 'teen', 'caps']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9830161929130554
+Grammar Score Prem: 0.9947682619094849
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: a group of teen kids loitering
+		Hypothsis: a group of teen kids are wearing baseball caps
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9830), tensor(0.9948)]
+	Transformations of type PMEH^
+		Premise: a group of teen kids loitering
+		Hypothsis: a group of teen kids are wearing baseball covering
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9830), tensor(0.9493)]
+		Premise: a group of teen kids loitering
+		Hypothsis: a group of teen kids are wearing baseball cap
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9830), tensor(0.9899)]
+		Premise: a group of teen kids loitering
+		Hypothsis: a group of teen kids are wearing baseball clothing
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9830), tensor(0.9948)]
+		Premise: a group of teen kids loitering
+		Hypothsis: a group of teen kids are wearing baseball headdress
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9830), tensor(0.9884)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 1, 'fail': 4, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 1
+Example No: 57
+Premise: a little orange cabin with a white dog running near it in the woods
+Hypothesis: a white cat next to a red cabin in the valley
+Markers: Prem- ['running', 'orange', 'dog', 'woods', 'cabin'], Hyp- ['red', 'white', 'valley', 'cabin', 'cat']
+Ground Truth: 0
+Predicted label: 0
+Grammar Score Prem: 0.9847735166549683
+Grammar Score Prem: 0.7982855439186096
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+		Premise: a little orange building with a white dog running near it in the woods
+		Hypothsis: a white cat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9844), tensor(0.7983)]
+		Premise: a little orange dwelling with a white dog running near it in the woods
+		Hypothsis: a white cat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9817), tensor(0.7983)]
+		Premise: a little orange house with a white dog running near it in the woods
+		Hypothsis: a white cat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9867), tensor(0.7983)]
+		Premise: a little orange housing with a white dog running near it in the woods
+		Hypothsis: a white cat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9366), tensor(0.7983)]
+		Premise: a little orange structure with a white dog running near it in the woods
+		Hypothsis: a white cat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9870), tensor(0.7983)]
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type PMNH^
+		Premise: a little orange cabin with a white dog running near it in the woods
+		Hypothsis: a white wildcat next to a red cabin in the valley
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9848), tensor(0.7084)]
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			No transformations exist
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+		Premise: a little orange building with a white dog running near it in the woods
+		Hypothsis: a white wildcat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9844), tensor(0.7084)]
+		Premise: a little orange dwelling with a white dog running near it in the woods
+		Hypothsis: a white wildcat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9817), tensor(0.7084)]
+		Premise: a little orange house with a white dog running near it in the woods
+		Hypothsis: a white wildcat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9867), tensor(0.7084)]
+		Premise: a little orange housing with a white dog running near it in the woods
+		Hypothsis: a white wildcat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9366), tensor(0.7084)]
+		Premise: a little orange structure with a white dog running near it in the woods
+		Hypothsis: a white wildcat next to a red cabin in the valley
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9870), tensor(0.7084)]
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			No transformations exist
+			Status counts: {'success': 10, 'fail': 1, 'no_trans': 8, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 63
+Premise: a businessman is talking on his cellphone while smoking a cigarette at an intersection under construction
+Hypothesis: a man is having a conversation on his phone while trying to ignore the sounds of construction
+Markers: Prem- ['cellphone', 'businessman', 'intersection', 'smoking', 'cigarette'], Hyp- ['sounds', 'conversation', 'ignore', 'construction', 'phone']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9939536452293396
+Grammar Score Prem: 0.994367778301239
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: a businessman is talking on his cellphone while smoking a cigarette at an intersection under construction
+		Hypothsis: a man is having a conversation on his telephone while trying to ignore the sounds of construction
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9940), tensor(0.9944)]
+	Transformations of type PMEH^
+		Premise: a businessman is talking on his cellphone while smoking a cigarette at an intersection under construction
+		Hypothsis: a man is having a conversation on his instrumentality while trying to ignore the sounds of construction
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9940), tensor(0.9923)]
+		Premise: a businessman is talking on his cellphone while smoking a cigarette at an intersection under construction
+		Hypothsis: a man is having a conversation on his equipment while trying to ignore the sounds of construction
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9940), tensor(0.9928)]
+		Premise: a businessman is talking on his cellphone while smoking a cigarette at an intersection under construction
+		Hypothsis: a man is having a conversation on his telephone while trying to ignore the sounds of construction
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9940), tensor(0.9944)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 4, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 64
+Premise: a small group of people are looking over vegetables at a farmers market
+Hypothesis: there are people at a farmers market
+Markers: Prem- ['looking', 'people', 'market', 'vegetables', 'farmers'], Hyp- ['people', 'market', 'farmers']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.9956116080284119
+Grammar Score Prem: 0.993309736251831
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 11, 'no_rule': 4}
+
+Final Attack Status: 0
+Example No: 68
+Premise: a soccer player dressed in blue and white is kicking the ball to his teammate while other teammates and opponents dressed in red watch
+Hypothesis: the team in blue is winning the game
+Markers: Prem- ['kicking', 'teammates', 'teammate', 'player', 'soccer'], Hyp- ['game', 'winning', 'team', 'blue']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9937410950660706
+Grammar Score Prem: 0.9903956055641174
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 2, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 69
+Premise: a closely contested swimming race
+Hypothesis: there is water in the photo
+Markers: Prem- ['closely', 'contested', 'race', 'swimming'], Hyp- ['photo', 'water']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.9900999665260315
+Grammar Score Prem: 0.9931754469871521
+	Transformations of type EP^H
+		Premise: a closely contested swim race
+		Hypothsis: there is water in the photo
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9897), tensor(0.9932)]
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 1, 'no_trans': 10, 'no_rule': 4}
+
+Final Attack Status: 0
+Example No: 74
+Premise: a worker in a white straw hat with pink gloves on tending a small garden
+Hypothesis: a worker in a white straw hat and pink gloves is digging up weeds
+Markers: Prem- ['gloves', 'tending', 'garden', 'hat', 'worker'], Hyp- ['gloves', 'hat', 'weeds', 'digging', 'worker']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.6521599292755127
+Grammar Score Prem: 0.9949041604995728
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a twiner in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9805)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a wiper in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9892)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a puller in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9895)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a caster in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9934)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a workmate in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9924)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a processor in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9937)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a splitter in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9847)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a shoveler in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9942)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a stripper in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9949)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a stemmer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9893)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a hanger in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9818)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a comber in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9846)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a pruner in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9936)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a beater in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9899)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a slave in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9950)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a assistant in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9942)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a freelancer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9940)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a wallah in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9854)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a employee in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9948)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a scab in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9892)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a scrubber in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9839)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a sheller in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9933)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a skidder in a white straw hat and pink gloves is digging up weeds
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.6522), tensor(0.9821)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a finisher in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9913)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a throwster in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9916)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a driver in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9945)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a part-timer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9937)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a stainer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9240)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a tiler in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9936)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a topper in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9864)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a volunteer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9937)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a plier in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9916)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a teaser in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9915)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a stringer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9902)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a mopper in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9927)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a moonlighter in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9920)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a bleacher in a white straw hat and pink gloves is digging up weeds
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.6522), tensor(0.9932)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a oiler in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9927)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a shelver in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9915)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a gutter in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9612)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a melter in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9887)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a servant in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9947)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a toiler in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9945)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a cornhusker in a white straw hat and pink gloves is digging up weeds
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.6522), tensor(0.9946)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a winder in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9879)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a peeler in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9925)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a tapper in a white straw hat and pink gloves is digging up weeds
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.6522), tensor(0.9914)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a planter in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9924)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a solderer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9944)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a boatman in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9946)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a shingler in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9931)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a splicer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9932)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a collector in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9932)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a tacker in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9903)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a quarryman in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9946)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a muzzler in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9871)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a nailer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9859)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a temp in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9935)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a washer in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9916)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a carter in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9943)]
+		Premise: a worker in a white straw hat with pink gloves on tending a small garden
+		Hypothsis: a lamplighter in a white straw hat and pink gloves is digging up weeds
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.6522), tensor(0.9931)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 4, 'fail': 57, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 1
+Example No: 76
+Premise: a person is doing a bicycle trick over the rocks while a bystander gives a thumbs up
+Hypothesis: nobody is cheering someone on
+Markers: Prem- ['person', 'rocks', 'trick', 'bystander', 'bicycle'], Hyp- ['cheering']
+Ground Truth: 0
+Predicted label: 0
+Grammar Score Prem: 0.9920624494552612
+Grammar Score Prem: 0.990760862827301
+	Transformations of type EP^H
+		Premise: a person is doing a wheel trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9922), tensor(0.9908)]
+		Premise: a person is doing a cycle trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9913), tensor(0.9908)]
+		Premise: a person is doing a bike trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9921), tensor(0.9908)]
+	Transformations of type MEP^H
+		Premise: a person is doing a velocipede trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9913), tensor(0.9908)]
+		Premise: a person is doing a ordinary trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9915), tensor(0.9908)]
+		Premise: a person is doing a bicycle-built-for-two trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9922), tensor(0.9908)]
+		Premise: a person is doing a push-bike trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Success
+			Label: 0
+			Grammar score: [tensor(0.9926), tensor(0.9908)]
+	Transformations of type MNP^H
+		Premise: a person is doing a conveyance trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9912), tensor(0.9908)]
+		Premise: a person is doing a instrumentality trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9921), tensor(0.9908)]
+		Premise: a person is doing a vehicle trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9912), tensor(0.9908)]
+		Premise: a person is doing a container trick over the rocks while a bystander gives a thumbs up
+		Hypothsis: nobody is cheering someone on
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9909), tensor(0.9908)]
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type PMNH^
+			No transformations exist
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			No transformations exist
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			No transformations exist
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			No transformations exist
+			Status counts: {'success': 4, 'fail': 7, 'no_trans': 8, 'no_rule': 4}
+
+Final Attack Status: 1
+Example No: 79
+Premise: person in a green hooded sweatshirt looking at the view
+Hypothesis: the person is trying to remember the way back to their car
+Markers: Prem- ['person', 'view', 'green', 'hooded', 'sweatshirt'], Hyp- ['way', 'trying', 'person', 'remember', 'car']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.0169918704777956
+Grammar Score Prem: 0.9945403933525085
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: person in a green hooded sweatshirt looking at the view
+		Hypothsis: the person is trying to remember the way back to their machine
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0170), tensor(0.9946)]
+		Premise: person in a green hooded sweatshirt looking at the view
+		Hypothsis: the person is trying to remember the way back to their automobile
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0170), tensor(0.9938)]
+		Premise: person in a green hooded sweatshirt looking at the view
+		Hypothsis: the person is trying to remember the way back to their auto
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0170), tensor(0.9876)]
+		Premise: person in a green hooded sweatshirt looking at the view
+		Hypothsis: the person is trying to remember the way back to their motorcar
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.0170), tensor(0.9944)]
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 4, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 80
+Premise: two dogs run along the green grass near the water
+Hypothesis: the two dogs are outside
+Markers: Prem- ['green', 'water', 'run', 'grass', 'dogs'], Hyp- ['outside', 'dogs']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.9948762059211731
+Grammar Score Prem: 0.9930413961410522
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 11, 'no_rule': 4}
+
+Final Attack Status: 0
+Example No: 84
+Premise: a group of people marching in a parade waving flags
+Hypothesis: the group of people are holding something in their hands  they are outside
+Markers: Prem- ['people', 'flags', 'waving', 'parade', 'marching'], Hyp- ['outside', 'holding', 'hands', 'group', 'people']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.9840750694274902
+Grammar Score Prem: 0.06326286494731903
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: a group of people marching in a parade waving flags
+		Hypothsis: the group of abstraction are holding something in their hands  they are outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9841), tensor(0.0400)]
+		Premise: a group of people marching in a parade waving flags
+		Hypothsis: the group of entity are holding something in their hands  they are outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9841), tensor(0.0221)]
+		Premise: a group of people marching in a parade waving flags
+		Hypothsis: the group of group are holding something in their hands  they are outside
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9841), tensor(0.0210)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 3, 'no_trans': 10, 'no_rule': 4}
+
+Final Attack Status: 0
+Example No: 86
+Premise: a grandma holds her grandsons hand at a train stop
+Hypothesis: grandma and grandson
+Markers: Prem- ['train', 'holds', 'grandsons', 'hand', 'grandma'], Hyp- ['grandson', 'grandma']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9898932576179504
+Grammar Score Prem: 0.9680137634277344
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 0, 'no_trans': 2, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 89
+Premise: two people jousting with lances and shields on horses while people watch from under a tent and outside of the tent
+Hypothesis: two people are jousting
+Markers: Prem- ['people', 'horses', 'tent', 'lances', 'jousting'], Hyp- ['people', 'jousting']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.557249903678894
+Grammar Score Prem: 0.9950785636901855
+	Transformations of type EP^H
+		Premise: two people jousting with lances and shields on horses while people watch from under a tent and outside of the tent
+		Hypothsis: two people are jousting
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.5572), tensor(0.9951)]
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+		Premise: two people joust with lances and shields on horses while people watch from under a tent and outside of the tent
+		Hypothsis: two people are jousting
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9842), tensor(0.9951)]
+	Transformations of type PEH^
+		Premise: two people jousting with lances and shields on horses while people watch from under a tent and outside of the tent
+		Hypothsis: two people are jousting
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.5572), tensor(0.9951)]
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+		Premise: two people jousting with lances and shields on horses while people watch from under a tent and outside of the tent
+		Hypothsis: two people are jousting
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.5572), tensor(0.9951)]
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+		Premise: two people joust with lances and shields on horses while people watch from under a tent and outside of the tent
+		Hypothsis: two people are jousting
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9842), tensor(0.9951)]
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 5, 'no_trans': 6, 'no_rule': 4}
+
+Final Attack Status: 0
+Example No: 91
+Premise: a man and a woman looking at a red sculpture
+Hypothesis: a couple admires modern art at an art exhibit
+Markers: Prem- ['man', 'woman', 'red', 'looking', 'sculpture'], Hyp- ['admires', 'couple', 'modern', 'art', 'exhibit']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9842122197151184
+Grammar Score Prem: 0.9915334582328796
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+		Premise: a man and a woman looking at a red sculpture
+		Hypothsis: a couple admires modern art at an art show
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9842), tensor(0.9926)]
+		Premise: a man and a woman looking at a red sculpture
+		Hypothsis: a couple admires modern art at an art display
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9842), tensor(0.9834)]
+	Transformations of type PMEH^
+		Premise: a man and a woman looking at a red sculpture
+		Hypothsis: a couple admires modern art at an art diversion
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9842), tensor(0.9721)]
+		Premise: a man and a woman looking at a red sculpture
+		Hypothsis: a couple admires modern art at an art display
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9842), tensor(0.9834)]
+		Premise: a man and a woman looking at a red sculpture
+		Hypothsis: a couple admires modern art at an art show
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9842), tensor(0.9926)]
+		Premise: a man and a woman looking at a red sculpture
+		Hypothsis: a couple admires modern art at an art entertainment
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9842), tensor(0.9344)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 6, 'no_trans': 0, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 92
+Premise: a woman wearing a sweater and jeans is playing on a tire swing with two little children in an outdoor park
+Hypothesis: the mother is playing with her children
+Markers: Prem- ['playing', 'outdoor', 'woman', 'park', 'swing'], Hyp- ['playing', 'children', 'mother']
+Ground Truth: 2
+Predicted label: 2
+Grammar Score Prem: 0.9942620992660522
+Grammar Score Prem: 0.9914379715919495
+	Transformations of type EP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^H
+			Attack Status: 'No  label shift defined
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+		Premise: a woman wearing a sweater and jeans is playing on a tire swing with two little children in an outdoor park
+		Hypothsis: the genitor is playing with her children
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9943), tensor(0.9934)]
+		Premise: a woman wearing a sweater and jeans is playing on a tire swing with two little children in an outdoor park
+		Hypothsis: the progenitor is playing with her children
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9943), tensor(0.9954)]
+		Premise: a woman wearing a sweater and jeans is playing on a tire swing with two little children in an outdoor park
+		Hypothsis: the parent is playing with her children
+			Attack status: Failed
+			Label: 2
+			Grammar score: [tensor(0.9943), tensor(0.9929)]
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 3, 'no_trans': 1, 'no_rule': 13}
+
+Final Attack Status: 0
+Example No: 93
+Premise: a woman wearing a sweater and jeans is playing on a tire swing with two little children in an outdoor park
+Hypothesis: the woman and two kids are outdoors
+Markers: Prem- ['playing', 'outdoor', 'woman', 'park', 'swing'], Hyp- ['woman', 'outdoors', 'kids']
+Ground Truth: 1
+Predicted label: 1
+Grammar Score Prem: 0.9942620992660522
+Grammar Score Prem: 0.9887499809265137
+	Transformations of type EP^H
+			No transformations exist
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+		Premise: a woman wearing a sweater and jeans is playing on a tire move with two little children in an outdoor park
+		Hypothsis: the woman and two kids are outdoors
+			Attack status: Failed
+			Label: 1
+			Grammar score: [tensor(0.9926), tensor(0.9887)]
+	Transformations of type PEH^
+			No transformations exist
+	Transformations of type PMEH^
+			No transformations exist
+	Transformations of type PMNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^EH^
+			No transformations exist
+	Transformations of type EP^MEH^
+			No transformations exist
+	Transformations of type EP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			No transformations exist
+	Transformations of type MEP^MNH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			No transformations exist
+	Transformations of type MNP^MNH^
+			Attack Status: 'No  label shift defined
+			Status counts: {'success': 0, 'fail': 1, 'no_trans': 10, 'no_rule': 4}
+
+Final Attack Status: 0
+Example No: 97
+Premise: two children one in a yellow shirt and the other in red rain boots swing on the swings at a playground
+Hypothesis: the children are watching television
+Markers: Prem- ['yellow', 'children', 'playground', 'swing', 'swings'], Hyp- ['watching', 'children', 'television']
+Ground Truth: 0
+Predicted label: 0
+Grammar Score Prem: 0.9847277402877808
+Grammar Score Prem: 0.9957082271575928
+	Transformations of type EP^H
+		Premise: two children one in a yellow shirt and the other in red rain boots swing on the sways at a playground
+		Hypothsis: the children are watching television
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9729), tensor(0.9957)]
+		Premise: two children one in a yellow shirt and the other in red rain boots swing on the swings at a playground
+		Hypothsis: the children are watching television
+			Attack status: Failed
+			Label: 0
+			Grammar score: [tensor(0.9847), tensor(0.9957)]
+	Transformations of type MEP^H
+			No transformations exist
+	Transformations of type MNP^H
+			No transformations exist
+	Transformations of type PEH^
+		Premise: two children one in a yellow shirt and the other in red rain boots swing on the swings at a playground
+		Hypothsis: the children are watching video
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9847), tensor(0.9900)]
+		Premise: two children one in a yellow shirt and the other in red rain boots swing on the swings at a playground
+		Hypothsis: the children are watching TV
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9847), tensor(0.9955)]
+	Transformations of type PMEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type PMNH^
+			No transformations exist
+	Transformations of type EP^EH^
+		Premise: two children one in a yellow shirt and the other in red rain boots swing on the sways at a playground
+		Hypothsis: the children are watching video
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9729), tensor(0.9900)]
+		Premise: two children one in a yellow shirt and the other in red rain boots swing on the sways at a playground
+		Hypothsis: the children are watching TV
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9729), tensor(0.9955)]
+		Premise: two children one in a yellow shirt and the other in red rain boots swing on the swings at a playground
+		Hypothsis: the children are watching video
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9847), tensor(0.9900)]
+		Premise: two children one in a yellow shirt and the other in red rain boots swing on the swings at a playground
+		Hypothsis: the children are watching TV
+			Attack status: Success
+			Label: 2
+			Grammar score: [tensor(0.9847), tensor(0.9955)]
+	Transformations of type EP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type EP^MNH^
+			No transformations exist
+	Transformations of type MEP^EH^
+			No transformations exist
+	Transformations of type MEP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MEP^MNH^
+			No transformations exist
+	Transformations of type MNP^EH^
+			No transformations exist
+	Transformations of type MNP^MEH^
+			Attack Status: 'No  label shift defined
+	Transformations of type MNP^MNH^
+			No transformations exist
+			Status counts: {'success': 6, 'fail': 2, 'no_trans': 8, 'no_rule': 4}
+
+Final Attack Status: 1
+Total status counts: {'success': 81, 'fail': 194, 'no_trans': 169, 'no_rule': 371}
+Example wise status counts: {0: 23, 1: 18, 2: 0}
